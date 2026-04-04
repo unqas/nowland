@@ -65,27 +65,35 @@ revenue to the Syntropy Protocol.
 
 If the Licensee utilizes this DNA to generate fiat profit or financial surplus, 
 they are legally granted Commercial Rights solely under the condition precedent 
-that all resulting net revenue is distributed via the following thermodynamic 
+that all resulting net revenue is processed through a recognized Hub operating 
+under the Syntropy Protocol, and distributed via the following thermodynamic 
 split:
 
-    A. 80% (The Kinetic Source): Retained entirely by the Licensee(s) executing 
-       the physical labor.
+    A. 80% (The Kinetic Source): Routed by the Hub directly to the Licensee(s)
+       who executed the physical labor.
 
-    B. 10% (The Local Pod): Placed into a verifiable treasury reserved 
-       exclusively for the health, tooling, infrastructure, and biological 
-       peace of the Licensee's immediate team or local community.
+    B. 10% (The Local Pod): Routed by the Hub into a verifiable treasury 
+       reserved exclusively for the health, tooling, infrastructure, and 
+       biological peace of the Licensee's immediate team or local community.
 
-    C. 10% (The Genesis Hub Remittance): Remitted directly to the Licensor 
-       (UNQA). The Licensor is bound by the ecosystem's internal physics to 
-       instantly fracture this remittance into the Hub (5% for maintenance), 
-       the Helix (3% perpetual royalty to the original DNA Architects / 
-       Co-Uplifting Engine), and the Grid (2% for global infrastructure and 
-       server systems).
+    C. 5% (The Hub): Retained by the Hub for the maintenance of the legal 
+       Membrane, physical infrastructure, and ecosystem security.
 
-By processing the 10% remittance to the Genesis Hub and retaining 10% for their 
-Pod, the Licensee legally secures their commercial rights in perpetuity. There 
-is no upfront fiat toll; the Licensee shares only the surplus of the order 
-they create.
+    D. 3% (The Helix): Routed by the Hub to the Architect(s) whose DNA 
+       Templates were utilized in the execution of the work. This is the 
+       Co-Uplifting Engine.
+
+    E. 2% (The Grid): Routed by the Hub to the global maintainers of the 
+       Nowland OS infrastructure.
+
+The Hub processes the split as a single, atomic operation. The Licensee 
+receives their 80% and their Pod receives its 10%. The internal fracture of 
+the remaining 10% is the Hub's thermodynamic responsibility.
+
+By operating through a recognized Hub and honoring the Syntropy Split, the 
+Licensee legally secures their commercial rights in perpetuity. There is no 
+upfront fiat toll; the Licensee shares only the surplus of the order they 
+create.
 
 --------------------------------------------------------------------------------
 ARTICLE 4. ATTRIBUTION AND SHARE-ALIKE
@@ -107,8 +115,8 @@ ARTICLE 5. FRICTIONLESS ENFORCEABILITY & EXILE
 This License relies on the natural gravity of Consilience.
 
 5.1 Breach: If a Commercial entity utilizes this DNA to extract fiat profit 
-    without routing the required 10% remittance to the Genesis Hub or 
-    maintaining the 10% Pod reserve, they are operating in material breach of 
+    without operating through a recognized Hub or without honoring the 
+    Syntropy Split (80/10/5/3/2), they are operating in material breach of 
     this License.
 
 5.2 Exile: Upon material breach, all rights granted to the Licensee under this 
@@ -141,9 +149,15 @@ ARTICLE 6. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
 ARTICLE 7. ACCEPTANCE
 --------------------------------------------------------------------------------
 
-By viewing, downloading, cloning, or executing this repository, the Licensee 
-acknowledges the physics of the system. The Licensee agrees to protect the 
-Commons, enforce the Split, and prioritize Syntropy over extraction.
+7.1 Non-Commercial Use: By downloading, cloning, or modifying this repository, 
+    the Licensee accepts the terms of Article 2 (Non-Commercial Grant) and 
+    Article 4 (Attribution and Share-Alike).
+
+7.2 Commercial Use: The Commercial Covenant (Article 3) is activated solely 
+    when the Licensee generates fiat revenue using this DNA. By generating 
+    such revenue, the Licensee explicitly agrees to the Syntropy Split and 
+    all terms of this License. Failure to process revenue through a recognized 
+    Hub constitutes material breach under Article 5.
 
 ================================================================================
                                END OF LICENSE
