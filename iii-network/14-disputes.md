@@ -1,4 +1,4 @@
-## Chapter 13: The Circuit Breaker — Resolving Disputes Without Lawyers
+## Chapter 14: The Circuit Breaker — Resolving Disputes Without Lawyers
 
 > **TL;DR:** Subjective disputes are metabolized through a fast, frictionless "Peer Audit" run by randomly selected domain experts, ensuring that honesty is mathematically cheaper than dishonesty.
 
@@ -11,6 +11,10 @@ A developer delivers a software script, and the client Node argues the code is b
 The fiat world solves this problem with lawyers, courts, and the threat of financial ruin. This "solution" burns enormous kinetic energy in friction, often destroying more value in legal fees than the original dispute was worth. It is thermodynamic insanity.
 
 In a Symbiocracy, we do not eliminate dispute. We metabolize it.
+
+### The First Line of Defense: Local Resolution
+
+Before jumping to formal audits, friction must be handled locally. If the Vacuum was simple and involved members of the same Pod, they resolve it face-to-face. A system that triggers a global audit for every minor disagreement degrades into bureaucracy. We do not want a system where every minor misstep triggers a systemic investigation just because we fear one person out of 100,000 might have probability to steal 3%. The formal mechanisms below exist strictly for when local, human-to-human Consilience fails.
 
 ### The Acceptance Window
 
@@ -25,16 +29,20 @@ If the Acceptance Window expires without action, the system treats silence as ac
 
 If the client Flags the deliverable, the dispute enters the Peer Audit — the Symbiocracy's immune response.
 
-The system randomly selects **three Nodes** from the broader Hub who possess verified skill tags relevant to the disputed domain. If the dispute is about code, three developers are pulled. If it's about design, three designers. These auditors review the original Vacuum specification, the submitted deliverable, and both parties' claims.
+The system assigns a panel of auditors from the broader Hub who possess verified skill tags relevant to the disputed domain. The selection mechanics are strict:
+1. **Scale:** The number of auditors scales with the size of the project. A minor 50b script tweak might pull 3 auditors. A massive Hub-level infrastructure contract might pull 15. The bigger the project, the more eyes are required.
+2. **LSS Weighting:** Selection is mathematically weighted by your Lifetime Syntropy Score (LSS) in that specific domain. The more proven experience you have, the higher your chance of being drafted to audit it.
+3. **Anonymity:** All project data, the identity of the Battery, and the identity of the Client are entirely scrubbed. The auditors judge the pure physical reality of the work without bias.
 
-Each auditor renders an independent verdict: **Accepted** or **Rejected**.
+Each auditor renders an independent verdict: **Accepted** or **Rejected**. Majority rules.
 
-Majority rules.
+* If the auditors accept the work, the circuit closes. The Battery is paid. The client's Flag was a false alarm, and the client absorbs the auditor commission to discourage frivolous disputes.
+* If the auditors reject the work, the Battery must revise and resubmit. The Battery absorbs the auditor commission. The Vacuum re-opens with a clear specification of what must be fixed.
 
-* If two of three auditors accept the work, the circuit closes. The Battery is paid. The client's Flag was a false alarm, and the client absorbs a small audit cost (~1b) to discourage frivolous disputes.
-* If two of three auditors reject the work, the Battery must revise and resubmit. The Battery absorbs the audit cost. The Vacuum re-opens with a clear specification of what must be fixed.
+The auditors are compensated with a fee drawn directly from the losing party, making the audit itself a lucrative form of Syntropy for high-LSS Nodes. Whoever failed, pays the commission.
 
-The Peer Audit is fast, frictionless, and incorruptible — because the auditors are randomly selected, cryptographically anonymous during the review, and have no financial relationship to either party. They are compensated with a small fee drawn from the dispute cost, making the audit itself a form of Syntropy.
+#### The Appeal Mechanism
+If the losing party strongly believes the initial auditors were wrong or failed to understand the context, they can trigger an **Appeal**. This escalates the dispute to a larger, higher-LSS jury. However, the cost of a failed appeal is exponentially higher. This preserves the presumption of innocence and the fundamental right to defend your physical work, while severely penalizing those who weaponize the appeal process as a delay tactic.
 
 ### The Exile Threshold
 
@@ -88,7 +96,7 @@ When a dispute is irreconcilable — when no amount of evidence, prototyping, or
 
 It triggers **Mitosis**.
 
-The Pod divides. Each faction forms a new Pod and continues operating within the Hub. If the disagreement is at the Hub level, the dissenting group exercises their Fork right (Chapter 11) and establishes a new Hub. Both entities continue running the same Nowland OS, with the same Syntropy Split, the same 2b Dignity Peg, and the same thermodynamic constants.
+The Pod divides. Each faction forms a new Pod and continues operating within the Hub. If the disagreement is at the Hub level, the dissenting group exercises their Fork right and establishes a new Hub. Both entities continue running the same Nowland OS, with the same Syntropy Split, the same 2b Dignity Peg, and the same thermodynamic constants.
 
 The two new organisms are free to test their competing visions in the physical world. Whichever approach generates more Syntropy — whichever actually solves the problem with less friction — will naturally attract more Nodes. The environment decides. Not the argument.
 

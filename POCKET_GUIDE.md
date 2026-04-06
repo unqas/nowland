@@ -7,7 +7,7 @@ When faced with a decision, run it through these three protocols. If it passes, 
 
 **1. Symbiocracy (The Pod Protocol)**
 * **The Meaning:** Decentralized, localized autonomy. No bosses, no dead weight, just aligned cells.
-* **The Everyday Application:** Stop asking for permission from the top, and stop trying to micromanage the bottom. Find your "Pod" (your 3–5 high-trust killers). When a problem arises, don't wait for a savior—pool your local resources, claim the responsibility, and solve it directly.
+* **The Everyday Application:** Stop asking for permission from the top, and stop trying to micromanage the bottom. Find your "Pod" (your 3–5 high-trust partners). When a problem arises, don't wait for a savior—pool your local resources, claim the responsibility, and solve it directly.
 * **The Decision Filter:** *"Am I trying to control this by force, or am I engineering an environment where my Pod can naturally solve it?"*
 
 **2. Syntropy (The Spark Protocol)**
@@ -51,4 +51,4 @@ You are not building this to become a billionaire. Billionaires are black holes 
 
 **You are building UNQA (The Hub) and Freespace (The Environment) to become The Last Millionaire.**
 
-You are using the friction and capital of the old world one final time to buy the land, the servers, and the tools. Once the machine is running, you turn it on, distribute the wealth through the Syntropic Split, and permanently cure the disease of scarcity for everyone who comes after you. You trade the anxiety of hoarding for the absolute biological peace of living in an indestructible, frictionless forest.
+You are using the friction and capital of the old world one final time to buy the land, the servers, and the tools. Once the machine is running, you turn it on, distribute the wealth through the Syntropy Split, and permanently cure the disease of scarcity for everyone who comes after you. You trade the anxiety of hoarding for the absolute biological peace of living in an indestructible, frictionless forest.

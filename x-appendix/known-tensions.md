@@ -47,7 +47,7 @@ We document these tensions here because Consilience demands it. We do not hide t
 
 ## 4. The Deflationary Paradox
 
-**The Tension:** Chapter 15 describes the Infinite Deflation — the continuous reduction in the cost of the 4c Baseline as the Hub acquires physical assets. But classical economics has a well-known objection: if prices are continuously falling, why would anyone spend today when things will be cheaper tomorrow? In the fiat world, deflation causes hoarding, which causes a velocity collapse, which causes recession.
+**The Tension:** Chapter 8 describes the Infinite Deflation — the continuous reduction in the cost of the 4c Baseline as the Hub acquires physical assets. But classical economics has a well-known objection: if prices are continuously falling, why would anyone spend today when things will be cheaper tomorrow? In the fiat world, deflation causes hoarding, which causes a velocity collapse, which causes recession.
 
 **The Answer:** The Nowland is not the fiat world. In a fiat deflationary spiral, you can hoard cash and wait. In the Nowland, you cannot simply hoard `c` units and wait — because the Vacuum's gravity pulls you.
 
@@ -59,7 +59,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 
 ## 5. The Scaling Cliff
 
-**The Tension:** The Seed Protocol (Chapter 17) beautifully demonstrates the paper-notebook ledger for two people. The mature system describes a smart-contract-powered Stigmergic Board for thousands. But what tools does a community of 15, 50, or 200 people use during the messy, awkward middle phase?
+**The Tension:** The Seed Protocol (Chapter 19) beautifully demonstrates the paper-notebook ledger for two people. The mature system describes a smart-contract-powered Stigmergic Board for thousands. But what tools does a community of 15, 50, or 200 people use during the messy, awkward middle phase?
 
 **The Honest Progression:**
 
@@ -71,7 +71,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 | 50–200 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
 | 200+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
 
-**The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 17 provides a concrete "Dumb Tools" progression table for the interim.
+**The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 19 provides a concrete "Dumb Tools" progression table for the interim.
 
 ---
 
@@ -106,9 +106,10 @@ Inter-Hub transactions settle *internally* at face value: `10b` is `10b`. The fi
 
 **The Tension:** The 3% Helix split assumes the system can identify *which* upstream DNA Templates were used in any given circuit. For digital work — code, design files, documents — this is straightforward: version control (Git) natively tracks provenance, and the contribution percentage can be computed from the commit history. But for physical work — manufacturing an engine, farming a crop, constructing a building — the intellectual contribution of upstream Architects is embedded invisibly in the process. No automated system can decompose a physical product and say "42% of this engine came from Template A and 28% came from Template B."
 
-**The Current Defense:** Chapter 9 describes a two-layer mechanism:
+**The Current Defense:** Chapter 10 describes a two-layer mechanism:
 1. **Self-declaration with reputation stakes.** Executing Nodes declare which DNA they used at circuit-close. Fraudulent non-declaration is auditable through transaction history and Peer Audit.
 2. **Undeclared Helix flows to the Hub Commons.** If no DNA is claimed, the 3% doesn't vanish — it becomes shared infrastructure. Architects can submit retroactive claims with evidence.
+3. **The Proxy Pool (For Physical Goods).** Because a physical product cannot be easily inspected for intellectual provenance, the system may require a "Helix Pool" for specific domains. Unclaimed 3% royalties are distributed proportionally to all registered DNA templates in that domain, weighted by physical usage proxies (material orders, tool checkout logs, etc.). It is an ugly generalization, but it may be necessary at Grid scale.
 
 **The Honest Gap:** Self-declaration works when the stakes are low and the community is small enough for social accountability. At scale — ten thousand Nodes across dozens of Hubs — the incentive to under-declare Helix grows. The system relies on making the long-term reputational cost of under-declaration exceed the short-term financial gain of pocketing the 3%. Whether this incentive structure holds at scale is an open empirical question. The first physical-goods Pods will generate the critical data.
 
@@ -121,12 +122,42 @@ This is the hardest unsolved problem in the Nowland OS. We name it here because 
 **The Tension:** What prevents a successful Hub from naturally consolidating power, accumulating disproportionate physical assets, and evolving into the very Pyramid the Nowland is designed to replace? If Hub Alpha captures the best developers, acquires the most infrastructure, and dominates the highest-value Vacuums, doesn't it become a new monopoly?
 
 **The Current Defense:**
-1. **The Fork right (Chapter 11).** Any group of Nodes can exit a Hub at any time and establish a competing Hub. This is a permanent pressure valve against consolidation.
-2. **The Federation architecture (Chapter 8).** The 2% Grid allocation is the *only* mandatory inter-Hub obligation. There is no central authority that can force Nodes to stay in a Hub. Hubs are independent legal entities that cooperate voluntarily.
+1. **The Fork right (Chapter 14).** Any group of Nodes can exit a Hub at any time and establish a competing Hub. This is a permanent pressure valve against consolidation.
+2. **The Federation architecture (Chapter 9).** The 2% Grid allocation is the *only* mandatory inter-Hub obligation. There is no central authority that can force Nodes to stay in a Hub. Hubs are independent legal entities that cooperate voluntarily.
 3. **Mitosis pressure.** Above a certain size (guided by Dunbar's number and governance practicality), a Hub is encouraged to split into smaller, more agile Hubs — just as biological cells divide when they grow too large for efficient nutrient transport.
 4. **Transparent ledgers.** Every transaction, every governance vote, every asset acquisition is visible on the Stigmergic Board. You cannot quietly consolidate power when all the math is public.
 
 **The Honest Gap:** These defenses are structural, not absolute. A charismatic leader within a Hub could accumulate informal social power that exceeds their formal governance weight. The history of cooperatives, communes, and democratic organizations teaches us that *cultural* consolidation — cults of personality, in-group/out-group dynamics, information asymmetry — can undermine even the most well-designed structural safeguards. The Nowland OS provides the architecture to resist pyramidal reversion, but it cannot engineer human charisma or social dynamics out of existence. This is a tension that must be watched, stress-tested, and honestly reported by every operating Hub.
+
+---
+
+## 10. The Selective Shock (Cross-Hub Mutual Rescue)
+
+**The Tension:** The Hibernation Protocol addresses uniform economic winter — the entire Hub compresses its baseline to survive together. But what if the shock is selective? A natural disaster destroys Hub Alpha's physical infrastructure, leaving Hub Beta untouched. The structural Grid allocation (2%) is tiny and designed for routing, not bailouts. 
+
+**The Current Defense:** In the fiat world, bailouts are achieved through taxation by a centralized state. The Nowland does not rely on charity or forced taxation; it relies on thermodynamics. We incentivize the rescue through **The Macro Re-Pair Bond**:
+
+1. **The SOS Signal.** A crushed Node, Pod, or Hub broadcasts an SOS. This creates an apex-level Vacuum on the global Stigmergic Board.
+2. **The Catastrophe Re-Pair Bond.** The Eldership mechanism triggers its disaster protocol. For the rescued Nodes, the internal Mentorship Pool cap temporarily expands from 1.8% to **2.1%**. The rescuing entity (the Hub or Pod that provides physical shelter/capital) earns the apex 1.8% pull on the combined output of the survivors, leaving 0.3% intact so the rescued Nodes' prior life mentors aren't totally starved.
+3. **The Rescue Yield Curve.** A catastrophe bond does not expire in three months like a standard repair. The Active Phase (1.8%) is extended for a full year. After one year, if the rescue costs persist, the bond compresses to a 0.1% Legacy Tail, quietly continuing until the total cost of the rescue is mathematically repaid. And because The Nowland is not a predatory fiat bank, the rescuing Hub retains the sovereign **Right to Forgive** the remaining balance at any time, instantly capturing immense global reputation instead of extracted capital.
+4. **The Instant Split Surge.** When a protecting Hub absorbs refugees from a crushed Hub, the saved Nodes instantly begin contributing to their new host. Their standard 5% Hub Split (and 10% Pod Split if joining a new Pod) routes to the rescuing Hub immediately, adding net-new kinetic energy to the savior's economy for as long as they remain in that biome.
+5. **Biological Re-allocation.** If the crushed Hub cannot be rebuilt, its Nodes do not die — their Lifetime Syntropy Scores and DNA records remain intact. The rescuing Hub has safely adopted fully proven, high-LSS builders, turning a disaster intervention into an explosive growth vector for their own local economy.
+
+**The Honest Gap:** We still rely on the free market of Syntropy to execute the rescue — there is no Global FEMA with a fiat printing press. A Hub that built zero reputation, alienated its neighbors, and contributed nothing to the Grid might find its SOS ignored. Rescue is not mandated by the state; it is mathematically purchased through the value the Nodes will generate once healed. We assume the biological drive for Syntropy (and the lucrative return of the Macro Re-Pair Bond) will drive Hubs to rescue each other enthusiastically, but the empirical test of cross-Hub disaster recovery remains open.
+
+---
+
+## 11. The Mentorship Patronage Risk
+
+**The Tension:** The Permanent Tail (0.03%) creates a lifelong economic link between mentor and mentee. At scale, an Elder with fifty permanent tails has fifty economic dependents — not by coercion, but by gratitude. Could this create soft patronage networks that distort governance, where Nodes feel social pressure to vote in alignment with their Elder's Block?
+
+**The Current Defense:**
+1. **The Co-Dependency Guard.** A maximum of three Re-Pair Bonds with the same Elder prevents a single mentor from monopolizing a Node's recovery path.
+2. **The Annual Confirmation Gate.** The mentee can sever the Permanent Tail at any time — the tail only renews if the mentee voluntarily confirms each year.
+3. **The 1.8% Mentor Pool Cap.** No matter how many mentors a Node has, the total mentor allocation never exceeds 1.8% of the Helix — economically capping the Elder's per-Node influence.
+4. **The tail is economically negligible per-Node.** At 0.03% per relationship, a mentor's income from any single tail is tiny. It compounds across many tails for the Elder, but creates no dependency pressure on the mentee. You do not feel indebted to someone earning 0.03% of your circuits.
+
+**The Honest Gap:** Social influence is harder to cap than economic influence. An Elder who has personally mentored fifty Nodes has massive informal authority regardless of the tail size. Whether this is healthy — a wise root system feeding the forest floor — or dangerous — a cult of personality with soft governance capture — depends entirely on the culture and transparency of the Hub. The structural defenses are strong. The cultural defenses must be watched. This is one of the rare tensions in the Nowland that cannot be solved by mathematics alone.
 
 ---
 
