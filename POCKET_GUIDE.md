@@ -40,7 +40,7 @@ Whether you are running this through a high-tech smart contract or manually on a
 
 * **80% to the Source:** The people who actually did the sweat-labor keep the vast majority of the reward.
 * **10% to the Circle (The Pod):** A safety net for your immediate team's shared tools, software, or emergency time-off.
-* **5% to the Hub (your Cooperative — UNQA at genesis):** The energy required to maintain the legal airlock, secure the leads, and keep the ecosystem safe.
+* **5% to the Hub (The Organism):** The energy required to maintain the legal airlock, secure the leads, and keep the ecosystem safe.
 * **3% to the DNA (The Architect):** The perpetual royalty to whoever created the blueprint, template, or idea. This is the Co-Uplifting Engine—your financial incentive to make everyone around you a genius.
 * **2% to the Grid (The Commons):** To maintain the global servers and digital infrastructure.
 

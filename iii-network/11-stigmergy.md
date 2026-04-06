@@ -1,4 +1,6 @@
-## Chapter 10: The Stigmergic Board
+## Chapter 11: The Stigmergic Board
+
+> **TL;DR:** We eliminate corporate managers entirely by using Stigmergy — a biological mechanism where builders autonomously claim work (Vacuums) from a decentralized board, executing it asynchronously based on their own kinetic capacity.
 
 In the fiat world, a "manager" is a symptom of a broken thermodynamic system. 
 
@@ -43,3 +45,8 @@ This is the death of the "Boss."
 We have replaced the anxiety of the performance review with the mathematical truth of the ledger. We have replaced the coercive threat of the manager with the natural gravity of the Vacuum. 
 
 You are no longer a cog waiting for instructions from the top of a Pyramid. You are an autonomous biological cell, reading the chemical signals of your environment, moving to where you are most needed, generating Syntropy, and instantly receiving the physical nourishment required to thrive. You are governed by nothing but physics, your Pod, and your own ambition.
+
+---
+
+> ### The Core Principle
+> **Ants do not need middle managers.** A manager is only required when you force humans to do meaningless, extractive work against their biological interest. In a Symbiocracy, we use Stigmergy. The environment dictates the work. Read the Stigmergic Board. Find a Vacuum that matches your kinetic energy. Claim it, execute it, and drop the physical reality back into the environment as a Battery. You are an autonomous cell—stop waiting for the Pyramid to give you permission to move.

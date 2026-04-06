@@ -1,5 +1,7 @@
 ## Chapter 3: Consilience
 
+> **TL;DR:** We replace ideological debate and corporate politics with Consilience: truth proven exclusively by physical reality, where the only winning argument is a working prototype.
+
 If you watch the fiat world closely, you will notice that it spends an astonishing amount of its kinetic energy arguing. 
 
 Cable news, social media, parliaments, and boardrooms are entirely consumed by ideological warfare. We argue over capitalism versus socialism, over left versus right, over who gets to hold the levers of the machine. But no matter who wins the debate, the machine continues to operate on the exact same thermodynamics of extraction and debt. 
@@ -36,3 +38,6 @@ The Nowland is inherited by the builders. The quiet engineers, the diligent farm
 We do not write manifestos demanding that the fiat world change its ways. We simply forge the zero-sum ledger, prove it works through the physical accumulation of real wealth, and let the old world watch our Consilience in real-time. 
 
 Truth is not something you vote on. Truth is something you build.
+
+> ### The Core Principle
+> **You cannot negotiate with gravity.** If a car engine won't start, you don't form a political party to debate its philosophy; you turn a wrench until it runs. The next time your Pod disagrees on a workflow or a design, stop arguing. Build physical prototypes of both options. Test them against reality. Let the thermodynamic efficiency of the prototype declare the winner, and adopt it immediately—even if it wasn't your idea.

@@ -1,4 +1,6 @@
-## Chapter 11: The Council Protocol — How the Hub Decides
+## Chapter 12: The Council Protocol — How the Hub Decides
+
+> **TL;DR:** We replace political consensus with "Weighted Consent," where decisions are made by those who generate Syntropy, and irreconcilable disputes are resolved not by force, but by biological mitosis (Forking).
 
 In the fiat world, "decentralization" is the dream of the naive, and "flat hierarchy" is a fairy tale that collapses the moment a real decision must be made. Critics of Symbiocracy will seize on this immediately: *"If there is no CEO, who decides what land the Hub buys? Who resolves a deadlock between two Pods? Who sets the strategic direction?"*
 
@@ -23,6 +25,8 @@ Here is how it works:
 4. **Weighted Gravity:** Not all Blocks carry equal weight. The system weights a Block by the Node's **Lifetime Syntropy Score** — the immutable, transparent record of how much order they have injected into the ecosystem over their entire career. An Elder who has generated 500c of verified Syntropy carries more gravitational weight than a Node who joined last week. This is not aristocracy; this is physics. The organism naturally trusts the cells that have proven their Consilience over time.
 
 5. **Resolution:** If no weighted Block stands after 72 hours, the Proposal auto-executes. If a Block stands, the Proposer must either modify their Proposal to address the objection or withdraw it. There is no override mechanism. There is no executive veto. If a genuine disagreement remains unresolvable, the system does not force agreement. It triggers a Fork.
+
+6. **Quorum:** A Proposal cannot auto-execute unless a minimum of 33% of the Hub's active Nodes (defined as Nodes who have executed at least one transaction in the current `4c` cycle) have viewed or interacted with it during the Review Window. If the quorum is not met, the Review Window extends by an additional 72 hours, once. If the quorum is still not met after the extension, the Proposal is returned to the Proposer for re-submission. This prevents decisions from passing in silence while the majority of the organism sleeps.
 
 ### Pod-Level Decisions
 
@@ -53,3 +57,8 @@ In a Symbiocracy, exit is frictionless. Your Lifetime Syntropy Score travels wit
 This is the deepest difference between Symbiocracy and every form of human governance that came before it. In a democracy, the minority is forced to accept the will of the majority. In a Symbiocracy, the minority simply walks away and builds a parallel reality. If their physics are superior, the network will naturally route its energy toward them. If not, they will learn, adapt, and merge back.
 
 We do not resolve disagreement with force, votes, or compromise. We resolve it with mitosis. The cell divides, and both halves grow stronger.
+
+---
+
+> ### The Core Principle
+> **You cannot hold a referendum on the speed of light.** We do not govern by fiat hierarchy or noisy political consensus. We govern by Weighted Consent. Any Node can propose an action. Any Node can block it—but their Block is weighted by the physical reality of how much Syntropy they have historically generated. If a fundamental disagreement remains unbreakable, you do not fight. You Fork. Walk away, test your superior physics in a parallel Hub, and let the environment decide who built the better engine.
