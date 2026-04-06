@@ -1,4 +1,4 @@
-## Chapter 11: The Stigmergic Board
+## Chapter 12: The Stigmergic Board
 
 > **TL;DR:** We eliminate corporate managers entirely by using Stigmergy — a biological mechanism where builders autonomously claim work (Vacuums) from a decentralized board, executing it asynchronously based on their own kinetic capacity.
 
@@ -21,6 +21,9 @@ In our Symbiocracy, we do not have managers assigning Jira tickets or tracking y
 The Board is the digital environment where the Hub, the Pods, and the individual Nodes leave their "pheromones." It is a continuously updating, living marketplace split into two states:
 * **The Vacuums (Bounties):** "The Hub needs a new landing page." "A local Pod needs someone to audit their smart contract." "A Node needs someone to babysit for four hours." Each Vacuum has a negative liability attached to it (e.g., `-20b`). 
 * **The Batteries (Assets):** "I have written a new software framework." "I have harvested a yield of organic potatoes." "I have recorded a masterclass on syntropic design." Each Battery has a positive claim attached to it.
+
+### The 33% Hub Visibility Rule
+To prevent shadow contracts and insider dealing on massive projects, transparency scales with gravity. If a Vacuum represents an infrastructure project at the Hub level or higher, it cannot be quietly claimed by a pre-arranged Pod. The system enforces the **33% Rule**: at least one-third of all active Nodes in the Hub must physically "see" (view and acknowledge) the Vacuum on the Stigmergic Board before the claim function unlocks. The bigger the project, the more public the problem must become before anyone is allowed to solve it.
 
 ### Self-Selection vs. Assignment
 When you log into the Board, nobody tells you what to do. You are forced to act as a sovereign organism. 

@@ -84,13 +84,23 @@ For digital work, this can be fully automated. Code, designs, and workflows live
 
 **2. Unclaimed Helix Pools at the Current Layer.** If no DNA is declared — because the work was entirely original, or because the Nodes simply didn't claim any upstream templates — the 3% does not vanish. It flows into the Hub Commons (or Grid Commons, if the Grid exists). It becomes shared infrastructure.
 
-This means: an Architect who believes their DNA was used without attribution can submit a retroactive claim at any time, supported by evidence — the published template, the timeline, the similarity of the output. The Peer Auditors adjudicate (Chapter 12). Meanwhile, the energy was never lost. It was always in the system, always available.
+This means: an Architect who believes their DNA was used without attribution can submit a retroactive claim at any time, supported by evidence — the published template, the timeline, the similarity of the output. The Peer Auditors adjudicate (Chapter 14). Meanwhile, the energy was never lost. It was always in the system, always available.
 
 **Why fraud is hard to sustain.** For physical work, a critic might ask: *"What stops a Pod from using a template and simply not declaring it?"* The answer is built into the system's transparency. Every circuit on the Stigmergic Board includes not just the deliverable, but the supply chain — material purchases, workflow logs, tool usage. If a Pod builds engines using Architect Y's blueprint but never declares the provenance, the discrepancy becomes visible over time: the Pod's purchasing patterns, production methods, and output characteristics will match Architect Y's published template. In a transparent ledger where all transactions are visible, systematic non-declaration is a pattern that auditors can identify.
 
 Is this perfectly precise? No. But the system does not need to be perfect. It needs to make honesty cheaper than dishonesty. When self-declaration is a single checkbox, when the unclaimed alternative is a donation to the Commons (not a loophole for personal gain), and when your reputation is your primary economic asset — the incentive structure naturally bends toward accurate attribution. The 3% Helix is a reward for generosity. It is not worth risking your lifetime Syntropy score to steal it.
 
 The digital provenance layer will harden over time as the tooling matures. The social provenance layer protects the system during the messy, human, physical-world phase where not everything can be tracked by a machine. Both layers are honest about their limitations. Both layers get stronger with scale.
+
+### The Re-Pair Bond and Mentorship Helix
+
+The Helix does not only reward published templates. It also rewards direct mentorship.
+
+When an Elder repairs a struggling Node through the **Re-Pair Protocol**, or when a healthy Node voluntarily seeks out a mentor, a **Mentorship Bond** is created — a time-decaying Helix allocation (Active → Legacy → Permanent Tail) that generates passive income for the Elder as long as the mentee remains productive. This mechanism is fully documented in the **Eldership** chapter, including the Confirmation Gate, the Co-Dependency Guard, and the micro-incentives that reward early intervention, fast recovery, and lasting health.
+
+**How mentors and DNA share the 3%.** The 3% Helix on every circuit is split between Mentorship Bonds and DNA Template claims. Mentorship Bonds are capped at **1.8%** of the total — meaning templates always receive at least 1.2%. A Node with one mentor allocates 1.0% to the mentor and 2.0% to templates. Two mentors share 1.5%. Three mentors share 1.8% (the cap). Beyond three, the 1.8% dilutes further — but the principle holds: **mentors and templates coexist, they do not compete.** Mentors teach people how to use DNA templates; templates make mentors more effective. They are symbiotic.
+
+**The 3% is independent of the Node's income.** The Syntropy Split fractures every circuit into separate beams. The Node's 80% is theirs — no mentor bond or template royalty can reduce it. The 3% Helix pool is collected and distributed by the system as a separate stream. Mentorship and intellectual contribution are funded by the ecosystem, not extracted from the builder.
 
 ---
 

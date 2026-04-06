@@ -12,7 +12,7 @@ You do not build the civilization. You plant the seed.
 
 ---
 
-## Chapter 16: You Are Ground Zero
+## Chapter 18: You Are Ground Zero
 
 > **TL;DR:** You do not need a million dollars, software, or permission to start a new civilization. You start with zero fiat leverage, and you execute the biological operating system immediately with a single piece of paper and one trusted partner.
 

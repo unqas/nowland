@@ -1,4 +1,4 @@
-## Chapter 15: The Trojan Mouse
+## Chapter 16: The Trojan Mouse
 
 > **TL;DR:** We do not preach to the fiat economy; we out-compete it by masquerading as a standard B2B agency (The Trojan Mouse), capturing their capital, and flushing it out strictly as Net value to fund our own infrastructure.
 

@@ -1,6 +1,5 @@
 # The Nowland: The Physics of Symbiocracy
-
-> *or, How to Build a Deflating Economy That Cannot Collapse*
+*or, How to Build a Deflating Economy That Cannot Collapse*
 
 > **"I don't want to become the first trillionaire; I want to become the last millionaire."**
 

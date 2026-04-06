@@ -8,7 +8,7 @@ We do not fight the fiat world. We simply out-compete it. But to out-compete it,
 
 ---
 
-## Chapter 14: The Membrane
+## Chapter 15: The Membrane
 
 > **TL;DR:** To survive inside the old world without being crushed by it, we use Cooperative Law and Double-Entry Bookkeeping to build a semi-permeable legal "Membrane" that ingests fiat capital but legally shields the internal organism from corporate extraction.
 

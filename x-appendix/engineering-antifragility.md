@@ -42,7 +42,7 @@ The fiat world wastes months in boardroom political warfare. The Nowland convert
 
 Here is where it becomes antifragile: the Elder writes a new DNA Template documenting the failure mode, the diagnostic process, and the repair workflow. This template is published to the Stigmergic Board and immediately available to every Hub in the Grid.
 
-Every time a Node fails, the network receives a permanent, open-source upgrade that prevents that specific failure mode from happening to anyone else. The Elder earns the 3% Helix royalty for creating the repair DNA. The organism literally gets smarter and richer *because* someone broke.
+Every time a Node fails, the network receives a permanent, open-source upgrade that prevents that specific failure mode from happening to anyone else. The Elder earns the 3% Helix royalty for creating the repair DNA — and a **Permanent Tail** (Mentorship Bond) on the repaired Node's future output. The organism literally gets smarter and richer *because* someone broke.
 
 In the fiat world, failure is wasted. In The Nowland, failure is fertilizer.
 
@@ -81,7 +81,7 @@ This is not cowardice. This is patience. Water does not attack the rock. Water f
 
 **The Threat:** A slow, drawn-out siege. The fiat world doesn't attack you directly — it simply continues inflating, regulating, and squeezing, hoping you'll run out of energy before you achieve critical mass.
 
-**The Antifragile Response: Every passing month makes you harder to kill.** The Infinite Deflation (Chapter 15) is not a theory — it is a ratchet. Every time the Hub converts fiat surplus into physical assets, the `4c Baseline` drops. That drop is permanent. The land doesn't un-buy itself. The solar panels don't un-install. The servers don't un-rack.
+**The Antifragile Response: Every passing month makes you harder to kill.** The Infinite Deflation (Chapter 8) is not a theory — it is a ratchet. Every time the Hub converts fiat surplus into physical assets, the `4c Baseline` drops. That drop is permanent. The land doesn't un-buy itself. The solar panels don't un-install. The servers don't un-rack.
 
 Each quarter, the community needs slightly less fiat to sustain its members' biological peace. Each quarter, the Gravity Tax at the Airlock becomes a smaller fraction of the organism's total energy budget. Each quarter, the Hallucination Rate drops closer to 1.0x — and eventually below it.
 
