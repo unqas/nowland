@@ -1,4 +1,4 @@
-## Chapter 9: The Helix & The Co-Uplifting Engine
+## Chapter 10: The Helix & The Co-Uplifting Engine
 
 > **TL;DR:** We redefine passive wealth: instead of hoarding physical assets to extract rent, Elders generate perpetual 3% royalties by open-sourcing highly efficient workflows (DNA) that uplift the entire network.
 

@@ -1,4 +1,4 @@
-## Chapter 15: The Infinite Deflation
+## Chapter 8: The Infinite Deflation
 
 > **TL;DR:** While fiat currencies must inflate to survive debt, the Nowland ecosystem leverages corporate purchasing power to continuously acquire shared physical assets, indefinitely driving the baseline cost of human survival toward zero.
 

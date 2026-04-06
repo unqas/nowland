@@ -10,7 +10,7 @@ To organize humans in a post-geographic world, we do not build digital offices. 
 
 ---
 
-## Chapter 8: The Node, The Pod, and The Hub
+## Chapter 9: The Node, The Pod, and The Hub
 
 > **TL;DR:** To survive the fiat world without burning out as an isolated freelancer, you must organize into an indestructible, three-tiered atomic structure: the sovereign Node, the autonomous Pod (strike-team), and the protective Hub (the legal cooperative membrane).
 

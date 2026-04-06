@@ -1,4 +1,4 @@
-## Chapter 10: The Stigmergic Board
+## Chapter 11: The Stigmergic Board
 
 > **TL;DR:** We eliminate corporate managers entirely by using Stigmergy — a biological mechanism where builders autonomously claim work (Vacuums) from a decentralized board, executing it asynchronously based on their own kinetic capacity.
 

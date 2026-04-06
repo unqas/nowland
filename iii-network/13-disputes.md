@@ -1,4 +1,4 @@
-## Chapter 12: The Circuit Breaker — Resolving Disputes Without Lawyers
+## Chapter 13: The Circuit Breaker — Resolving Disputes Without Lawyers
 
 > **TL;DR:** Subjective disputes are metabolized through a fast, frictionless "Peer Audit" run by randomly selected domain experts, ensuring that honesty is mathematically cheaper than dishonesty.
 
