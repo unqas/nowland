@@ -38,4 +38,6 @@
 * [Prior Art & Lineage](x-appendix/prior-art.md)
 * [Known Tensions & Open Problems](x-appendix/known-tensions.md)
 * [Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md)
+* [The Fiat Hallucination Rate](x-appendix/the-hallucination-rate.md)
+* [Engineering Antifragility](x-appendix/engineering-antifragility.md)
 * [Glossary](GLOSSARY.md)

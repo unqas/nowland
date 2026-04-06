@@ -1,12 +1,14 @@
 # GitBook Ignore File
 # Anything listed here will not be synced to the GitBook platform.
 
-# Compilation scripts
-compile_book.py
-
-# Generated output books
+# Avoid compiling generated book files back into gitbook
 nowland_compiled.md
-*.epub
-*.pdf
+nowland.md
+nowland.epub
+nowland.pdf
+nowland.html
+
+# Ignore build scripts
+nowland-book-compile.py
 build/
 output/

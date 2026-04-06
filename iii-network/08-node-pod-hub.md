@@ -53,3 +53,5 @@ Look at how beautifully this scales.
 You (The Node) are free to execute your specific mastery. Your localized survival is guaranteed by your closest friends (The Pod). And your legal protection, global infrastructure, and fiat translation are handled seamlessly by the overarching organism (The Hub). 
 
 There is no CEO. There are no middle managers. There is only the fluid, frictionless flow of kinetic energy from the atom to the organism. We have replaced the brittle, top-down control of the Pyramid with the indestructible, decentralized resilience of the Mycelial Grid.
+
+And because each Hub is a fully independent legal entity, docking with other Hubs only through the 2% Grid allocation, the network scales as a federation — not a corporation. Twenty independent 50-Node Hubs will always be more resilient than one monolithic 1,000-Node institution. If one Hub faces regulatory pressure, the rest continue operating untouched, absorbing the lessons and hardening their own Membranes. The whole grows stronger when a part is tested.

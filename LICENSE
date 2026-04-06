@@ -1,6 +1,6 @@
 ================================================================================
                       THE CONSILIENCE PUBLIC LICENSE (CPL)
-                                  Version 0.1
+                                  Version 0.2
 ================================================================================
 
 Origin: UNQA (Genesis Hub) / The Nowland OS
@@ -45,6 +45,14 @@ ARTICLE 1. DEFINITIONS
 
 1.6 "Consilience" means the verifiable, physical proof that the thermodynamic 
     agreements of this License have been executed.
+
+1.7 "Recognized Hub" means any entity that (a) has registered as a legal 
+    structure (Cooperative, LLC, Ltd, GmbH, or equivalent) in its local 
+    jurisdiction, (b) has executed at least one valid transaction on the 
+    Network ledger, and (c) remits the 2% Grid allocation to the Grid 
+    Operator. At genesis, the Grid Operator is UNQA. Hub recognition is 
+    permissionless — any entity meeting conditions (a), (b), and (c) is 
+    automatically recognized.
 
 --------------------------------------------------------------------------------
 ARTICLE 2. THE PUBLIC COMMONS (NON-COMMERCIAL GRANT)
@@ -108,6 +116,12 @@ ARTICLE 4. ATTRIBUTION AND SHARE-ALIKE
     they must release their modified version into the environment under this 
     exact same License (CPL). The Commons cannot be enclosed.
 
+4.3 Version Compatibility: If the Licensor publishes an updated version of 
+    the CPL (e.g., CPL v0.2), the Licensee may release their modified DNA 
+    under either the original CPL version or any subsequent version published 
+    by the Licensor. The Licensee may not release under a version prior to 
+    the one they received.
+
 --------------------------------------------------------------------------------
 ARTICLE 5. FRICTIONLESS ENFORCEABILITY & EXILE
 --------------------------------------------------------------------------------
@@ -115,16 +129,22 @@ ARTICLE 5. FRICTIONLESS ENFORCEABILITY & EXILE
 This License relies on the natural gravity of Consilience.
 
 5.1 Breach: If a Commercial entity utilizes this DNA to extract fiat profit 
-    without operating through a recognized Hub or without honoring the 
+    without operating through a Recognized Hub or without honoring the 
     Syntropy Split (80/10/5/3/2), they are operating in material breach of 
     this License.
 
-5.2 Exile: Upon material breach, all rights granted to the Licensee under this 
-    License are instantly and permanently revoked. The Licensee permanently 
-    exiles themselves from the Nowland network and forfeits access to all future 
-    DNA updates.
+5.2 Cure Period: Upon discovery of a material breach, the Licensor shall 
+    provide written notice specifying the nature of the breach. The Licensee 
+    shall have thirty (30) calendar days from receipt of such notice to cure 
+    the breach by (a) processing all outstanding revenue through a Recognized 
+    Hub and (b) remitting any unpaid Syntropy Split allocations.
 
-5.3 Reservation of Rights: While the Licensor prioritizes systemic exile over 
+5.3 Exile: If the breach is not cured within the Cure Period, all rights 
+    granted to the Licensee under this License are permanently revoked. The 
+    Licensee permanently exiles themselves from the Nowland network and 
+    forfeits access to all future DNA updates.
+
+5.4 Reservation of Rights: While the Licensor prioritizes systemic exile over 
     coercive force, the Licensor explicitly retains all legal rights to seek 
     fiat damages, injunctive relief, and specific performance under standard 
     contract law to protect the ecosystem from parasitic extraction.

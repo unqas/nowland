@@ -75,4 +75,23 @@ When that physical notebook becomes too chaotic because you have six friends tra
 
 You let the physics demand the infrastructure. You never build the infrastructure before the physics. 
 
+### The Dumb Tools Principle
+
+Do not build the Nowland Super App. Not yet. Not until the physics *demand* it.
+
+The fastest way to kill a nascent community is to spend six months building a beautiful digital platform that no one uses. The second fastest way is to force people to learn a new vocabulary and a new system simultaneously. Start with tools that are already in your pocket:
+
+| Nowland Component | The "Dumb" Version | When to Upgrade |
+|---|---|---|
+| The Stigmergic Board | A Discord channel called `#vacuums` | When you have 50+ active Vacuums per week |
+| The Ledger | A shared Google Sheet with the A-B-C columns | When the spreadsheet becomes unmanageable (~15 Nodes) |
+| The Airlock | A standard PayPal or Stripe account held by the cooperative | When fiat volume exceeds basic bookkeeping |
+| The Hub legal entity | A standard registered Cooperative (eG, Co-op, SCOP) | When you process your first external fiat client |
+| The Peer Audit | A group vote in your messaging app | When disputes exceed one per month |
+| Governance | A shared document with meeting notes | When you need formal quorum tracking |
+
+The entire 80/10/5/3/2 split can be computed by a single spreadsheet formula. The entire zero-sum ledger can be verified by anyone who can read a table. The entire Peer Audit can be conducted in a group chat.
+
+If your infrastructure exceeds the complexity that your community *actually needs*, you are not building Syntropy. You are building friction. Let the pain of outgrowing a tool be the signal to build the next one. That pain is a Vacuum — and the Node who fills it earns the Helix.
+
 Start tomorrow. Find your Node B. Define your peg. Draw the columns. Spark the ledger.

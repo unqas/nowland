@@ -61,3 +61,16 @@ When we execute the B2B Flush and pay local VAT or income taxes, we do not view 
 We always pay the tax. We always respect local laws. **Do not look for legal loopholes. Seek fair trade, and simply account for the fiat hallucination.** Internally, we **account only for the Net**, treating the gross Brutto number as a hallucination that never existed.
 
 The Trojan Mouse allows us to live inside the matrix while metabolizing it. We drain the kinetic energy of the fiat world, run it through our frictionless internal Symbiocracy to maximize its output, and selectively flush it out only when necessary to keep the fiat state pacified. We do not break the law; we use the law to render the old world obsolete.
+
+### Adapting the Trojan Mouse to Your Jurisdiction
+The B2B invoice flush is a universal principle, but the specific tax mechanics differ in every jurisdiction. The following are **investigation starting points** — not legal advice — to help your Hub's professional advisors design the local Membrane:
+
+* **Germany:** Nodes typically operate as *Freiberufler* or *Einzelunternehmer*. Invoices carry 19% *Umsatzsteuer* (VAT). The Hub can reclaim VAT as Input Tax. Cooperatives (*eG*) benefit from strong mutual liability protections under the *Genossenschaftsgesetz*.
+* **United States:** Nodes operate as Sole Proprietors or single-member LLCs. No federal VAT exists; standard 1099-eligible B2B invoices apply. Worker Cooperatives under **Subchapter T** can distribute surplus as tax-deductible Patronage Dividends.
+* **United Kingdom:** Nodes register as Sole Traders. VAT (20%) applies above the threshold. Co-operative Societies (registered with the FCA) offer recognized mutual structures.
+* **Italy:** Nodes register a *Partita IVA*. The *Regime Forfettario* (flat-rate regime) offers significantly reduced tax friction (15%, or 5% for new activities) for qualifying freelancers below €85,000.
+
+The core principle across all jurisdictions is identical: the Hub ingests fiat, the Syntropy Split is processed internally, and the Node only encounters the tax hallucination at the moment of withdrawal. **The friction is different; the physics is the same.**
+
+**Every Hub must engage a qualified local accountant and cooperative-law attorney before processing its first fiat transaction.** The Membrane is open-source architecture, not legal advice. Build the local DNA, stress-test it with professionals, and share the proven structure with the network.
+

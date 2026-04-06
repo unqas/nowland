@@ -71,7 +71,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 | 50–200 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
 | 200+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
 
-**The Honest Gap:** The middle-phase tooling does not exist yet. The `/mechanics/` directory in this repository is marked as `[INCUBATING]` for this reason. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**.
+**The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 17 provides a concrete "Dumb Tools" progression table for the interim.
 
 ---
 
@@ -85,6 +85,48 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 3. **No tokens, no blockchain, no securities.** By deliberately avoiding tokenization and blockchain-based currencies in the early stages, the Nowland OS sidesteps the regulatory frameworks designed to capture crypto assets.
 
 **The Honest Gap:** Regulatory environments evolve. A jurisdiction could theoretically classify cooperative internal credits as a form of digital currency or alternative payment system. The Membrane strategy requires ongoing legal monitoring in each jurisdiction where a Hub operates. The first Hub should establish a relationship with a cooperative-law attorney before processing its first transaction.
+
+---
+
+## 7. The Geographic Peg Divergence
+
+**The Tension:** The 2b Dignity Peg is calibrated to a "quality trattoria meal" capped at ~€20 in developed nations. But in a developing nation, a dignified meal might cost €2. If `2b = €2` locally, then `1b = €1`, and since `1c = 100b`, the `4c Baseline = €400/month` — a radically different fiat equivalent from a European Hub where `4c = €2,000/month`.
+
+When two Hubs trade across this gap, how does the ledger resolve the tension? If a developer in Jakarta executes a `10b` bounty for a client in Munich, what is the fiat equivalent?
+
+**The Proposed Principle:** The peg is *input-based*, not output-based. In Jakarta, you work for a month and your kinetic output converts to `4c`. In Munich, you work for a month and your output also converts to `4c`. The internal ledger is universal — `2b` buys one dignified meal *locally*, regardless of the fiat cost of that meal. In Jakarta, `2b` buys a dignified meal at a Jakarta trattoria. In Munich, `2b` buys a dignified meal at a Munich trattoria. The internal unit measures the same biological reality — one full unit of human nourishment — even though the fiat translation differs at each Membrane.
+
+Inter-Hub transactions settle *internally* at face value: `10b` is `10b`. The fiat divergence only materializes at the Airlock — when a Node flushes `c` units out to their local fiat economy, they receive the fiat equivalent of their *local* peg. The ledger does not need an exchange rate because the units measure biology, not fiat.
+
+**The Honest Gap:** This principle creates a structural asymmetry. A high-skill Node in a low-cost region earns the same internal `b` as a Node in a high-cost region, but their fiat purchasing power at the Airlock is dramatically different. Whether this is a bug (arbitrage exploitation) or a feature (natural talent migration toward the highest-value problems, rewarding builders in developing economies with proportionally higher local wealth) is an open question. The first multi-Hub network will generate the data required to resolve it.
+
+---
+
+## 8. The Helix Attribution Gap
+
+**The Tension:** The 3% Helix split assumes the system can identify *which* upstream DNA Templates were used in any given circuit. For digital work — code, design files, documents — this is straightforward: version control (Git) natively tracks provenance, and the contribution percentage can be computed from the commit history. But for physical work — manufacturing an engine, farming a crop, constructing a building — the intellectual contribution of upstream Architects is embedded invisibly in the process. No automated system can decompose a physical product and say "42% of this engine came from Template A and 28% came from Template B."
+
+**The Current Defense:** Chapter 9 describes a two-layer mechanism:
+1. **Self-declaration with reputation stakes.** Executing Nodes declare which DNA they used at circuit-close. Fraudulent non-declaration is auditable through transaction history and Peer Audit.
+2. **Undeclared Helix flows to the Hub Commons.** If no DNA is claimed, the 3% doesn't vanish — it becomes shared infrastructure. Architects can submit retroactive claims with evidence.
+
+**The Honest Gap:** Self-declaration works when the stakes are low and the community is small enough for social accountability. At scale — ten thousand Nodes across dozens of Hubs — the incentive to under-declare Helix grows. The system relies on making the long-term reputational cost of under-declaration exceed the short-term financial gain of pocketing the 3%. Whether this incentive structure holds at scale is an open empirical question. The first physical-goods Pods will generate the critical data.
+
+This is the hardest unsolved problem in the Nowland OS. We name it here because Consilience demands honesty, not because we have a perfect answer. The network that solves physical-goods Helix attribution will have earned the most valuable DNA Template in the entire Grid.
+
+---
+
+## 9. The Pyramid Reversion Risk
+
+**The Tension:** What prevents a successful Hub from naturally consolidating power, accumulating disproportionate physical assets, and evolving into the very Pyramid the Nowland is designed to replace? If Hub Alpha captures the best developers, acquires the most infrastructure, and dominates the highest-value Vacuums, doesn't it become a new monopoly?
+
+**The Current Defense:**
+1. **The Fork right (Chapter 11).** Any group of Nodes can exit a Hub at any time and establish a competing Hub. This is a permanent pressure valve against consolidation.
+2. **The Federation architecture (Chapter 8).** The 2% Grid allocation is the *only* mandatory inter-Hub obligation. There is no central authority that can force Nodes to stay in a Hub. Hubs are independent legal entities that cooperate voluntarily.
+3. **Mitosis pressure.** Above a certain size (guided by Dunbar's number and governance practicality), a Hub is encouraged to split into smaller, more agile Hubs — just as biological cells divide when they grow too large for efficient nutrient transport.
+4. **Transparent ledgers.** Every transaction, every governance vote, every asset acquisition is visible on the Stigmergic Board. You cannot quietly consolidate power when all the math is public.
+
+**The Honest Gap:** These defenses are structural, not absolute. A charismatic leader within a Hub could accumulate informal social power that exceeds their formal governance weight. The history of cooperatives, communes, and democratic organizations teaches us that *cultural* consolidation — cults of personality, in-group/out-group dynamics, information asymmetry — can undermine even the most well-designed structural safeguards. The Nowland OS provides the architecture to resist pyramidal reversion, but it cannot engineer human charisma or social dynamics out of existence. This is a tension that must be watched, stress-tested, and honestly reported by every operating Hub.
 
 ---
 

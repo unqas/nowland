@@ -53,8 +53,39 @@ When a young Pod uses your solar-grid template, you receive 3% of their circuit.
 
 The next Pod that uses the improved template triggers a *split Helix*. Your original DNA is now diluted by the contributions of every subsequent Architect who improved it. The 3% is divided among all contributors, weighted by the percentage of the workflow they actually authored. Over time, as the template evolves through dozens of iterations, your share of the Helix compresses to a fraction of a fraction.
 
+#### Multi-Layer DNA (How the 3% Actually Splits)
+In practice, most work uses *multiple* DNA Templates simultaneously. A young Pod building a mobile app might use an Architect's front-end framework, another Architect's API template, and a third Architect's deployment workflow. When the `100b` circuit closes, the 3% Helix (`3b`) splits across all upstream DNA, proportioned by the contribution of each template to the final deliverable.
+
+Let us say the Pod's work relied 50% on the front-end framework, 30% on the API template, and 20% on the deployment workflow. The `3b` Helix splits: `1.5b` to the front-end Architect, `0.9b` to the API Architect, and `0.6b` to the deployment Architect. If the front-end framework itself was forked from an even earlier template, the `1.5b` splits again between the original creator and the forking Architect, weighted by the percentage of the code each actually wrote.
+
+The provenance tree can go as deep as the DNA goes. Every layer is tracked cryptographically. Every contributor is compensated in exact proportion to their physical contribution. The result is a *living royalty tree* — not a flat copyright — where the roots earn less as the canopy grows, but never earn zero.
+
 This is not a bug. This is evolution. The Helix rewards the origin of an idea, but it rewards the *improvers* at an accelerating rate. The system naturally prevents aristocratic hoarding because innovation never stops. New tools emerge. Old templates are forked into superior variants. The only way to maintain a high Helix income is to keep creating new, superior DNA.
 
 The moment you stop building, the forest grows past you. The Elder who rests on their laurels watches their royalties dilute into silence. The Elder who keeps writing code, designing workflows, and uplifting the next generation compounds their impact indefinitely.
 
 We have not created a new feudalism. We have created a thermodynamic engine where the only path to sustained wealth is sustained creation.
+
+### The Attribution Problem (Where the 3% Actually Go)
+
+A sharp critic will ask: *Who decides where the 3% goes?*
+
+The answer is: **nobody.** The 3% is not a decision. It is a collection.
+
+Every time a circuit closes, the Syntropy Split fires automatically. The 80% goes to the Node. The 10% goes to the Pod. The 5% goes to the Hub. The 2% goes to the Grid. And the 3% is collected and **held at the current organizational layer** — waiting. It does not require an omniscient algorithm to decompose every product into its intellectual components. It simply sits in the pool, ready for attribution.
+
+Attribution happens in two ways:
+
+**1. Self-Declaration at Circuit-Close.** When a Pod completes a piece of work, the executing Nodes declare which DNA Templates they used. This is not a complex process — it is a checkbox at the end of a transaction: *"This deliverable used Template X by Architect Y."* The 3% routes to the declared Architects, weighted by the number of templates declared. If you used three templates, each Architect gets 1%. If you used one, that Architect gets the full 3%.
+
+For digital work, this can be fully automated. Code, designs, and workflows live in version-controlled repositories. Every contribution is cryptographically signed and timestamped. The provenance tree is visible in the commit history — the same way open-source contributors are already tracked on GitHub. The 3% split computes itself from the dependency graph. This is not theoretical; it is how software attribution already works. We simply attach an economic incentive to it.
+
+**2. Unclaimed Helix Pools at the Current Layer.** If no DNA is declared — because the work was entirely original, or because the Nodes simply didn't claim any upstream templates — the 3% does not vanish. It flows into the Hub Commons (or Grid Commons, if the Grid exists). It becomes shared infrastructure.
+
+This means: an Architect who believes their DNA was used without attribution can submit a retroactive claim at any time, supported by evidence — the published template, the timeline, the similarity of the output. The Peer Auditors adjudicate (Chapter 12). Meanwhile, the energy was never lost. It was always in the system, always available.
+
+**Why fraud is hard to sustain.** For physical work, a critic might ask: *"What stops a Pod from using a template and simply not declaring it?"* The answer is built into the system's transparency. Every circuit on the Stigmergic Board includes not just the deliverable, but the supply chain — material purchases, workflow logs, tool usage. If a Pod builds engines using Architect Y's blueprint but never declares the provenance, the discrepancy becomes visible over time: the Pod's purchasing patterns, production methods, and output characteristics will match Architect Y's published template. In a transparent ledger where all transactions are visible, systematic non-declaration is a pattern that auditors can identify.
+
+Is this perfectly precise? No. But the system does not need to be perfect. It needs to make honesty cheaper than dishonesty. When self-declaration is a single checkbox, when the unclaimed alternative is a donation to the Commons (not a loophole for personal gain), and when your reputation is your primary economic asset — the incentive structure naturally bends toward accurate attribution. The 3% Helix is a reward for generosity. It is not worth risking your lifetime Syntropy score to steal it.
+
+The digital provenance layer will harden over time as the tooling matures. The social provenance layer protects the system during the messy, human, physical-world phase where not everything can be tracked by a machine. Both layers are honest about their limitations. Both layers get stronger with scale.

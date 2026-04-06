@@ -55,3 +55,5 @@ Eventually, the Deflationary Loop reaches a mathematical event horizon.
 The internal Symbiocracy becomes so dense with physical assets, skills, and high-quality nourishment that the Nodes simply stop using the Airlock. Nobody bothers to flush their `c` units out to fiat via the Trojan Mouse, because there is nothing in the old world worth buying anymore. 
 
 The fiat money just sits frozen in the Hub's bank account, completely obsolete, acting merely as a museum exhibit of the old world's friction. Inside the Membrane, the biological engine runs on pure, frictionless trust. The transition is complete. The organism is free.
+
+This is the Deflation Ratchet — the mechanism that makes the system antifragile against time itself. Every month of operation lowers the floor. Every acquired asset is permanent. The land doesn't un-buy itself. The solar panels don't un-install. The servers don't un-rack. The old world can squeeze, inflate, regulate, and audit — but every passing quarter makes the organism slightly harder to kill and slightly cheaper to run. Time is not the enemy. Time is the engine.

@@ -43,4 +43,4 @@ The Strategist essentially writes new "DNA" for the struggling Node's workflow. 
 
 We replace the toxic hierarchy of "Boss and Subordinate" with the biological reality of "Mentor and Apprentice." The network is financially incentivized to uplift its weakest links. The Hub heals itself, the Node regains their dignity, and the Strategist is rewarded with passive wealth for creating order out of chaos. 
 
-We do not leave our wounded behind. We engineer them into absolute powerhouses.
+We do not leave our wounded behind. We engineer them into absolute powerhouses. And in doing so, every individual failure generates a public cure — a new DNA template that prevents the same failure from ever happening to another Node in the network. Failure is not waste. Failure is fertilizer.
