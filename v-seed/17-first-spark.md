@@ -1,5 +1,7 @@
 ## Chapter 17: The First Spark
 
+> **TL;DR:** The transition begins with zero technology and zero fiat. Open a physical notebook with one trusted partner, define your local 2b Dignity Peg, execute real work for each other, and split the resulting energy visually in three columns.
+
 Do not write a line of code. Do not build an app. Do not hire a lawyer, and do not register a cooperative. 
 
 If you attempt to build the massive digital infrastructure of The Nowland today, you will burn out. You will succumb to the friction of the fiat world before you ever generate your first unit of Syntropy. 
@@ -95,3 +97,8 @@ The entire 80/10/5/3/2 split can be computed by a single spreadsheet formula. Th
 If your infrastructure exceeds the complexity that your community *actually needs*, you are not building Syntropy. You are building friction. Let the pain of outgrowing a tool be the signal to build the next one. That pain is a Vacuum — and the Node who fills it earns the Helix.
 
 Start tomorrow. Find your Node B. Define your peg. Draw the columns. Spark the ledger.
+
+---
+
+> ### The Core Principle
+> **Never build the infrastructure before the physics.** The fastest way to kill a Symbiocracy is to build a massive app before you have a community. Start with "dumb tools": a physical notebook, a Google Sheet, a group chat. You only upgrade the tooling when the physical pain of managing your kinetic energy demands it. Execute work for your Pod. Feel the gravity of the Vacuum. Watch the Commons grow. Let the pain of scale force the infrastructure to evolve. Start tomorrow. Draw the columns. Spark the ledger.

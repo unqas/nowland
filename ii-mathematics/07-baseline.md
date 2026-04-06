@@ -1,5 +1,7 @@
 ## Chapter 7: The 4c Baseline & The Re-Pair Protocol
 
+> **TL;DR:** Survival is mathematically guaranteed through the 4c Baseline, and performance failures trigger a financially incentivized healing mechanism (The Re-Pair Protocol) rather than corporate termination.
+
 In the fiat world, the threat of starvation is the engine of compliance. 
 
 The fiat safety net is not a baseline of dignity; it is an apology for a broken system. It is funded by printing debt, it requires humiliating bureaucratic oversight, and it traps the recipient in a cycle of dependency. The underlying message is clear: produce surplus for the exactors, or your right to exist will be revoked.
@@ -44,3 +46,6 @@ The Strategist essentially writes new "DNA" for the struggling Node's workflow. 
 We replace the toxic hierarchy of "Boss and Subordinate" with the biological reality of "Mentor and Apprentice." The network is financially incentivized to uplift its weakest links. The Hub heals itself, the Node regains their dignity, and the Strategist is rewarded with passive wealth for creating order out of chaos. 
 
 We do not leave our wounded behind. We engineer them into absolute powerhouses. And in doing so, every individual failure generates a public cure — a new DNA template that prevents the same failure from ever happening to another Node in the network. Failure is not waste. Failure is fertilizer.
+
+> ### The Core Principle
+> **A dying sapling is a vulnerability to the whole forest.** Mature trees pump excess sugar underground through mycelial networks so smaller trees can survive the shade. The Nowland does the exact same thing via the 4c Baseline. Calculate your absolute minimum fiat requirements for 30 days of biological peace. If a member of your Pod crashes into a deep negative deficit, do not exile them. Deploy the Re-Pair Protocol. Pair them with an Elder, rewrite their engine, and generate a 3% Helix royalty for the mentor who heals them.

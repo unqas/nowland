@@ -6,6 +6,8 @@
 
 ## Chapter 4: The 2b Dignity Peg
 
+> **TL;DR:** Fiat currencies are backed by arbitrary debt; the Nowland ledger is pegged exclusively to the indisputable biological reality of human nourishment (The 2b Dignity Peg).
+
 To understand why the fiat economy is dying, look at how it measures its own health. 
 
 Since 1986, the fiat world has used the "Big Mac Index" as the ultimate benchmark for global purchasing power. Economists use it to compare the value of the US Dollar against the Euro, the Yen, or the Peso. They view this as a triumph of globalized efficiency. 
@@ -74,3 +76,6 @@ When you complete a bounty, the smart contract instantly routes your split of th
 Once your 4c ring is full for the month, you are free. You do not have to sit in a cubicle pretending to look busy. You can rest, you can learn, or you can build massive surplus assets (Batteries) to push your Pod toward infinite wealth. 
 
 You stop working for a wage, and you start engineering your own freedom.
+
+> ### The Core Principle
+> **Money is literal fuel, not abstract debt.** We do not peg our economy to sterile gold hidden in a vault; we peg it to the carbon-based metabolism of the human body (The 2b Dignity Peg). Calculate the exact fiat cost of a highly nourishing, locally sourced meal in your city. Ensure no one was exploited to make it. That fiat price is exactly `2b`. Stop charging for your abstract time. Charge exclusively for the Syntropy you generate, and map it directly to the exact amount of biological peace it secures for you.

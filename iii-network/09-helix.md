@@ -1,5 +1,7 @@
 ## Chapter 9: The Helix & The Co-Uplifting Engine
 
+> **TL;DR:** We redefine passive wealth: instead of hoarding physical assets to extract rent, Elders generate perpetual 3% royalties by open-sourcing highly efficient workflows (DNA) that uplift the entire network.
+
 In the fiat economy, the ultimate financial dream is to become a rent-seeker. 
 
 The old world teaches you that the highest pinnacle of success is to acquire a finite asset—a piece of real estate, a software patent, or a corporate monopoly—and build a fence around it. Once the fence is built, you sit back and extract a passive yield from the people who actually do the labor. You charge the young a toll just to exist on the earth. This creates a biologically toxic relationship between generations. The old hoard the resources, and the young are born into infinite debt. It is parasitic. It is the ultimate manifestation of Entropy.
@@ -89,3 +91,8 @@ This means: an Architect who believes their DNA was used without attribution can
 Is this perfectly precise? No. But the system does not need to be perfect. It needs to make honesty cheaper than dishonesty. When self-declaration is a single checkbox, when the unclaimed alternative is a donation to the Commons (not a loophole for personal gain), and when your reputation is your primary economic asset — the incentive structure naturally bends toward accurate attribution. The 3% Helix is a reward for generosity. It is not worth risking your lifetime Syntropy score to steal it.
 
 The digital provenance layer will harden over time as the tooling matures. The social provenance layer protects the system during the messy, human, physical-world phase where not everything can be tracked by a machine. Both layers are honest about their limitations. Both layers get stronger with scale.
+
+---
+
+> ### The Core Principle
+> **You do not climb to the top of the pyramid; you become the roots of the forest.** In fiat, you achieve passive wealth by building a fence around a resource and charging a toll. In The Nowland, you achieve passive wealth by creating an infinite resource and giving it away. If you figure out a faster, better way to do something, release it as a DNA Template. Every time a young Pod uses your workflow to build reality, the 3% Helix naturally routes back to you. The only path to sustained wealth in this system is sustained creation and aggressive mentorship.

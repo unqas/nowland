@@ -1,5 +1,7 @@
 ## Chapter 14: The Trojan Mouse
 
+> **TL;DR:** We do not preach to the fiat economy; we out-compete it by masquerading as a standard B2B agency (The Trojan Mouse), capturing their capital, and flushing it out strictly as Net value to fund our own infrastructure.
+
 How do you siphon energy from a dying beast without being infected by its rot?
 
 If you walk into a fiat mega-corporation and try to explain Symbiocracy, the 2b Dignity Peg, or the thermodynamics of mutual credit, their immune system will attack you. They will dismiss you as a utopian threat and refuse to do business with you. You will be locked out of the fiat bloodstream, starved of the initial kinetic energy required to bootstrap your Pod.
@@ -74,3 +76,7 @@ The core principle across all jurisdictions is identical: the Hub ingests fiat, 
 
 **Every Hub must engage a qualified local accountant and cooperative-law attorney before processing its first fiat transaction.** The Membrane is open-source architecture, not legal advice. Build the local DNA, stress-test it with professionals, and share the proven structure with the network.
 
+---
+
+> ### The Core Principle
+> **To launch a rocket, you must exert a force stronger than gravity.** Changing the system is mathematically impossible without paying the tax for the debt of previous generations. We do not fight the state, and we do not look for legal loopholes. The Hub acts as a Trojan Mouse: to the outside world, it looks like a standard B2B agency. It ingests fiat, isolates the tax hallucination at the edge of the Membrane, and records only the pure, pristine Net Value into the internal ledger. When you need fiat, you flush it out and pay the personal tax. The cost of friction is simply the gravity tax required to reach escape velocity.

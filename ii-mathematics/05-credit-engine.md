@@ -1,5 +1,7 @@
 ## Chapter 5: The Zero-Sum Mutual Credit Engine
 
+> **TL;DR:** Money is not a printed asset; it is a measurement of relationship. The ledger operates as a zero-sum mutual credit engine where currency is sparked into existence *only* upon the creation of physical value, eliminating both inflation and extractive debt.
+
 The greatest lie of the modern era is that wealth can be printed. 
 
 When a central bank creates a trillion dollars out of thin air, they have not created a single drop of clean water, a single line of code, or a single brick. They have simply diluted the existing pool of kinetic energy. They are practicing economic alchemy, attempting to violate the First Law of Thermodynamics: *Energy cannot be created or destroyed.* Because you cannot print actual physical energy, printing fiat currency only creates the hallucination of wealth while guaranteeing the reality of inflation. It is a system built on endless debt owed to centralized exactors. 
@@ -39,3 +41,6 @@ If you add your `-10b` and the developer’s `+10b` together, the total amount o
 But look at the physical reality: *The software now exists.* The ledger balances to zero, but the ecosystem is now physically and technologically richer. This is the ultimate paradox of The Nowland, and the reason it cannot collapse: **The ledger is a zero-sum game, but physical reality is not.** Furthermore, you are now sitting at a `-10b` vacuum. You cannot sit idle forever. To get your ledger back to zero, gravity dictates that you must now become a Battery. You must go to the board, find someone else's Vacuum, and execute work to clear your balance. 
 
 You have just witnessed a self-sustaining thermodynamic engine. The "debt" does not crush you; it simply pulls you into productive, frictionless collaboration with your neighbors. We do not need a government to stimulate the economy. The very physics of the ledger forces us to build, sustain, and uplift each other.
+
+> ### The Core Principle
+> **You cannot print wealth; you can only spark it.** Currency is an electrical circuit. You have the Battery (the person with surplus energy) and the Vacuum (the person with a need). The currency is emitted at exactly the millisecond the two connect. Therefore, do not fear negative balances. A negative balance is not a shameful fiat debt—it is simply the physical gravity required to get your community moving. Generate the Vacuum. Spark the circuit. Never charge interest on gravity.

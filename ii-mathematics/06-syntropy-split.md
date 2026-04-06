@@ -1,5 +1,7 @@
 ## Chapter 6: The Syntropy Split (80/10/5/3/2)
 
+> **TL;DR:** The 80/10/5/3/2 Split is not a tax; it is the thermodynamic physics of moving energy, automatically converting active labor into compounding local safety nets, physical infrastructure, and open-source rewards.
+
 In the fiat world, taxation is an act of delayed extraction. 
 
 You execute the work, you receive your wage, and then, months later, a centralized authority audits your ledger, threatens you with legal force, and extracts a percentage of your energy to fund the "infrastructure." Because the state is a massive, inefficient Pyramid, a significant portion of your tax money is burned in bureaucratic friction before it ever repairs a road or funds a hospital. This creates an inherently hostile relationship between the builder and the infrastructure. You are penalized for generating value. 
@@ -103,3 +105,6 @@ When the client pays the €2,000 invoice, the Hub does not instantly send €1,
 But because the Hub is a sophisticated corporate organism (detailed further in *Chapter 13: The Membrane* and the *Tax & Legal Appendix*), it possesses anatomical mechanisms to lower that final fiat burden. By routing energy through pre-tax physical expenses, local reinvestment shields, and optimized dividends, the Hub often resolves the tax for far less than the initially quoted €1,000 friction. When that happens, the excess fiat saved during the final tax settlement is converted back to `c` units and topped up to the internal ledger.
 
 By quoting the maximum required friction upfront, the organism guarantees its 100% internal Net value is protected. The fiat hallucination is explicitly paid for by the legacy matrix, and any thermodynamic savings achieved by the Hub's legal Membrane act as pure bonus energy for the community.
+
+> ### The Core Principle
+> **The Syntropy Split is a digestive tract, not a tax.** A fiat tax is someone knocking on your door months later to take your food. The Split is your body routing calories *instantly* to your own stomach, liver, and heart so you can survive tomorrow. Do not absorb the burden of the old world. When quoting fiat clients, explicitly run their requested work through the Friction Markup Formula (`M = B / (1 - B)`). Charge the legacy matrix for the exact cost of its own hallucination, and let your internal Split build your permanent safety net.

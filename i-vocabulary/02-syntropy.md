@@ -1,5 +1,7 @@
 ## Chapter 2: Syntropy vs. Entropy
 
+> **TL;DR:** The fiat economy rewards Entropy (extraction, friction, and decay); The Nowland measures and rewards exclusively Syntropy — the measurable, localized creation of order and physical value out of chaos.
+
 In the fiat world, value is an illusion defined by scarcity and market manipulation. If you buy all the water in a desert and charge a thousand dollars a drop, the fiat economy declares you a genius who has created massive "value." 
 
 Physics disagrees. You have created nothing. You have simply built a tollbooth on human survival. 
@@ -41,3 +43,6 @@ In a Symbiocracy, status is defined exclusively by Syntropy. Because the A-B-C l
 You cannot lie to the ledger. You cannot market your way into Syntropy. You either built the engine, or you didn't. 
 
 We do not fight the billionaires of the old world. We simply refuse to fuel their entropy machine, and we pour all of our kinetic energy into our own syntropic engine. We win by out-building them.
+
+> ### The Core Principle
+> **You are either a Sun or a Black Hole.** In fiat, the ultimate flex is the Black Hole—consuming yachts, mansions, and labor without emitting anything in return. In The Nowland, the ultimate status is the Sun—radiating so much usable code, infrastructure, and energy that you effortlessly pull entire Pods out of poverty. Evaluate your work. If it adds friction to the world just to extract a fee, it is Entropy. Refuse it. Pour your kinetic output exclusively into systems that create order.

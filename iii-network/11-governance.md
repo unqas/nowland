@@ -1,5 +1,7 @@
 ## Chapter 11: The Council Protocol — How the Hub Decides
 
+> **TL;DR:** We replace political consensus with "Weighted Consent," where decisions are made by those who generate Syntropy, and irreconcilable disputes are resolved not by force, but by biological mitosis (Forking).
+
 In the fiat world, "decentralization" is the dream of the naive, and "flat hierarchy" is a fairy tale that collapses the moment a real decision must be made. Critics of Symbiocracy will seize on this immediately: *"If there is no CEO, who decides what land the Hub buys? Who resolves a deadlock between two Pods? Who sets the strategic direction?"*
 
 These are valid questions. And they deserve a thermodynamic answer.
@@ -55,3 +57,8 @@ In a Symbiocracy, exit is frictionless. Your Lifetime Syntropy Score travels wit
 This is the deepest difference between Symbiocracy and every form of human governance that came before it. In a democracy, the minority is forced to accept the will of the majority. In a Symbiocracy, the minority simply walks away and builds a parallel reality. If their physics are superior, the network will naturally route its energy toward them. If not, they will learn, adapt, and merge back.
 
 We do not resolve disagreement with force, votes, or compromise. We resolve it with mitosis. The cell divides, and both halves grow stronger.
+
+---
+
+> ### The Core Principle
+> **You cannot hold a referendum on the speed of light.** We do not govern by fiat hierarchy or noisy political consensus. We govern by Weighted Consent. Any Node can propose an action. Any Node can block it—but their Block is weighted by the physical reality of how much Syntropy they have historically generated. If a fundamental disagreement remains unbreakable, you do not fight. You Fork. Walk away, test your superior physics in a parallel Hub, and let the environment decide who built the better engine.

@@ -1,5 +1,7 @@
 ## Chapter 12: The Circuit Breaker — Resolving Disputes Without Lawyers
 
+> **TL;DR:** Subjective disputes are metabolized through a fast, frictionless "Peer Audit" run by randomly selected domain experts, ensuring that honesty is mathematically cheaper than dishonesty.
+
 The Nowland OS is built on Consilience — the principle that truth is verified by physical reality. If the code compiles, the bridge stands, or the meal is served, the work is done. The ledger closes. The circuit sparks.
 
 But what happens when reality is ambiguous?
@@ -93,3 +95,8 @@ The two new organisms are free to test their competing visions in the physical w
 We do not resolve conflict with war, courts, or compromise. We resolve it with biology. The cell divides, and life continues. There are no losers in Mitosis — only two new experiments running simultaneously.
 
 This is not merely resilience — it is antifragility. The organism doesn't just survive internal conflict; it *feeds on it*, converting disagreement into parallel experimentation. The more forks occur, the faster the network discovers superior solutions. *(See Appendix: Engineering Antifragility for the full defensive architecture.)*
+
+---
+
+> ### The Core Principle
+> **Biology does not amputate a limb; it diagnoses the infection.** When human beings disagree on the quality of work, do not burn kinetic energy on lawyers and threats. Rely on the Peer Audit: randomly select three unconnected Nodes to judge the physical reality of the deliverable. If a Node consistently fails or commits fraud, do not execute them immediately. Deploy the Re-Pair protocol. Diagnose the friction. The goal is to build an organism where honesty is mathematically cheaper than dishonesty, and where failure is transformed into fertilizer.

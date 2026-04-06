@@ -1,5 +1,7 @@
 ## Chapter 15: The Infinite Deflation
 
+> **TL;DR:** While fiat currencies must inflate to survive debt, the Nowland ecosystem leverages corporate purchasing power to continuously acquire shared physical assets, indefinitely driving the baseline cost of human survival toward zero.
+
 In the fiat economy, central bankers are terrified of deflation. 
 
 They will tell you that if prices drop, the economy will stall, people will stop spending, and civilization will collapse. This is a half-truth. Deflation *is* fatal to the fiat world, but only because the fiat world is built entirely on debt. If a fiat currency deflates, the real value of the debt increases, and the centralized exactors go bankrupt. To keep the Pyramid from collapsing under its own weight, the state must constantly inflate the currency, stealing the purchasing power of your stored kinetic energy to pay for their systemic inefficiencies. 
@@ -57,3 +59,6 @@ The internal Symbiocracy becomes so dense with physical assets, skills, and high
 The fiat money just sits frozen in the Hub's bank account, completely obsolete, acting merely as a museum exhibit of the old world's friction. Inside the Membrane, the biological engine runs on pure, frictionless trust. The transition is complete. The organism is free.
 
 This is the Deflation Ratchet — the mechanism that makes the system antifragile against time itself. Every month of operation lowers the floor. Every acquired asset is permanent. The land doesn't un-buy itself. The solar panels don't un-install. The servers don't un-rack. The old world can squeeze, inflate, regulate, and audit — but every passing quarter makes the organism slightly harder to kill and slightly cheaper to run. Time is not the enemy. Time is the engine.
+
+> ### The Core Principle
+> **Fiat is a melting ice cube; physics is a solar panel.** You cannot out-earn fiat inflation as an individual. You survive by pooling your capital inside a corporate Membrane, converting fiat into shared physical assets (servers, land, knowledge), and permanently destroying the need to pay for those assets again. Identify your Pod's shared fiat bleed. Consolidate your resources, procure the asset as a tax-advantaged cooperative, and permanently lower your 4c baseline. Let the deflationary ratchet click.

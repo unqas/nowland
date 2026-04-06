@@ -10,6 +10,8 @@ We do not fight the fiat world. We simply out-compete it. But to out-compete it,
 
 ## Chapter 13: The Membrane
 
+> **TL;DR:** To survive inside the old world without being crushed by it, we use Cooperative Law and Double-Entry Bookkeeping to build a semi-permeable legal "Membrane" that ingests fiat capital but legally shields the internal organism from corporate extraction.
+
 Every few decades, a group of visionaries wakes up to the hallucination of the fiat economy, buys a plot of land in the woods, and attempts to start a utopian commune. 
 
 Almost all of them fail. 
@@ -69,3 +71,8 @@ Here is the honest truth: **the Nowland OS works even if you pay full tax on eve
 Your specific legal reality — your country, your tax code, your employment classification rules — will demand specific adaptations. **We do not give legal advice. We give you the physics.** We invite you to engage qualified accountants and lawyers, study the rules of your own jurisdiction, build your own Syntropic legal structures, and prove via Consilience that they work. Then publish your findings as DNA on the Stigmergic Board so the next Hub doesn't have to start from zero.
 
 The Membrane is open-source. Improve it.
+
+---
+
+> ### The Core Principle
+> **You cannot build a new world by running to the woods to starve.** Communes fail because they attempt perfectly isolated systems and run out of fiat capital to trade with the old world. Biology survives toxic environments by building a semi-permeable membrane. The Hub is our membrane. Using strict Cooperative Law and Accrual Accounting, the Hub legally ingests fiat energy from the legacy economy, strips it of its corporate tax friction, and passes pure, net-cleared kinetic energy to the internal organism. Stay in the city. Metabolize the matrix.
