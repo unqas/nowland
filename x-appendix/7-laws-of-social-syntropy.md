@@ -19,7 +19,7 @@ Biological momentum scales through cellular division. If your Pod grows past 8 N
 
 **4. Tax the Transaction, Not the Asset (The Sub-Atomic Commons)**
 Never ask a community for a massive, upfront donation to build infrastructure. People instinctively resist parting with stored kinetic energy (savings). 
-Instead, bake the infrastructure into the transaction itself. By enforcing the Syntropy Split (80/10/5/3/2) at the sub-atomic level of every trade, the community's wealth compounds invisibly. Every time two people trade value, the Pod and the Hub automatically get richer. You build the cathedral effortlessly, one invisible grain of sand at a time.
+Instead, bake the infrastructure into the transaction itself. By enforcing the Syntropy Split (80/10/5/3/2) at the sub-atomic level of every trade, the community's wealth compounds invisibly. Every time two people trade value, the Pod (The Circle) and the Hub (The Community) automatically get richer. You build the cathedral effortlessly, one invisible grain of sand at a time.
 
 **5. Prove it with Physics (Consilience over Debate)**
 You will never convince an ideologue that Symbiocracy works by arguing with them on social media. Arguing burns kinetic energy and produces only heat (friction). 

@@ -38,17 +38,17 @@ These are your daily "cheat codes" to protect your energy and maintain your mome
 ## PART III: The Mathematics of Value (How to Share)
 Whether you are running this through a high-tech smart contract or manually on a Google Sheet, this is how you divide the energy of every victory to ensure nobody burns out and the community grows.
 
-* **80% to the Source:** The people who actually did the sweat-labor keep the vast majority of the reward.
+* **80% to the Source (The Node):** The people who actually did the sweat-labor keep the vast majority of the reward.
 * **10% to the Circle (The Pod):** A safety net for your immediate team's shared tools, software, or emergency time-off.
-* **5% to the Hub (The Organism):** The energy required to maintain the legal airlock, secure the leads, and keep the ecosystem safe.
-* **3% to the DNA (The Architect):** The perpetual royalty to whoever created the blueprint, template, or idea. This is the Co-Uplifting Engine—your financial incentive to make everyone around you a genius.
-* **2% to the Grid (The Commons):** To maintain the global servers and digital infrastructure.
+* **5% to the Community (The Hub):** The energy required to maintain the legal airlock, secure the leads, and build the shared community infrastructure.
+* **3% to the Creators (The DNA):** The perpetual royalty to whoever created the blueprint, template, or idea. This is the Co-Uplifting Engine—your financial incentive to make everyone around you a genius.
+* **2% to the Network (The Grid):** To maintain the global servers and the autonomy of the digital infrastructure.
 
 ---
 
 ## PART IV: The Ultimate Goal
 You are not building this to become a billionaire. Billionaires are black holes hoarding dead energy because they are terrified of the chaos around them.
 
-**You are building UNQA (The Hub) and Freespace (The Environment) to become The Last Millionaire.**
+**You are building your Pod (or the Hub) and the Network (UNQA) to become The Last Millionaire.**
 
 You are using the friction and capital of the old world one final time to buy the land, the servers, and the tools. Once the machine is running, you turn it on, distribute the wealth through the Syntropy Split, and permanently cure the disease of scarcity for everyone who comes after you. You trade the anxiety of hoarding for the absolute biological peace of living in an indestructible, frictionless forest.

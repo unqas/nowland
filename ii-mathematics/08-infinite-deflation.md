@@ -54,7 +54,7 @@ What happens to the rest of their energy? It is released. They spend it research
 ### The Event Horizon
 Eventually, the Deflationary Loop reaches a mathematical event horizon. 
 
-The internal Symbiocracy becomes so dense with physical assets, skills, and high-quality nourishment that the Nodes simply stop using the Airlock. Nobody bothers to flush their `c` units out to fiat via the Trojan Mouse, because there is nothing in the old world worth buying anymore. 
+The internal Symbiocracy becomes so dense with physical assets, skills, and high-quality nourishment that the Nodes simply stop using the Airlock. Nobody bothers to flush their internal credits (`b` and `c` units) out to fiat via the Trojan Mouse, because there is nothing in the old world worth buying anymore. 
 
 The fiat money just sits frozen in the Hub's bank account, completely obsolete, acting merely as a museum exhibit of the old world's friction. Inside the Membrane, the biological engine runs on pure, frictionless trust. The transition is complete. The organism is free.
 

@@ -33,7 +33,7 @@ In The Nowland, we replace the Pyramid with **Symbiocracy**—the governance of 
 Symbiocracy recognizes that the health of the entire organism relies entirely on the autonomous health of its individual cells. It operates on three absolute rules:
 
 1. **Eradication of the Middleman:** There are no bosses, only aligned builders. You do not ask permission to create value. You read the environment, recognize a vacuum (a need), and execute. 
-2. **Horizontal Energy Flow:** Energy does not flow "up" to a stagnant peak. It flows laterally. When a Pod generates a massive surplus, it doesn't get hoarded by a non-producing executive. The Syntropy Split routes that energy directly into the local Hub treasury, reinforcing the foundations of the community.
+2. **Horizontal Energy Flow:** Energy does not flow "up" to a stagnant peak. It flows laterally. When a Pod (the local strike-team) generates a massive surplus, it doesn't get hoarded by a non-producing executive. The Syntropy Split routes that energy directly into the local Hub treasury (the cooperative membrane), reinforcing the foundations of the community.
 3. **Aligned Survival:** In a Symbiocracy, it is mathematically impossible for the top to thrive while the base starves. Because the infrastructure is funded by the transaction itself, the success of the most elite Architect directly subsidizes the 4c biological peace of the newest Apprentice. 
 
 #### The Phase Shift

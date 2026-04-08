@@ -23,7 +23,7 @@ We document these tensions here because Consilience demands it. We do not hide t
 
 ## 2. The Liquidity Trap
 
-**The Tension:** The Stigmergic Board assumes that for every Vacuum, there is a Battery with the matching skills. But what happens in a young Hub with only 15 Nodes? If the Hub needs a blockchain developer, a veterinarian, or a plumber, and none of the 15 Nodes possess that skill, the Vacuum festers. Energy cannot flow.
+**The Tension:** The Stigmergic Board assumes that for every Vacuum (Need/Demand), there is a Battery (Asset/Supply) available or a Node with the matching kinetic skills to generate it. But what happens in a young Hub with only 15 Nodes? If the Hub needs a blockchain developer, a veterinarian, or a plumber, and none of the 15 Nodes possess that skill, the Vacuum festers. Energy cannot flow.
 
 **The Current Defense:** Inter-Hub Vacuum routing. A Hub can advertise its unfilled Vacuums to neighboring Hubs, allowing specialized Nodes from other communities to claim and execute the work remotely. The Syntropy Split still fires, with the 5% Hub allocation split between the requesting Hub and the providing Hub.
 
@@ -65,11 +65,11 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 
 | Community Size | Tool | Complexity |
 |---|---|---|
-| 2–5 Nodes | Physical notebook | Zero-tech. Pure trust. |
-| 5–15 Nodes | Shared spreadsheet (Google Sheets, LibreOffice) | Simple formulas auto-calculate the Syntropy Split. Transparent to all members. |
+| 2–5 Nodes (The Pod) | Physical notebook | Zero-tech. Pure trust. |
+| 5–15 Nodes (The Hub) | Shared spreadsheet (Google Sheets, LibreOffice) | Simple formulas auto-calculate the Syntropy Split. Transparent to all members. |
 | 15–50 Nodes | Basic web application | A lightweight ledger app tracking balances, Vacuums, and the Split. No blockchain required at this stage. |
 | 50–250 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
-| 250+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
+| 250+ Nodes (The Grid) | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
 
 **The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 23 provides a concrete "Dumb Tools" progression table for the interim.
 

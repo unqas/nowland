@@ -10,7 +10,7 @@ To organize humans in a post-geographic world, we do not build digital offices. 
 
 ---
 
-## Chapter 9: The Node, The Pod, and The Hub - The Five Tiers of Life
+## Chapter 9: The Node, The Pod, The Hub, The Grid, and The NET - The Five Tiers of Life
 
 > **TL;DR:** To survive the fiat world without burning out as an isolated freelancer, we organize into an indestructible, five-tiered atomic structure: the sovereign Node (cell), the autonomous Pod (organ), the protective Hub (organism), the self-sustaining Grid (ecosystem), and the planetary NET (biosphere). Each tier emerges only when the physics demand it.
 
@@ -22,7 +22,7 @@ In cellular biology, a single, isolated cell in a harsh environment is incredibl
 
 In The Nowland, we do not operate as isolated freelancers. We organize into an indestructible, five-tiered atomic structure that mirrors the exact same hierarchy found in every living organism on Earth: the Cell, the Organ, the Organism, the Ecosystem, and the Biosphere.
 
-### 1. The Node (The Cell / The Individual)
+### 1. The Node (The Source / The Cell / The Individual)
 
 You are the Node. 
 
@@ -30,7 +30,7 @@ You are a sovereign biological entity. You are not an employee, and you do not b
 
 As a Node, your only responsibility is to find Vacuums on the Stigmergic Board, execute the work, and manage your internal ledger. You do not worry about corporate taxes or fiat legalities, because you do not face the outside world alone. You dock into a Pod.
 
-### 2. The Pod (The Organ / The Team)
+### 2. The Pod (The Circle / The Organ / The Team)
 
 A Node on its own is fragile. A Pod is lethal. 
 
@@ -44,7 +44,7 @@ The Pod is the ultimate unit of execution in the Symbiocracy. Just as a biologic
 
 A Node can participate in up to three Pods simultaneously. This allows a builder to diversify their energy across multiple domains — one Pod for software, another for music production, a third for agricultural coordination — without fragmenting their identity. Your cryptographic identity and Lifetime Syntropy Score travel with you across all Pods.
 
-### 3. The Hub (The Organism / The Membrane)
+### 3. The Hub (The Organization / The Community / The Organism)
 
 While the Pod is highly efficient at generating Syntropy, it cannot legally process fiat money without triggering the exact same tax and compliance traps as the isolated freelancer. 
 
@@ -58,7 +58,7 @@ The Hub is the macro-structure. Legally, it is a registered Cooperative (like th
 
 The Hub is where individual survival transforms into collective resilience. A Pod keeps you alive. A Hub makes you antifragile.
 
-### 4. The Grid (The Ecosystem / The Autonomy)
+### 4. The Grid (The Commons / The Ecosystem / The Autonomy)
 
 A single Hub can sustain a community of builders. But a community of builders is not yet a civilization. 
 
@@ -71,7 +71,7 @@ The Grid is what happens when multiple Hubs in the same geographic region begin 
 
 The Grid is the level where the Infinite Deflation becomes physically visible. You can see the farmland. You can walk through the Freespace. You can taste the difference between the food grown by the community and the plastic-wrapped "products" sold at the fiat supermarket. 
 
-### 5. The NET (The Biosphere / The Global Community)
+### 5. The NET (The Network / The Biosphere / The Connection)
 
 The NET is the community nervous system — the global federation of Grids. 
 
@@ -88,11 +88,11 @@ Look at how beautifully this scales.
 
 | Tier | Biological Analog | Scale | Core Function |
 |---|---|---|---|
-| **Node** | Cell | 1 person | Generate Syntropy |
-| **Pod** | Organ | 3–8 people | Execute and protect |
-| **Hub** | Organism | 15–250 people | Shield and metabolize fiat |
-| **Grid** | Ecosystem | Multiple Hubs, one region | Physical sovereignty |
-| **NET** | Biosphere | Global federation of Grids | Universal coordination |
+| **Node** | Cell | 1 person | Generate Syntropy (The Source) |
+| **Pod** | Organ | 3–8 people | Execute and secure (The Circle) |
+| **Hub** | Organism | 15–250 people | Organize and protect (The Community) |
+| **Grid** | Ecosystem | Multiple Hubs, one region | Physical autonomy (The Commons) |
+| **NET** | Biosphere | Global federation of Grids | Universal connection (The Network) |
 
 You (The Node) are free to execute your specific mastery. Your localized survival is guaranteed by your closest friends (The Pod). And your legal protection, global infrastructure, and fiat translation are handled seamlessly by the overarching organism (The Hub). 
 
