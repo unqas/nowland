@@ -12,7 +12,7 @@ You do not build the civilization. You plant the seed.
 
 ---
 
-## Chapter 18: You Are Ground Zero
+## Chapter 22: You Are Ground Zero
 
 > **TL;DR:** You do not need a million dollars, software, or permission to start a new civilization. You start with zero fiat leverage, and you execute the biological operating system immediately with a single piece of paper and one trusted partner.
 
@@ -31,17 +31,18 @@ Because you have no fiat money to distribute, you are forced to rely entirely on
 
 Starting at zero guarantees that the foundation of your Pod is built on pure, uncorrupted kinetic energy. It ensures that the people who join you are there for the physics of the system, not the fiat payout. 
 
-#### The Biology of Scaling (Node to Grid)
+#### The Biology of Scaling (Node to NET)
 You do not need to overthrow the global banking system today. You do not even need to register a Cooperative or build the Hub. 
 
 Look at how a forest grows. It does not begin by constructing a massive, wooden canopy in the sky and hoping the roots will follow. It begins with a single acorn dropping into the dirt. That seed contains the entire DNA of the mature oak tree, compressed into a microscopic package. It only concerns itself with its immediate environment. It pulls a fraction of a millimeter of water from the soil. It pushes one tiny root downward. It executes its biological code at the sub-atomic level. 
 
 The Syntropy Split (80/10/5/3/2) is your DNA. It scales dynamically as the organism grows:
 
-1. **The Seed (1 Person):** You are a lone Node preparing to split. As you execute work, you keep 80% of the energy, you store 10% to secure your future Pod, 5% to build infrastructure, 3% for compounding interest, and 2% frozen for the future.
-2. **The Pod (2+ People):** You have initiated Symbiosis. The 80% is specifically shared between the active builders. The 10% becomes true shared biology (social security and welfare). The 5% starts preparing the Membrane for a Hub.
-3. **The Hub (2+ Pods):** The zero-sum ledger activates cross-pod. You can now trade between Pods seamlessly. The Hub forms the Airlock. The 5% now sustains the Hub's legal operations and infrastructure.
-4. **The Grid (Hub to Hub):** The macro-organism. Hubs across the globe recognize each other and remit the final 2% to sustain the international server infrastructure making the Symbiocracy universal.
+1. **The Genesis Node (1 Person):** You are the Seed, a lone Cell preparing to split. As you execute work, you keep 80% of the energy, you store 10% to secure your future Pod, 5% to build infrastructure, 3% for compounding interest, and 2% frozen for the future.
+2. **The Pod (3–8 Nodes):** You have initiated Symbiosis. The 80% is specifically shared between the active builders. The 10% becomes true shared biology (social security and welfare). The 5% starts preparing the Membrane for a Hub.
+3. **The Hub (2+ Pods):** The zero-sum ledger activates cross-Pod. You can now trade between Pods seamlessly. The Hub forms the Airlock. The 5% now sustains the Hub's legal operations and infrastructure.
+4. **The Grid (Multiple Hubs):** The local ecosystem. Hubs in one geographic region share physical infrastructure — agricultural land, housing, energy production. Autonomous communities emerge.
+5. **The NET (Global):** The planetary biosphere. Grids across the globe recognize each other and remit the 2% to sustain the local and global infrastructure making the Symbiocracy universal.
 
 **You are that seed. You are Ground Zero.**
 

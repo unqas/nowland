@@ -1,4 +1,4 @@
-## Chapter 19: The First Spark
+## Chapter 23: The First Spark
 
 > **TL;DR:** The transition begins with zero technology and zero fiat. Open a physical notebook with one trusted partner, define your local 2b Dignity Peg, execute real work for each other, and split the resulting energy visually in three columns.
 

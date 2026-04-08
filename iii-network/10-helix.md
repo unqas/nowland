@@ -92,6 +92,24 @@ Is this perfectly precise? No. But the system does not need to be perfect. It ne
 
 The digital provenance layer will harden over time as the tooling matures. The social provenance layer protects the system during the messy, human, physical-world phase where not everything can be tracked by a machine. Both layers are honest about their limitations. Both layers get stronger with scale.
 
+### The Cascade Attribution Model (Physical Goods)
+
+For digital work — code, design, documents — provenance is straightforward. Git tracks every contribution down to the line. But physical goods embed intellectual contributions invisibly. You cannot open an engine and see which upstream Architect's blueprint designed the combustion chamber.
+
+The Nowland proposes the **Cascade Attribution Model** — a recursive, one-layer-deep redistribution that naturally propagates Helix without requiring decomposition of the finished product:
+
+1. **Direct Attribution.** When a Node closes a circuit, they declare the *direct tools and templates* they used. A furniture builder declares the joinery template. A farmer declares the soil management workflow. A chef declares the recipe framework. This is always one layer — the tool *you personally used*, not its ancestry.
+
+2. **Automatic Cascade.** The Architect who received the Helix from Step 1 already declared *their* upstream tools when they published the original template. The system automatically takes a portion of the incoming Helix and redistributes it one layer down to *those* upstream contributors. And those contributors, in turn, cascade down to *their* declared sources.
+
+3. **The Pod Terminus.** The cascade continues until the Helix reaches a final Pod where the original DNA was generated from scratch, with no upstream declaration. At that point, the remaining Helix is either: (a) split by Pod consensus among members who contributed to the original template, or (b) deposited into the Pod's Commons treasury to fund shared infrastructure. The golden rule: when attribution is hard to define between individuals, it flows to the commons.
+
+4. **Natural Decay.** At each cascade step, the amount redistributed decays naturally — because each Architect keeps the majority of their received Helix and only passes on the upstream fraction. After three to four generations of cascade, the amounts become negligible. The system does not need a hard cap; the math caps itself through exponential decay.
+
+This model is deliberately imperfect. It will under-attribute some Architects and over-attribute others. But it satisfies the core thermodynamic requirement: **honesty must be cheaper than dishonesty.** Declaring your upstream tools is a single checkbox that costs you nothing and routes a tiny fraction of your Helix to the people whose work made yours possible. *Not* declaring costs you nothing financially — but your output's similarity to the undeclared template is visible on the transparent ledger, and systematic non-declaration erodes your reputation over time.
+
+The first physical-goods Pods will generate the empirical data to refine this model. We publish it here as a starting architecture — not as a final answer — because Consilience demands that we test it against reality before claiming it is solved.
+
 ### The Re-Pair Bond and Mentorship Helix
 
 The Helix does not only reward published templates. It also rewards direct mentorship.

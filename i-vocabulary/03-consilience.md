@@ -37,7 +37,9 @@ The Nowland is inherited by the builders. The quiet engineers, the diligent farm
 
 We do not write manifestos demanding that the fiat world change its ways. We simply forge the zero-sum ledger, prove it works through the physical accumulation of real wealth, and let the old world watch our Consilience in real-time. 
 
-Truth is not something you vote on. Truth is something you build.
+Furthermore, we recognize that the only true "vote" in the fiat world happens at the cash register. We do not wait for political cycles; we enact the **Continuous Vote**. Every time you buy a local, repairable product instead of a disposable corporate one, you are actively starving the Entropy machine and securing reality. You vote for the world you want with your fiat consumption decisions long before you build it with your Syntropy.
+
+Truth is not something you vote on at a ballot box. Truth is something you build, and something you continuously fund with your daily choices.
 
 > ### The Core Principle
 > **You cannot negotiate with gravity.** If a car engine won't start, you don't form a political party to debate its philosophy; you turn a wrench until it runs. The next time your Pod disagrees on a workflow or a design, stop arguing. Build physical prototypes of both options. Test them against reality. Let the thermodynamic efficiency of the prototype declare the winner, and adopt it immediately—even if it wasn't your idea.

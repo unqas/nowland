@@ -34,15 +34,15 @@ At the Pod level (3–8 Nodes), formal governance is unnecessary. Consensus emer
 
 If a Pod grows past eight Nodes and consensus begins to fracture, the Pod does not install a manager. It divides. Two Pods of four will always outperform one Pod of eight, because trust does not scale linearly — it scales inversely with group size.
 
-### The Constitutional Constants
+### The Constitutional Defaults
 
-Certain decisions are *not* subject to governance. They are the thermodynamic constants of the operating system — the physics that cannot be altered by any vote, any Block, or any consensus:
+Certain decisions are *not* subject to casual governance. They are the founding defaults of the operating system — the proven starting baseline that has been stress-tested, mathematically validated, and designed to protect the organism from its own short-term instincts:
 
-* **The Syntropy Split ratios (80/10/5/3/2):** These are hardcoded into the DNA of the ledger. Changing them would violate the fundamental energy balance of the system.
-* **The 2b Dignity Peg methodology:** The peg must always map to the physical cost of dignified nourishment. No governance process can decouple the economy from biological reality.
-* **The 4c Baseline guarantee:** The Mycelial Floor is sacred. No Hub can vote to reduce or eliminate the baseline survival guarantee of its Nodes.
+* **The Syntropy Split ratios (80/10/5/3/2):** These are the default energy distribution. Changing them would alter the fundamental balance between individual reward and community investment. They are provided as a starting baseline that works — and they should not be modified until a competing ratio has been proven superior through Consilience (a working prototype that generates more Syntropy with less friction).
+* **The 2b Dignity Peg methodology:** The peg must always map to the physical cost of dignified nourishment. No governance process should decouple the economy from biological reality. The specific implementation — the Trattoria Benchmark, the Peg Corridor, the quarterly survey — can be refined. The principle that currency must be anchored to human metabolism is the bedrock.
+* **The 4c Baseline guarantee:** The Mycelial Floor is sacred. No Hub should vote to reduce or eliminate the baseline survival guarantee of its Nodes. The *level* of the baseline may rise as the Hub acquires infrastructure — this is the Infinite Deflation in action — but it may never fall below the biological minimum.
 
-These constants are not policy. They are physics. You do not hold a referendum on the speed of light.
+These defaults are not arbitrary policy. They are the best starting point we have — validated by the mathematics in this book and the prior art of a century of cooperative experiments. But they are not dogma. If a future Pod discovers a provably superior ratio through rigorous experimentation and open-source documentation, the network should adopt it. The constants are strong because they are tested, not because they are sacred. You do not hold a referendum on the speed of light — but you can always build a better instrument to measure it.
 
 ### The Right to Fork
 
