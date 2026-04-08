@@ -42,11 +42,11 @@ This work is published under the **Consilience Public License (CPL) v0.3**.
 
 | Allocation | Recipient | Purpose |
 |---|---|---|
-| **80%** | The Node (Licensee) | Direct compensation for kinetic labor |
-| **10%** | The Pod | Local team infrastructure, safety net, and tooling |
-| **5%** | The Hub | Legal Membrane, physical infrastructure, and ecosystem security |
-| **3%** | The Helix | Upstream DNA Template Architects and Mentorship Bonds |
-| **2%** | The Grid | Global infrastructure maintainers of The Nowland OS |
+| **80%** | The Node (The Source | Licensee) | Direct compensation for kinetic labor |
+| **10%** | The Pod (The Circle | Your Team) | Local team infrastructure, safety net, and tooling |
+| **5%** | The Hub (The Community) | Legal Membrane, physical infrastructure, and shared community assets |
+| **3%** | The Helix (The Creators | The Authors) | IP, Upstream DNA Templates, and Mentorship Bonds |
+| **2%** | The Grid & The NET (The Network | UNQA) | Global infrastructure maintainers and universal connection |
 
 ---
 

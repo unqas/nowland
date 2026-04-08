@@ -17,11 +17,11 @@ By working 4 days and resting 3, the builder maintains a consistently high outpu
 `4c` is the Mycelial Floor — one month of biological peace. By the Dignity Peg (`2b = ~€20`), this maps to approximately **€4,000 of kinetic energy per month**.
 
 To cover your `4c` with the 80/10/5/3/2 Syntropy Split, you must *generate* `5c` (€5,000), because 20% is immediately routed to the Split:
-*   `5c × 80% = 4c` → Your take-home.
-*   `5c × 10% = 0.5c` → Pod treasury.
-*   `5c × 5% = 0.25c` → Hub infrastructure.
-*   `5c × 3% = 0.15c` → Helix (DNA Architects and Mentors).
-*   `5c × 2% = 0.10c` → Grid/NET.
+*   `5c × 80% = 4c` → Your take-home (The Source).
+*   `5c × 10% = 0.5c` → Pod treasury (The Circle).
+*   `5c × 5% = 0.25c` → Hub infrastructure (The Community).
+*   `5c × 3% = 0.15c` → Helix DNA Architects (The Creators).
+*   `5c × 2% = 0.10c` → Global infrastructure (The Network).
 
 But `5c` only covers the internal ledger. Your fiat obligations still exist: rent, groceries not yet covered by the Hub, personal taxes at the Airlock. The safe default markup for fiat drag is **×2** — meaning you should aim to generate **`10c` (€10,000 gross)** to guarantee that, after the Split and the Gravity Tax, you clear your `4c` Baseline comfortably.
 
@@ -112,11 +112,11 @@ Here is a concrete example of a 5-Node Pod generating `10c` gross per Node per m
 | Flow | Calculation | Monthly Amount |
 |---|---|---|
 | **Total Pod Gross** | 5 Nodes × 10c | 50c |
-| **Node Take-Home (80%)** | 50c × 40% (-50% Gravity Tax) | 20c (4c per Node) |
-| **Pod Treasury (10%)** | 50c × 10% | 5c |
-| **Hub Infrastructure (5%)** | 50c × 5% | 2.5c |
-| **Helix (3%)** | 50c × 3% | 1.5c |
-| **Grid/NET (2%)** | 50c × 2% | 1.0c |
+| **Node Take-Home (80%) (The Source)** | 50c × 40% (-50% Gravity Tax) | 20c (4c per Node) |
+| **Pod Treasury (10%) (The Circle)** | 50c × 10% | 5c |
+| **Hub Infrastructure (5%) (The Community)** | 50c × 5% | 2.5c |
+| **Helix DNA (3%) (The Creators)** | 50c × 3% | 1.5c |
+| **Network (2%) (The Connection)** | 50c × 2% | 1.0c |
 
 The 5c Pod Treasury per month means:
 - **Youth Fund** (10% of Pod Treasury): 0.5c/month → 6c/year. Enough to power up the fractional baseline of 4–6 children.
@@ -127,7 +127,7 @@ After 12 months, a 5-Node Pod generating 10c/Node has routed and accumulated **6
 
 ## The Multiple Streams Advantage
 
-A Node can participate in up to three Pods simultaneously. The math stays clean because each Pod operates its own independent ledger. If you generate 10c in Pod A and 5c in Pod B:
+A Node can participate in up to three Pods simultaneously. The math stays clean because each Pod operates its own independent ledger. If you generate 10c in Pod A (Circle A) and 5c in Pod B (Circle B):
 - Pod A receives its full 10/5/3/2 split on your 10c.
 - Pod B receives its full 10/5/3/2 split on your 5c.
 - Your personal net (after 50% Gravity Tax) take-home is 40% of the combined 15c = 6c.

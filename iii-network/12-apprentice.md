@@ -14,7 +14,7 @@ A child does not require the full `4c` Baseline of an adult because they share t
 
 Because a parent Node with children requires a higher baseline to sustain their family, the organism automatically helps shoulder this reality through two mandatory allocations:
 
-**1. The Node Allocation.** Parents directly allocate at least 20% of their net kinetic energy toward the ongoing sustenance and future foundation of their children. This is not charity. This is the Node's investment in the organism's next generation of high-output Batteries. The more children, the proportionally higher the allocation. A Node with three children and a Node with one child do not carry the same gravitational burden, and the system does not pretend they do.
+**1. The Node Allocation.** Parents directly allocate at least 20% of their net kinetic energy toward the ongoing sustenance and future foundation of their children. This is not charity. This is the Node's investment in the organism's next generation of high-output cells. The more children, the proportionally higher the allocation. A Node with three children and a Node with one child do not carry the same gravitational burden, and the system does not pretend they do.
 
 **2. The Pod Contribution.** The Pod automatically allocates a structural minimum — typically 10% of the total Pod Treasury — specifically to the "Youth Fund." This covers shared child-rearing emergencies, educational software, community activities, and crisis childcare. Every single Node in the Pod contributes to this fund through their standard 10% split, regardless of whether they personally have children.
 
@@ -66,7 +66,7 @@ This is a critical architectural decision. It separates the emotional friction o
 
 An Elder teaches the apprentice how to code, farm, design, or build, and the Elder's incentive is the future **Legacy Tail**. The mentor is financially motivated to turn the child into an absolute powerhouse of production because, in a decade, that child's Syntropy will generate passive income for the Elder's own retirement.
 
-This alignment of incentive is the deepest form of co-uplifting in the system. The Elder is not volunteering out of selfless generosity — they are investing in a future Battery whose output will sustain them. The child is not passively receiving knowledge — they are acquiring the kinetic skills that will make them sovereign. Both parties are biologically aligned. Both parties profit.
+This alignment of incentive is the deepest form of Co-Uplifting in the system. The Elder is not volunteering out of selfless generosity — they are investing in a future Node whose output will sustain them. The child is not passively receiving knowledge — they are acquiring the kinetic skills that will make them sovereign. Both parties are biologically aligned. Both parties profit.
 
 ## The Opt-In Principle (The Anti-Kibbutz)
 

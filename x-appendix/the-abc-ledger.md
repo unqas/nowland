@@ -39,7 +39,7 @@ The scale follows strict metric scaling, making internal calculation effortless:
 $$100\text{a} = 1\text{b}$$
 $$100\text{b} = 1\text{c}$$
 
-Since **1c** represents nearly an entire 28-hour work week, seeing an asset priced at **10c** is a visceral deterrent. That isn't just "expensive"—that’s **ten literal weeks** of your 7x4 labor. 
+Since **1c** represents nearly an entire 28-hour work week, seeing a Battery (physical asset) priced at **10c** is a visceral deterrent. That isn't just "expensive"—that’s **ten literal weeks** of your 7x4 labor. 
 
 If you view your personal "Energy Bank" app and see a balance of **4c, 20b, 80a**, you intuitively understand your exact physical reality:
 * You have **4 weeks** of "Pillar" energy stored (**4c**).

@@ -1,6 +1,6 @@
 ================================================================================
                       THE CONSILIENCE PUBLIC LICENSE (CPL)
-                                  Version 0.3
+                                  Version 0.4
 ================================================================================
 
 Origin: UNQA (Genesis Hub) / The Nowland OS
@@ -28,25 +28,31 @@ ARTICLE 1. DEFINITIONS
 --------------------------------------------------------------------------------
 
 1.1 "The DNA" means the specific source code, text, design frameworks, 
-    spreadsheets, or protocols licensed under this document.
+    spreadsheets, or protocols licensed under this document, including 
+    but not limited to the "Nowland OS Manuscript" and the "Pocket Guide".
 
-1.2 "The Licensor" (Genesis Hub) means UNQA or the original authors and 
-    maintainers of the DNA.
+1.2 "The Licensor" means UNQA (The Genesis Hub) or its authorized successors, acting as 
+    the origin point and primary maintainer of the global Network infrastructure.
 
-1.3 "The Licensee" (The Node) means the sovereign individual, Pod, or entity 
-    exercising permissions granted by this License.
+1.3 "The Architect" (The Creator) means the individual(s) or organization(s) 
+    responsible for the synthesis of the DNA, whose attribution is 
+    verifiable via the version history of the primary repository or the 
+    official attribution records of the Genesis Hub.
 
-1.4 "The Pod" means the local, autonomous strike-team, company, or immediate 
-    community of the Licensee.
+1.4 "The Licensee" (The Node / The Source) means the sovereign individual, 
+    Pod, or entity exercising permissions granted by this License.
 
-1.5 "Commercial Use" means any deployment, modification, or execution of the 
+1.5 "The Pod" (The Circle) means the local, autonomous strike-team, 
+    company, or immediate community of the Licensee.
+
+1.6 "Commercial Use" means any deployment, modification, or execution of the 
     DNA that directly or indirectly generates fiat revenue, kinetic energy, or 
     financial surplus for the Licensee.
 
-1.6 "Consilience" means the verifiable, physical proof that the thermodynamic 
+1.7 "Consilience" means the verifiable, physical proof that the thermodynamic 
     agreements of this License have been executed.
 
-1.7 "Recognized Hub" means any entity that (a) has registered as a legal 
+1.8 "Recognized Hub" means any entity that (a) has registered as a legal 
     structure (Cooperative, LLC, Ltd, GmbH, or equivalent) in its local 
     jurisdiction, (b) has executed at least one valid transaction on the 
     Network ledger, and (c) remits the 2% Grid allocation to the Grid 
@@ -77,22 +83,21 @@ that all resulting net revenue is processed through a recognized Hub operating
 under the Syntropy Protocol, and distributed via the following thermodynamic 
 split:
 
-    A. 80% (The Kinetic Source): Routed by the Hub directly to the Licensee(s)
+    A. 80% (The Source): Routed by the Hub directly to the Licensee(s)
        who executed the physical labor.
 
-    B. 10% (The Local Pod): Routed by the Hub into a verifiable treasury 
+    B. 10% (The Circle): Routed by the Hub into a verifiable treasury 
        reserved exclusively for the health, tooling, infrastructure, and 
-       biological peace of the Licensee's immediate team or local community.
+       biological peace of the Licensee's immediate team (The Pod).
 
-    C. 5% (The Hub): Retained by the Hub for the maintenance of the legal 
-       Membrane, physical infrastructure, and ecosystem security.
+    C. 5% (The Community): Retained by the Hub for the maintenance of the 
+       legal Membrane, physical infrastructure, and shared community assets.
 
     D. 3% (The Helix): Routed by the Hub to the Architect(s) whose DNA 
-       Templates were utilized in the execution of the work. This is the 
-       Co-Uplifting Engine.
+       Templates were utilized in the execution of the work (The Creators).
 
-    E. 2% (The Grid): Routed by the Hub to the global maintainers of the 
-       Nowland OS infrastructure.
+    E. 2% (The Network): Routed by the Hub to the global maintainers of the 
+       Nowland OS infrastructure (The Grid & NET).
 
 The Hub processes the split as a single, atomic operation. The Licensee 
 receives their 80% and their Pod receives its 10%. The internal fracture of 

@@ -9,15 +9,21 @@ This manual is not a political manifesto. It is mathematically and biologically 
 
 ## The Crack in the Concrete
 
-Look around the modern fiat economy. It operates like a rusting, 19th-century steam engine — loud, violently hot, and demanding that you shovel your own biological time into the furnace just to keep the pressure up. It is built entirely on friction, extraction, and artificial scarcity.
+Look around the modern fiat economy. It operates like a rusting, 19th-century steam engine—loud, violently hot, and demanding that you shovel your own biological time into the furnace just to keep the pressure up. 
 
-Now look at what happens when the engine stalls. Blackouts. Lockdowns. Wars. Trade disputes. Supply chains snap, and suddenly local communities discover they cannot feed themselves, shelter themselves, or coordinate basic survival without a functioning global grid. Your morning coffee passed through seven countries. The server hosting your paycheck sits on another continent. The bank holding your savings is leveraged against debts that haven't been repaid since before you were born.
+You feel this friction every day. It is the profound, systemic exhaustion of waking up to work a job where you spend eight hours trying to *skip the clock*, producing abstract value for a centralized exactor you will never meet. It is the isolation of living in a hyper-connected digital system, yet feeling completely disconnected from your physical neighbors. It is the anxiety of knowing that if your productivity stalls, your right to biological survival — shelter, nourishment, peace — could be financially revoked. 
 
-**The Nowland is a call to localization.** We need local reserves. We need to be physically resilient. We need to own our data, stand for fair trade, and build toward a sustainable, joyful lifestyle. We must stop being passive consumers of narratives and become the realization of a new culture — one rooted in the self-sufficiency of local communities first.
+We are moving so fast, generating so much noise, that we are rarely present in our own bodies. We walk past the diverse array of biological life fighting entropy right alongside us, completely insulated in a hallucination of artificial scarcity and endless competition.
+
+Now look at what happens when the legacy engine stalls. Blackouts. Lockdowns. Layoffs. Supply chains snap, and suddenly local communities discover they cannot feed themselves, shelter themselves, or coordinate basic survival without a functioning global corporate grid. Your morning coffee passed through seven countries. The bank holding your savings is leveraged against debts that haven't been repaid since before you were born.
+
+**The Nowland is a call to localization.** We synthesize an economic system that does not force us to skip our lives. We need local reserves. We need to be physically resilient. We need to structurally incentivize trust, stand for fair trade, and build toward a sustainable, authentically joyful lifestyle. 
+
+We must stop being passive consumers of a dying narrative and become the realization of a new culture — one rooted in biological consilience, mutual uplifting, and the absolute self-sufficiency of localized communities.
 
 ---
 
-## I. The Three Core Protocols
+## I. The Three Core Principles
 
 The Nowland OS does not follow corporate policy; it follows observable patterns in biology and physics — the only laws that predate human opinion.
 
@@ -36,11 +42,11 @@ Truth is not a matter of opinion or a majority vote; it is the "linking together
 
 The Nowland OS eliminates the hoarding of dead energy. Every transaction executed within this ecosystem is instantly fractured — like a beam of light hitting a prism — to ensure no single Node burns out and the community scales effortlessly:
 
-* **80% to the Node (The Atom):** Retained directly by the builders who executed the kinetic labor. You keep the energy you generate.
-* **10% to the Pod (The Molecule):** A localized treasury for your immediate team. This funds your shared tools, acts as your biological safety net, and guarantees your baseline survival.
-* **5% to the Hub (The Organism):** The energy required to maintain the legal Membrane, secure physical infrastructure, and keep the ecosystem safe from fiat extraction.
-* **3% to the Helix (The DNA):** A perpetual royalty to the Architect or Elder who created the template you used. This is the Co-Uplifting Engine — the mechanism that financially incentivizes the most experienced builders to freely share their best tools.
-* **2% to the Grid (The Biosphere):** To maintain the global servers and the mathematical integrity of the network.
+* **80% to the Node (The Source | The Cell):** Retained directly by the builders who executed the kinetic labor. You keep the energy you generate.
+* **10% to the Pod (The Circle | The Organ):** A localized treasury for your immediate team. This funds your shared tools, acts as your biological safety net, and guarantees your baseline survival.
+* **5% to the Hub (The Community | The Organism):** The energy required to maintain the legal Membrane, secure physical infrastructure, and keep the ecosystem safe from fiat extraction.
+* **3% to the Helix (The DNA | The Creators):** A perpetual royalty to the Architect or Elder who created the template you used. This is the Co-Uplifting Engine — the mechanism that financially incentivizes the most experienced builders to freely share their best tools.
+* **2% to the Grid (The Commons | The Network):** To maintain the global servers and the mathematical integrity of the network.
 
 ---
 
@@ -82,8 +88,8 @@ This repository serves as both the **Field Manual** (The Book) and the **Operati
 /iii-network/     <-- The Body: Atomic structure of Pods and Stigmergy.
 /iv-airlock/      <-- The Shield: Using the Membrane to metabolize fiat.
 /v-seed/          <-- The Hands: Tactical guide for the First Spark.
-/x-appendix/      <-- The Appendix: The 7 Laws, Prior Art, and Audits.
-LICENSE           <-- The Consilience Public License (CPL) v0.1.
+/x-appendix/      <-- The Appendix: The 7 Laws, Prior Art, Math and Audits.
+LICENSE           <-- The Consilience Public License (CPL) v0.4.
 SUMMARY.md        <-- The GitBook / Book Table of Contents.
 ```
 

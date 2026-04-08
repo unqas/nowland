@@ -6,6 +6,8 @@ If you watch the fiat world closely, you will notice that it spends an astonishi
 
 Cable news, social media, parliaments, and boardrooms are entirely consumed by ideological warfare. We argue over capitalism versus socialism, over left versus right, over who gets to hold the levers of the machine. But no matter who wins the debate, the machine continues to operate on the exact same thermodynamics of extraction and debt. 
 
+Because fiat money is built on debt, it inherently demands forced agreement to survive. When two ideologies cannot agree on how to service a debt or extract resources, the result is inevitably physical violence. Ideology is the primary engine of modern war, because it demands that the opponent submit to a shared hallucination rather than physical reality.
+
 Politics is the hallucination we use to distract ourselves from the fact that the engine is broken. It is a game of friction, where victory is determined not by who can build the most efficient system, but by who has the loudest megaphone, the best marketing budget, or the most convincing lies. In the fiat world, reality is negotiable. 
 
 In The Nowland, reality is absolute. We replace ideology with **Consilience**.

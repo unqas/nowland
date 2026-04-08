@@ -15,20 +15,20 @@ When you close a circuit—when you execute a bounty and receive `10b` of kineti
 
 This is the **Syntropy Split**. It is hardcoded into the DNA of the ledger.
 
-**1. The 80% (The Node)**
+**1. The 80% (The Node / The Source / The Cell)**
 The vast majority of the energy routes directly to you, the builder who executed the kinetic labor. You keep the lion's share of your physical effort. There is no CEO taking 60% of your value simply because they own the company name. 
 
-**2. The 10% (The Pod)**
+**2. The 10% (The Pod / The Circle / The Organ)**
 Ten percent routes into the multi-sig treasury of your Pod—your immediate, trusted strike-team. This is your localized failsafe. As you and your Pod-mates work, this treasury rapidly swells. This is the exact mechanism that funds your collective **4c Baseline**. You are building your own localized biological safety net, entirely independent of the government.
 
-**3. The 5% (The Hub)**
-Five percent flows outward to the Hub (the Cooperative). This energy sustains the legal membrane that protects you from the fiat world. More importantly, this is how the Hub purchases physical reality: server hosting, software licenses, agricultural land, and co-working Freespaces. The infrastructure belongs to you because you fund it with every heartbeat of your work.
+**3. The 5% (The Hub / The Community / The Organization)**
+Five percent flows outward to the Hub (the Organization). This energy sustains the legal Membrane that protects you from the fiat world. More importantly, this is how the Hub purchases physical reality: server hosting, software licenses, agricultural land, and co-working Freespaces. The infrastructure belongs to you because you fund it with every heartbeat of your work.
 
-**4. The 3% (The Helix)**
+**4. The 3% (The Helix / The Creators / The DNA)**
 Three percent routes back in time to the Architect. If you used a piece of open-source code, a design template, or a workflow built by someone else to execute your bounty, the system automatically recognizes their "DNA." This completely reinvents intellectual property. You do not lock ideas behind fiat paywalls; you release them into the wild, and whenever they are used to generate Syntropy, the system automatically routes a 3% royalty back to you. This is how the Elders of the network achieve infinite, passive wealth without ever becoming extractive bosses.
 
-**5. The 2% (The Grid)**
-The final two percent routes to the global maintainers of the Nowland OS—the engineers keeping the international servers running, ensuring the ledger remains mathematically sealed and secure. 
+**5. The 2% (The Grid & NET / The Commons / The Ecosystem)**
+The final two percent routes to the global maintainers of the Nowland OS — the engineers keeping the international servers running, ensuring the ledger remains mathematically sealed and secure. 
 
 ### The End of the Subsidy
 Look at the thermodynamic elegance of this math. 
