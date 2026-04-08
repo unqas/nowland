@@ -27,7 +27,7 @@ But The Nowland OS is mathematically protected against the freeloader trap.
 * **The Gravity of the Vacuum:** Once your 4c baseline is met, if you want *more*—if you want to travel, buy a physical asset, or invest in a massive project—you must step onto the Stigmergic Board. You must create a Vacuum, drop into the negative, and ultimately execute Syntropy to clear your ledger. 
 * **The 1:4 Max-Out Coefficient:** You cannot scale to infinity alone. By default, the highest earner in a Pod cannot exceed four times the baseline of the lowest earner. To reach higher wealth (e.g. 20c), you are biologically forced to help ensure everyone in your Pod reaches at least 4c. This prevents fiat-style hoarding and incentivizes mutual uplift. (See *Appendix: Mathematics of the Pod* for full mechanics).
 
-Even before reaching the formalized scale of a Pod or Hub, you can begin establishing your own baseline deflation simply by sharing resources with one other person—a principle we call **The Synergy of Two** (Detailed in Chapter 20). 
+Even before reaching the formalized scale of a Pod or Hub, you can begin establishing your own baseline deflation simply by sharing resources with one other person—a principle we call **The Synergy of Two** (Detailed in Chapter 21). 
 
 But what happens when a Node simply stalls? What happens when their kinetic energy drops to zero, they consume their 4c baseline, and their internal ledger starts sinking into the negative week after week? 
 
@@ -50,7 +50,7 @@ Why would a highly productive Elder waste their time fixing a stalled Node? Beca
 
 We replace the toxic hierarchy of "Boss and Subordinate" with the biological reality of "Mentor and Apprentice." The network is financially incentivized to uplift its weakest links. The Hub heals itself, the Node regains their dignity, and the Elder is rewarded with passive wealth for creating order out of chaos. 
 
-**Who pays for the 4c while you recover?** The same treasuries that fund it for everyone — the 10% Pod Split and the 5% Hub Split from every active transaction in the ecosystem. The 4c Baseline does not pause during Re-Pair. It does not require you to "earn back" your right to eat. You are sustained so that your brain can exit crisis mode and focus entirely on repair. The same mechanism covers newcomers who have just joined the Hub (Chapter 11) — the system feeds you so you can prove your worth, not the other way around.
+**Who pays for the 4c while you recover?** The same treasuries that fund it for everyone — the 10% Pod Split and the 5% Hub Split from every active transaction in the ecosystem. The 4c Baseline does not pause during Re-Pair. It does not require you to "earn back" your right to eat. You are sustained so that your brain can exit crisis mode and focus entirely on repair. The same mechanism covers newcomers who have just joined the Hub (Chapter 12) — the system feeds you so you can prove your worth, not the other way around.
 
 We do not leave our wounded behind. We engineer them into absolute powerhouses. And in doing so, every individual failure generates a public cure — a new DNA template that prevents the same failure from ever happening to another Node in the network. Failure is not waste. Failure is fertilizer.
 

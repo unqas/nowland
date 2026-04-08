@@ -67,9 +67,9 @@ The Hub acts as a legal **Membrane** — a semi-permeable shield built using exi
 
 This book serves three kinds of reader. Start wherever your instinct pulls you:
 
-* **The Exhausted Builder** looking for a practical first step → [Chapter 17: The First Spark](v-seed/17-first-spark.md) gives you the protocol to start with a notebook and one trusted friend.
+* **The Exhausted Builder** looking for a practical first step → [Chapter 23: The First Spark](v-seed/23-first-spark.md) gives you the protocol to start with a notebook and one trusted friend.
 * **The Philosopher** seeking the intellectual lineage → Start with [Chapter 1: Symbiocracy](i-vocabulary/01-symbiocracy.md) and read straight through. The five-part arc (Head → Heart → Body → Shield → Hands) builds on itself.
-* **The Skeptic** stress-testing the economics → Start with [Chapter 13: The Membrane](iv-airlock/13-the-membrane.md), then read [Known Tensions & Open Problems](x-appendix/known-tensions.md) and [Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md).
+* **The Skeptic** stress-testing the economics → Start with [Chapter 16: The Membrane](iv-airlock/16-the-membrane.md), then read [Known Tensions & Open Problems](x-appendix/known-tensions.md) and [Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md).
 
 ---
 
@@ -95,7 +95,7 @@ Do not wait for a global "Super App." The phase transition begins at Ground Zero
 1. **Read the DNA:** Start with the `INTRODUCTION: The Hallucination of Fiat` in `/i-vocabulary/`.
 2. **Find Node B:** Find one human being you trust.
 3. **Execute the Seed Ledger:** Open a physical notebook, draw three columns (Node A, Node B, The Commons), and execute your first trade using the 2b Dignity Peg.
-4. **Metabolize:** Follow the guide in `Chapter 17: The First Spark` to move from paper to the digital grid.
+4. **Metabolize:** Follow the guide in `Chapter 23: The First Spark` to move from paper to the digital grid.
 
 ---
 

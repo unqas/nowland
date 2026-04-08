@@ -1,4 +1,4 @@
-## Chapter 17: The Field — How to Win Without Losing Your Soul
+## Chapter 18: The Field — How to Win Without Losing Your Soul
 
 > **TL;DR:** To generate surplus in the fiat world, we do not push-market dead products; we create gravity by solving real Vacuums, building high-Syntropy batteries, and retaining responsibility for the lifecycle. You do not grow the flower; you tend the environment.
 

@@ -1,4 +1,4 @@
-## Chapter 13: The Council Protocol — How the Hub Decides
+## Chapter 14: The Council Protocol — How the Hub Decides
 
 > **TL;DR:** We replace political consensus with "Weighted Consent," where decisions are made by those who generate Syntropy, and irreconcilable disputes are resolved not by force, but by biological mitosis (Forking).
 
