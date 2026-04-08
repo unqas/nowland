@@ -44,6 +44,19 @@ Therefore: `2b ≈ €20`. `1b ≈ €10`.
 
 This is not arbitrary. It ensures that the peg tracks the *ceiling* of dignified nourishment, not the floor. We do not anchor our economy to the cost of survival. We anchor it to the cost of thriving.
 
+### The Peg Corridor
+
+The Trattoria Benchmark uses the highest median price among developed nations as the reference ceiling: `2b ≈ €20`. But a dignified meal in Bali costs €6, not €20. A dignified meal in Lagos costs even less. If the peg is taken literally as a fixed fiat number, it breaks the moment two Hubs in different economic zones try to trade.
+
+The Nowland resolves this with a **Peg Corridor** — a bounded range that prevents runaway divergence while preserving local calibration:
+
+* **The Reference Ceiling:** `2b ≈ €20` — the average cost of a quality trattoria meal across the top ten developed nations. This is the published default.
+* **The Minimum Floor:** `2b ≈ €10` — a 1:2 ratio below the ceiling. No Hub may peg below this floor, because below it the currency cannot sustain the thermodynamic cost of internationally traded goods (server hardware, software licenses, raw materials).
+
+Each Hub calibrates its local `2b` within this corridor based on its quarterly trattoria survey (see Known Tensions: The 2b Drift Problem). But the key principle is universal: `2b` always buys one dignified meal *locally*, regardless of the fiat translation. In Berlin, `2b` buys Berlin-quality nourishment. In Jakarta, `2b` buys Jakarta-quality nourishment. The internal unit measures the same biological reality — one full unit of human dignity — even though the fiat shadow differs at each Membrane.
+
+When you withdraw through the Airlock, you withdraw at the tax rate and in the currency of the jurisdiction where the fiat was earned. The internal ledger does not carry fiat. It carries biology. The fiat is just the shadow the biology casts on the old world's wall.
+
 ### The Metric System of Energy
 The Nowland ledger operates on a strict, metric scale that maps directly to physical time and biological reality:
 

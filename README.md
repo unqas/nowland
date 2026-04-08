@@ -109,4 +109,12 @@ It is entirely free to read, fork, and use for non-commercial builds. However, a
 **See `LICENSE` for the physics of this agreement.**
 
 ---
+
+## IX. Support the Helix
+
+The transition requires infrastructure. The author of the Nowland and the team behind the UNQA Genesis Hub are currently building **unqa.net** (a free stigmergic board, marketplace, and unprecedented deflationary toolkit). 
+
+If this architecture generates Syntropy for you, at this early stage you can support our work and fund the Helix at **[nowland.unqa.net](https://nowland.unqa.net)**.
+
+---
 *Initiated by Shukhrat at UNQA (Genesis Hub).*

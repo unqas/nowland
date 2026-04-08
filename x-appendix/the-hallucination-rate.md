@@ -6,37 +6,69 @@ We call this the **Hallucination Rate**: the multiplier of kinetic energy you mu
 
 ---
 
-## The Tables
+## The Value Retention Table (Where Does €100,000 Go?)
+
+Instead of abstract percentages, let's look at raw physics. You generate **€100,000** of pure kinetic value (B2B revenue) in a standard European jurisdiction. How much of that energy actually survives the translation into your physical life?
+
+| The Configuration | 1. The Parasite Drag (Corporate Margin / Overhead) | 2. The Tax Drag (Employer + Employee Taxes) | 3. Biological Take-Home (Net Fiat in your pocket) | 4. The Shared Pot (Co-owned Community Wealth) |
+|---|---|---|---|---|
+| **The Fiat Employee** | ~€25,000 (Boss Margin / Bureaucracy) | ~€30,000 (Social + Income Tax on the remainder) | **~€45,000** | **€0** |
+| **The Isolated Node (Freelancer)** | €0 (You are the boss) | ~€35,000 (Self-employment tax + Income tax) | **~€65,000** (But you pay all infrastructure at retail price) | **€0** |
+| **The Nowland Hub Node** | €0 (The Stigmergic Board extracts no profit) | ~€25,000 (Taxes calculated only on the 80% flushed out) | **~€55,000** | **€20,000** (The Syntropy Split) |
+
+### The Verdict on the Table
+* As an **Employee**, you generated €100k and captured €45k. You lost 55% of your life-force to a corporate hierarchy and state bureaucracy. You are safe, but heavily exploited.
+* As an **Isolated Freelancer**, you captured €65k. You eliminated the boss, but you bear 100% of the risk, buy retail-priced infrastructure, and still bleed heavy fiat taxes to a state that gives you no safety net. You are free, but highly fragile.
+* As a **Nowland Node**, you take home €55k personally, *but the remaining €20,000 didn't evaporate*. It went into your Pod and Hub Treasuries. You explicitly co-own and control that €20,000. It buys your shared servers, retains your legal defense, funds your Re-Pair protocols, and subsidizes your 4c baseline. Your total realized energy is **€75,000** — and you are surrounded by an antifragile community.
+
+---
+
+## The Cooperative Advantage: Why We Should Stay Together
+
+Why is the "Shared Pot" mathematically superior to being a lone freelancer hoarding 100% of their revenue? Because physical reality is cheaper in bulk, and fiat tax law heavily favors corporations over individuals.
+
+When you stay together physically and legally as a Hub (using a Cooperative Membrane), you unlock thermodynamic efficiencies that an isolated freelancer can never reach:
+
+1. **Pre-Tax Infrastructure (The Membrane Shield):** When an isolated freelancer buys a €3,000 workstation or a cloud server, they often buy it using post-tax money. When the Hub buys it using the 5% Treasury for communal use, it is a direct B2B corporate expense. It lowers the cooperative's taxable baseline before the state ever touches it.
+2. **Bulk Caloric & Spatial Pricing:** Fulfilling the `4c` Baseline (food, energy, shelter) at retail prices for 50 isolated individuals is astronomically expensive. Fulfilling it for a 50-Node Hub through agricultural direct-contracts, shared co-living compounds, and bulk local energy grids drops the per-capita fiat cost by 40–60%. 
+3. **Shared Administrative Overheads:** An isolated freelancer pays €2,000/year for an accountant, €1,500/year for individual specialized software licenses, and €10,000/year for an office. A 50-Node Hub pays one cooperative accounting firm, negotiates enterprise software licenses, and buys a shared physical compound. You completely eliminate the duplication of friction.
+4. **The Mutual Insurance Loop:** An isolated freelancer who gets sick goes to zero revenue instantly. A Nowland Node who gets sick is sustained by the 4c Baseline and healed by the Re-Pair Protocol. You don't need to hoard massive private fiat savings when the organism catches you.
+
+---
+
+## The Cost of Reaching a Target Net
+
+To fully grasp the hallucination, let's invert the math. If you want to put a specific amount of money in your pocket, how much total energy must the system generate?
 
 ### Scenario 1: €5,000 Net per Month (€60k/yr — A Comfortable Builder)
 
-At this income level, you are in the steeper part of the tax curve in most developed economies. Social security is usually near its maximum burden, and you are squarely in the middle-to-upper income brackets.
+At this income level, you are earning comfortably above the national average. Social security contributions are near their maximum burden, and you are squarely hitting the middle-to-upper brackets of the progressive income tax system. 
 
-| Country | Hallucination Rate (Employee) | Total Cost to Employer | Your "Gross" Salary | Contractor Revenue Required |
-|---|:---:|---:|---:|---:|
-| Italy | 2.4x | ~€145,000 | ~€110,000 | ~€85,000* |
-| Portugal | 2.3x | ~€142,000 | ~€115,000 | ~€110,000 |
-| France | 2.2x | ~€133,000 | ~€92,000 | ~€125,000 |
-| Germany | 2.0x | ~€120,000 | ~€102,000 | ~€115,000 |
-| Spain | 1.9x | ~€115,000 | ~€88,000 | ~€95,000 |
-| United Kingdom | 1.6x | ~€98,000 | ~€86,000 | ~€80,000 |
-| United States | 1.5x | ~€89,000 | ~€82,000 | ~€88,000 |
+| Country | Required "Gross" Salary | Effective Tax Rate (PIT + Social) | Total Cost to Employer | Fiat Hallucination Rate | Contractor B2B Revenue Required |
+|---|---:|---:|---:|---:|---:|
+| **Italy** | ~€110,000 | ~45% | ~€145,000 | **2.4x** | ~€85,000* |
+| **Portugal** | ~€115,000 | ~47% | ~€142,000 | **2.3x** | ~€110,000 |
+| **France** | ~€92,000 | ~35% | ~€133,000 | **2.2x** | ~€125,000 |
+| **Germany** | ~€102,000 | ~41% | ~€120,000 | **2.0x** | ~€115,000 |
+| **Spain** | ~€88,000 | ~32% | ~€115,000 | **1.9x** | ~€95,000 |
+| **UK** | ~€86,000 | ~30% | ~€98,000 | **1.6x** | ~€80,000 |
+| **US (Avg)** | ~€82,000 | ~27% | ~€89,000 | **1.5x** | ~€88,000 |
 
 *\*Italy: The Regime Forfettario (flat 15% / 5% for new activities) dramatically undercuts the employee route at this level.*
 
 ### Scenario 2: €20,000 Net per Month (€240k/yr — Top 1% Builder)
 
-At this level, Social Security contributions cap out in most jurisdictions. They stop growing, but the state compensates with maximum marginal income tax rates (45–50%+). Special regimes like Italy's Forfettario are no longer available.
+Welcome to the top 1%. Here, the hallucination shifts. Social Security contributions legally cap out, meaning they stop growing, but the state compensates by hammering you with the absolute maximum marginal income tax rate (usually 45%–50%). Special low-tax regimes are voided. You are playing on hard mode.
 
-| Country | Hallucination Rate (Employee) | Total Cost to Employer | Your "Gross" Salary | Contractor Revenue Required |
-|---|:---:|---:|---:|---:|
-| France | 2.7x | ~€650,000 | ~€470,000 | ~€520,000 |
-| Italy | 2.6x | ~€620,000 | ~€480,000 | ~€500,000 |
-| Portugal | 2.5x | ~€618,000 | ~€500,000 | ~€480,000 |
-| United Kingdom | 2.1x | ~€500,000 | ~€440,000 | ~€420,000 |
-| Germany | 2.0x | ~€475,000 | ~€455,000 | ~€470,000 |
-| Spain | 1.9x | ~€470,000 | ~€450,000 | ~€460,000 |
-| United States | 1.7x | ~€410,000 | ~€390,000 | ~€410,000 |
+| Country | Required "Gross" Salary | Effective Tax Rate (PIT + Social) | Total Cost to Employer | Fiat Hallucination Rate | Contractor B2B Revenue Required |
+|---|---:|---:|---:|---:|---:|
+| **France** | ~€470,000 | ~49% | ~€650,000 | **2.7x** | ~€520,000 |
+| **Italy** | ~€480,000 | ~50% | ~€620,000 | **2.6x** | ~€500,000 |
+| **Portugal** | ~€500,000 | ~52% | ~€618,000 | **2.5x** | ~€480,000 |
+| **UK** | ~€440,000 | ~45% | ~€500,000 | **2.1x** | ~€420,000 |
+| **Germany** | ~€455,000 | ~47% | ~€475,000 | **2.0x** | ~€470,000 |
+| **Spain** | ~€450,000 | ~47% | ~€470,000 | **1.9x** | ~€460,000 |
+| **US (Avg)** | ~€390,000 | ~38% | ~€410,000 | **1.7x** | ~€410,000 |
 
 ---
 

@@ -68,8 +68,8 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 | 2–5 Nodes | Physical notebook | Zero-tech. Pure trust. |
 | 5–15 Nodes | Shared spreadsheet (Google Sheets, LibreOffice) | Simple formulas auto-calculate the Syntropy Split. Transparent to all members. |
 | 15–50 Nodes | Basic web application | A lightweight ledger app tracking balances, Vacuums, and the Split. No blockchain required at this stage. |
-| 50–200 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
-| 200+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
+| 50–250 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
+| 250+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
 
 **The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 19 provides a concrete "Dumb Tools" progression table for the interim.
 
@@ -90,30 +90,31 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 
 ## 7. The Geographic Peg Divergence
 
-**The Tension:** The 2b Dignity Peg is calibrated to a "quality trattoria meal" capped at ~€20 in developed nations. But in a developing nation, a dignified meal might cost €2. If `2b = €2` locally, then `1b = €1`, and since `1c = 100b`, the `4c Baseline = €400/month` — a radically different fiat equivalent from a European Hub where `4c = €2,000/month`.
+**The Tension:** The 2b Dignity Peg is calibrated to a "quality trattoria meal" capped at ~€20 in developed nations. But in a developing nation, a dignified meal might cost €6. If the peg is taken literally as a fixed fiat number, it breaks the moment two Hubs in different economic zones try to trade.
 
-When two Hubs trade across this gap, how does the ledger resolve the tension? If a developer in Jakarta executes a `10b` bounty for a client in Munich, what is the fiat equivalent?
+**The Proposed Solution: The Peg Corridor.** As of Chapter 4, the Nowland resolves this with a bounded range:
+* **The Reference Ceiling:** `2b ≈ €20` — the average cost of a quality trattoria meal across the top ten developed nations.
+* **The Minimum Floor:** `2b ≈ €10` — a 1:2 ratio below the ceiling. No Hub may peg below this floor, because below it the currency cannot sustain the thermodynamic cost of internationally traded goods.
 
-**The Proposed Principle:** The peg is *input-based*, not output-based. In Jakarta, you work for a month and your kinetic output converts to `4c`. In Munich, you work for a month and your output also converts to `4c`. The internal ledger is universal — `2b` buys one dignified meal *locally*, regardless of the fiat cost of that meal. In Jakarta, `2b` buys a dignified meal at a Jakarta trattoria. In Munich, `2b` buys a dignified meal at a Munich trattoria. The internal unit measures the same biological reality — one full unit of human nourishment — even though the fiat translation differs at each Membrane.
+Each Hub calibrates its local `2b` within this corridor. The internal ledger is universal — `2b` buys one dignified meal *locally*, regardless of the fiat translation. Inter-Hub transactions settle internally at face value: `10b` is `10b`. The fiat divergence only materializes at the Airlock — when a Node flushes `c` units to fiat, they withdraw at the tax rate and in the currency of the jurisdiction where the fiat was earned.
 
-Inter-Hub transactions settle *internally* at face value: `10b` is `10b`. The fiat divergence only materializes at the Airlock — when a Node flushes `c` units out to their local fiat economy, they receive the fiat equivalent of their *local* peg. The ledger does not need an exchange rate because the units measure biology, not fiat.
+The core principle: the ledger does not carry fiat. It carries biology. The fiat is just the shadow the biology casts on the old world's wall.
 
-**The Honest Gap:** This principle creates a structural asymmetry. A high-skill Node in a low-cost region earns the same internal `b` as a Node in a high-cost region, but their fiat purchasing power at the Airlock is dramatically different. Whether this is a bug (arbitrage exploitation) or a feature (natural talent migration toward the highest-value problems, rewarding builders in developing economies with proportionally higher local wealth) is an open question. The first multi-Hub network will generate the data required to resolve it.
+**The Honest Gap:** The Peg Corridor bounds the problem but does not eliminate it. A high-skill Node in a low-cost region still earns the same internal `b` as a Node in a high-cost region, and their local purchasing power at the Airlock remains different. The corridor prevents extreme arbitrage (no Hub can peg `2b` at €2) but does not fully equalize global fiat purchasing power — because equalizing it would require the Nowland to do what the fiat system itself has failed to do for centuries. The first multi-Hub network will generate the data required to refine the corridor bounds and safety mechanisms.
 
 ---
 
 ## 8. The Helix Attribution Gap
 
-**The Tension:** The 3% Helix split assumes the system can identify *which* upstream DNA Templates were used in any given circuit. For digital work — code, design files, documents — this is straightforward: version control (Git) natively tracks provenance, and the contribution percentage can be computed from the commit history. But for physical work — manufacturing an engine, farming a crop, constructing a building — the intellectual contribution of upstream Architects is embedded invisibly in the process. No automated system can decompose a physical product and say "42% of this engine came from Template A and 28% came from Template B."
+**The Tension:** The 3% Helix split assumes the system can identify *which* upstream DNA Templates were used in any given circuit. For digital work — code, design files, documents — this is straightforward: version control (Git) natively tracks provenance. But for physical work — manufacturing an engine, farming a crop, constructing a building — the intellectual contribution of upstream Architects is embedded invisibly in the process.
 
-**The Current Defense:** Chapter 10 describes a two-layer mechanism:
-1. **Self-declaration with reputation stakes.** Executing Nodes declare which DNA they used at circuit-close. Fraudulent non-declaration is auditable through transaction history and Peer Audit.
-2. **Undeclared Helix flows to the Hub Commons.** If no DNA is claimed, the 3% doesn't vanish — it becomes shared infrastructure. Architects can submit retroactive claims with evidence.
-3. **The Proxy Pool (For Physical Goods).** Because a physical product cannot be easily inspected for intellectual provenance, the system may require a "Helix Pool" for specific domains. Unclaimed 3% royalties are distributed proportionally to all registered DNA templates in that domain, weighted by physical usage proxies (material orders, tool checkout logs, etc.). It is an ugly generalization, but it may be necessary at Grid scale.
+**The Proposed Solution: The Cascade Attribution Model.** Chapter 10 now describes a four-step mechanism:
+1. **Direct Attribution.** When a Node closes a circuit, they declare the *direct tools and templates* they used — always one layer deep. A furniture builder declares the joinery template. A farmer declares the soil management workflow.
+2. **Automatic Cascade.** The Architect who received the Helix from Step 1 already declared *their* upstream tools when they published the original template. The system automatically redistributes a portion of the incoming Helix one layer down to those upstream contributors. This cascades recursively.
+3. **The Pod Terminus.** The cascade continues until it reaches a Pod where the original DNA was generated from scratch with no upstream declaration. At this point, the remaining Helix is either split by Pod consensus among members, or deposited into the Pod's Commons treasury. The golden rule: when attribution is hard to define between individuals, it flows to the commons.
+4. **Natural Decay.** At each cascade step, the amount decays exponentially. After three to four generations, the amounts become negligible. No hard cap is needed — the math caps itself.
 
-**The Honest Gap:** Self-declaration works when the stakes are low and the community is small enough for social accountability. At scale — ten thousand Nodes across dozens of Hubs — the incentive to under-declare Helix grows. The system relies on making the long-term reputational cost of under-declaration exceed the short-term financial gain of pocketing the 3%. Whether this incentive structure holds at scale is an open empirical question. The first physical-goods Pods will generate the critical data.
-
-This is the hardest unsolved problem in the Nowland OS. We name it here because Consilience demands honesty, not because we have a perfect answer. The network that solves physical-goods Helix attribution will have earned the most valuable DNA Template in the entire Grid.
+**The Honest Gap:** The Cascade Attribution Model will under-attribute some Architects and over-attribute others. It satisfies the core requirement that honesty must be cheaper than dishonesty — self-declaration is a single checkbox, undeclared Helix flows to the Commons (not to personal gain), and systematic non-declaration erodes reputation on the transparent ledger. But the precision of attribution in physical goods will never match the precision of Git-tracked digital provenance. The first physical-goods Pods will generate the empirical data to refine the model. We publish it as a starting architecture, not a final answer.
 
 ---
 

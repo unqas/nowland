@@ -11,7 +11,7 @@ The architecture is mathematically elegant, but to survive the legacy system, we
 ## 1. The Profit Trap (Taxing the Commons)
 
 **The Vulnerability:** 
-In Chapter 15, we state that because the Hub uses Accrual Accounting, the 80% split is logged as a Liability (Expense) and the Hub pays zero corporate tax on it. But what happens to the 10% (Pod Commons) and the 5% (Hub Treasury)? If the Hub keeps that 15% in its bank account to build a safety net, the state sees that 15% as **"Unspent Profit/Retained Earnings" (Retained Earnings/Körperschaftsteuer/IRES).** The Hub will be hit with a ~30% corporate income tax on the very money we are trying to save for the community.
+In Chapter 16, we state that because the Hub uses Accrual Accounting, the 80% split is logged as a Liability (Expense) and the Hub pays zero corporate tax on it. But what happens to the 10% (Pod Commons) and the 5% (Hub Treasury)? If the Hub keeps that 15% in its bank account to build a safety net, the state sees that 15% as **"Unspent Profit/Retained Earnings" (Retained Earnings/Körperschaftsteuer/IRES).** The Hub will be hit with a ~30% corporate income tax on the very money we are trying to save for the community.
 
 **The Defense:**
 The Hub cannot hold the 10% Pod split as "general profit." It must be logged as a strict **Liability owed to the Pod Members**. 
@@ -50,7 +50,7 @@ This is where the **Stigmergic Board** becomes the ultimate shield. The Hub must
 ## 4. The Internal Barter Trap
 
 **The Vulnerability:**
-Chapter 15 states that Nodes can trade their internal `c` units with other Nodes "completely tax-free, because no fiat money is moving." However, most developed tax jurisdictions classify the exchange of goods and services — even without cash — as **commercial bartering**, which is taxable at fair market value. If a Node trades `10b` of design work for `10b` of legal advice, and `10b` maps to a fiat equivalent of €1,000, the tax authority views this as two taxable income events of €1,000 each.
+Chapter 16 states that Nodes can trade their internal `c` units with other Nodes "completely tax-free, because no fiat money is moving." However, most developed tax jurisdictions classify the exchange of goods and services — even without cash — as **commercial bartering**, which is taxable at fair market value. If a Node trades `10b` of design work for `10b` of legal advice, and `10b` maps to a fiat equivalent of €1,000, the tax authority views this as two taxable income events of €1,000 each.
 
 **The Honest Distinction:**
 The system's defense depends on how the internal ledger is legally classified:
