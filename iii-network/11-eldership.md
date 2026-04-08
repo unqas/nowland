@@ -14,7 +14,7 @@ The LSS is not a subjective performance rating. It is not assigned by a manager.
 
 The LSS serves three functions:
 
-**1. Governance Weight.** In the Weighted Consent Model (Chapter 13), your Block carries gravitational weight proportional to your LSS. This is not aristocracy — it is physics. The organism trusts the cells that have proven their Consilience over time. A Node with an LSS of 500c has demonstrated a half-thousand units of created order. Their objection to a Proposal carries more weight than a Node who joined last week — not because of their title, but because of their track record.
+**1. Governance Weight.** In the Weighted Consent Model (Chapter 14), your Block carries gravitational weight proportional to your LSS. This is not aristocracy — it is physics. The organism trusts the cells that have proven their Consilience over time. A Node with an LSS of 500c has demonstrated a half-thousand units of created order. Their objection to a Proposal carries more weight than a Node who joined last week — not because of their title, but because of their track record.
 
 **2. Reputation Signal.** Your LSS is publicly visible. When a new Pod is forming and looking for a strategist, they can see which Nodes have the deepest proven experience. When a massive Vacuum appears on the Stigmergic Board — a complex infrastructure project worth 200c — the system can weight the claim toward Nodes with higher LSS, not to exclude the young, but to match complexity with proven capability.
 

@@ -36,7 +36,8 @@
 ## V. Seed (The Hands)
 * [Ground Zero](v-seed/22-ground-zero.md)
 * [First Spark](v-seed/23-first-spark.md)
-* [Conclusion](v-seed/24-conclusion.md)
+* [Co-Uplifting](v-seed/24-co-uplifting.md)
+* [Conclusion](v-seed/25-conclusion.md)
 
 ## Appendix
 * [7 Laws of Social Syntropy](x-appendix/7-laws-of-social-syntropy.md)

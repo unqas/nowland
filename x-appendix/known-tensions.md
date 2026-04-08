@@ -59,7 +59,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 
 ## 5. The Scaling Cliff
 
-**The Tension:** The Seed Protocol (Chapter 19) beautifully demonstrates the paper-notebook ledger for two people. The mature system describes a smart-contract-powered Stigmergic Board for thousands. But what tools does a community of 15, 50, or 200 people use during the messy, awkward middle phase?
+**The Tension:** The First Spark (Chapter 23) beautifully demonstrates the paper-notebook ledger for two people. The mature system describes a smart-contract-powered Stigmergic Board for thousands. But what tools does a community of 15, 50, or 200 people use during the messy, awkward middle phase?
 
 **The Honest Progression:**
 
@@ -71,7 +71,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 | 50–250 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
 | 250+ Nodes | Federated Hub network | Multiple Hubs running independent instances, connected via Inter-Hub routing protocols. |
 
-**The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 19 provides a concrete "Dumb Tools" progression table for the interim.
+**The Honest Gap:** The middle-phase tooling does not exist yet. Building these tools is itself a Vacuum on the Stigmergic Board. The first Pod to fill it will earn the **Helix**. Chapter 23 provides a concrete "Dumb Tools" progression table for the interim.
 
 ---
 

@@ -90,7 +90,7 @@ The fastest way to kill a nascent community is to spend six months building a be
 | The Airlock | A standard PayPal or Stripe account held by the cooperative | When fiat volume exceeds basic bookkeeping |
 | The Hub legal entity | A standard registered Cooperative (eG, Co-op, SCOP) | When you process your first external fiat client |
 | The Peer Audit | A group vote in your messaging app | When disputes exceed one per month |
-| Governance | A shared document with meeting notes | When you need formal quorum tracking |
+| Governance | A github repo or shared document with meeting notes | When you need formal quorum tracking |
 
 The entire 80/10/5/3/2 split can be computed by a single spreadsheet formula. The entire zero-sum ledger can be verified by anyone who can read a table. The entire Peer Audit can be conducted in a group chat.
 
