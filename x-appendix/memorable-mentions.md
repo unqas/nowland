@@ -32,3 +32,11 @@ The truth is simple: the architect is the channel. The tools of existence — bi
 ---
 
 Without the friction introduced by these minds and instruments, the engine would not be capable of generating Syntropy at scale. They mapped the fracture points; we merely filled them with mathematics.
+
+---
+
+## Support the Helix
+
+The transition requires infrastructure. Shukhrat and the team behind the UNQA Genesis Hub are currently building **unqa.net** — a free stigmergic board, marketplace, and an unprecedented deflationary toolkit for everyone. This growing ecosystem encompasses ecommerce, publishing, websites, communication, networking, and notes, all built on the core principle that you own your data. We are actively creating the tools for the phase transition.
+
+If the DNA in this book has generated Syntropy for you, at this early stage you can support our work and fund the Helix at **[nowland.unqa.net](https://nowland.unqa.net)**, where you will find early-bird memberships, the Genesis Hub Discord community, and the practical tools we are building to deflate the cost of 4c baseline for everyone.

@@ -20,7 +20,7 @@
 * [Node, Pod, Hub, Grid, NET](iii-network/09-node-pod-hub.md)
 * [Helix](iii-network/10-helix.md)
 * [Eldership](iii-network/11-eldership.md)
-* [Apprentice Protocol](iii-network/12-apprentice-protocol.md)
+* [Apprentice](iii-network/12-apprentice.md)
 * [Stigmergy](iii-network/13-stigmergy.md)
 * [Governance](iii-network/14-governance.md)
 * [Disputes](iii-network/15-disputes.md)
