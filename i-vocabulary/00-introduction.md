@@ -2,6 +2,18 @@
 
 > **TL;DR:** The modern fiat economy is an entropy machine designed for extraction; The Nowland is a thermodynamic upgrade — a frictionless phase transition back to biological peace and mutual trust.
 
+## Two Doors
+
+You are standing in front of two doors.
+
+**Door One** is the one you know. Behind it is the only economy you were ever taught: a world where you trade the best hours of your biological life for a number on a screen, where that number loses value every year, and where the system demands an ever-increasing slice of your kinetic energy simply to keep the machine running. You know this door because you open it every morning. It is familiar. It is exhausting. And it is mathematically guaranteed to collapse under its own weight.
+
+**Door Two** leads to a system you have never been shown — not because it is new, but because it is dangerous to the architects of Door One. Behind it is an economy anchored to the physical reality of human biology, where your labor is pegged to the exact cost of nourishing your body, where every transaction automatically funds your survival, and where the entire system is designed to make your life *less expensive* with every passing year.
+
+This manual is the blueprint for Door Two. You do not need to burn Door One down. You simply walk through Door Two, build the alternative, and let the old world metabolize itself into irrelevance.
+
+---
+
 You are exhausted because you are running inside an engine that violates the laws of physics.
 
 You wake up, you spend eight hours trying to *skip the clock*, trading the best hours of your biological life for a wage, and yet every year, the cost of a home, a medical procedure, or a high-quality meal slips slightly further out of your reach. You are told this is the natural order of things. You are told that inflation is normal, that stress is the price of ambition, and that your exhaustion is a personal failure to keep up.
@@ -39,7 +51,7 @@ We do not condemn the steam engine for existing. We simply observe that the inte
 
 You cannot fix a thermodynamic failure by protesting it.
 
-You cannot vote a new politician into the old machine and expect the machine to produce a different output. If you want to escape the hallucination, you do not declare war on it. You simply walk out of the matrix by building a superior, frictionless alternative. You let the old world metabolize itself into irrelevance.
+You cannot vote a new politician into the old machine and expect the machine to produce a different output. If you want to escape the illusion, you do not declare war on it. You simply walk out of the matrix by building a superior, frictionless alternative. You let the old world metabolize itself into irrelevance.
 
 **This manual is the blueprint for that exit.**
 
@@ -55,17 +67,17 @@ We are not asking the old world for permission to do this. We are simply changin
 
 The goal of The Nowland is not to build a hyper-efficient machine that squeezes more productivity out of human beings. The goal is the opposite: to build a floor so solid that human beings can *stop* squeezing. To create enough frictionless abundance that a builder can choose to cook slowly, walk through the park, travel without anxiety, and sleep without dread. Efficiency is the tool. Biological peace is the destination. The system must serve life — not the other way around.
 
-Everything in this manual is a variation of one loop:
+**Everything in this manual is a variation of one loop:**
 
-**Start.** Take action. Build the imperfect first version — a notebook, a handshake, a shared spreadsheet. Do not wait for perfection. Perfection is entropy dressed in good intentions.
+1. **Start.** Take action. Build the imperfect first version — a notebook, a handshake, a shared spreadsheet. Do not wait for perfection. Perfection is entropy dressed in good intentions.
 
-**Adopt.** Test your work against reality. Does it survive contact with the physical world? (Consilience.) Does it generate order? (Syntropy.) Keep what works. Adapt what partially works. Decline what doesn't — without guilt.
+2. **Adopt.** Test your work against reality. Does it survive contact with the physical world? (Consilience.) Does it generate order? (Syntropy.) Keep what works. Adapt what partially works. Decline what doesn't — without guilt.
 
-**Stay.** Repeat the loop. The version of you that starts will not be the version that stays — but your core is preserved through continuous, deliberate refinement.
+3. **Stay.** Repeat the loop. The version of you that starts will not be the version that stays — but your core is preserved through continuous, deliberate refinement.
 
 This is not a revolution. It is a phase transition. And phase transitions do not ask for permission.
 
 The hallucination is ending. It is time to wake up and build the reality.
 
-> ### The Core Principle
+> ## The Core Principle
 > **You cannot fix a shattered block of ice by yelling at it.** You simply change the temperature, let it melt, and allow it to flow into a new reality. Stop trying to optimize your burnout inside a broken fiat machine. You do not need perfect digital tools or lawyers to walk out of the matrix today. You just need a notebook, one trusted partner, and the willingness to run the *Start, Adopt, Stay* loop.

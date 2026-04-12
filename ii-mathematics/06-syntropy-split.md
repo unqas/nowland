@@ -19,7 +19,13 @@ This is the **Syntropy Split**. It is hardcoded into the DNA of the ledger.
 The vast majority of the energy routes directly to you, the builder who executed the kinetic labor. You keep the lion's share of your physical effort. There is no CEO taking 60% of your value simply because they own the company name. 
 
 **2. The 10% (The Pod / The Circle / The Organ)**
-Ten percent routes into the multi-sig treasury of your Pod—your immediate, trusted strike-team. This is your localized failsafe. As you and your Pod-mates work, this treasury rapidly swells. This is the exact mechanism that funds your collective **4c Baseline**. You are building your own localized biological safety net, entirely independent of the government.
+Ten percent routes into the multi-sig treasury of your Pod—your immediate, trusted strike-team. This allocation is the bedrock of node survival and is further fractured into four specific survival spectrums:
+* **1% Future Youth Fund** — A permanent seed for the next generation.
+* **1% Current Youth Expenses** — Funding for collective childcare, education, and pediatric health.
+* **3% Baseline Safety** — The immediate floor insurance for all Pod members.
+* **5% Pod Infrastructure** — The local tools, hardware, and physical assets owned by the Pod.
+
+This is your localized failsafe. As you and your Pod-mates work, this treasury rapidly swells. This is the exact mechanism that funds your collective **4c Baseline**. You are building your own localized biological safety net and treasury, entirely independent of the government.
 
 **3. The 5% (The Hub / The Community / The Organization)**
 Five percent flows outward to the Hub (the Organization). This energy sustains the legal Membrane that protects you from the fiat world. More importantly, this is how the Hub purchases physical reality: server hosting, software licenses, agricultural land, and co-working Freespaces. The infrastructure belongs to you because you fund it with every heartbeat of your work.
@@ -28,7 +34,10 @@ Five percent flows outward to the Hub (the Organization). This energy sustains t
 Three percent routes back in time to the Architect. If you used a piece of open-source code, a design template, or a workflow built by someone else to execute your bounty, the system automatically recognizes their "DNA." This completely reinvents intellectual property. You do not lock ideas behind fiat paywalls; you release them into the wild, and whenever they are used to generate Syntropy, the system automatically routes a 3% royalty back to you. This is how the Elders of the network achieve infinite, passive wealth without ever becoming extractive bosses.
 
 **5. The 2% (The Grid & NET / The Commons / The Ecosystem)**
-The final two percent routes to the global maintainers of the Nowland OS — the engineers keeping the international servers running, ensuring the ledger remains mathematically sealed and secure. 
+The final two percent routes to the infrastructure that connects Hubs into a living ecosystem. This allocation splits further: 
+
+* **1.7% flows to the Grid** — the local-regional federation of Hubs that share geography, supply chains, and mutual aid.
+* **0.3% flows to the NET** — the global network layer that maintains the network connecting all Grids, the routing protocols, the cryptographic identity systems, the global ledger, and the open-source DNA repository.
 
 ### The End of the Subsidy
 Look at the thermodynamic elegance of this math. 
@@ -43,7 +52,7 @@ On the surface, the Split behaves like a tax. It is indeed a mandatory redistrib
 
 But the destination of the energy is fundamentally different. Fiat tax is an extraction; it leaves your sphere of influence to fund the management of a centralized bureaucratic system. You have almost no agency over how it is metabolized.
 
-The Syntropy Split operates similarly to the wealth-building principle described in *The Richest Man in Babylon* ("pay yourself first"), but executed at a community level. The 20% never leaves your perimeter. It acts as the safety mechanism exclusively for *your* symbiotic survival. It nourishes your immediate environment and creates the conditions for your Pod to thrive. The 10% buys the physical safety net for your specific team. The 5% buys the servers and land that your Hub relies on. The 3% rewards the architects you depend on. The 2% rewards the engineers keeping the international servers running, ensuring the ledger remains mathematically sealed and secure.
+The Syntropy Split operates similarly to the wealth-building principle described in *The Richest Man in Babylon* ("pay yourself first"), but executed at a community level. The 20% never leaves your perimeter. It acts as the safety mechanism exclusively for *your* symbiotic survival. It nourishes your immediate environment and creates the conditions for your Pod to thrive. The 10% buys the physical safety net for your specific team. The 5% buys the servers and land that your Hub relies on. The 3% rewards the architects you depend on. The 1.7% sustains the regional Grid autonomy infrastructure connecting your Hub to its neighbors, and the 0.3% sustains the global NET keeping the global nervous system alive.
 
 This is not an extractive loss of energy; it is the mathematical conversion of fragile active labor into compounding structural equity.
 
@@ -65,18 +74,20 @@ The 80/10/5/3/2 split is the mature anatomy of the system. But nature does not b
 **Solo Node (no Pod, no Hub, no Grid):**
 You keep 100%. There is no split because there is no system. You are a freelancer, not a Symbiocracy. You are operating in fiat physics.
 
-**Pod stage (2–8 Nodes, no Hub):**
+**Pod stage (2–7 Nodes, no Hub):**
 `80% Node / 20% Pod Commons.` The 20% is undifferentiated — it all pools into a single Seed Treasury. There is no Hub to receive 5%, no Grid to receive 2%, no Helix claimants yet. The Pod is the entire organism.
 
 **Hub stage (multiple Pods, legal cooperative, no Grid):**
 `80% Node / 10% Pod / 5% Hub / 5% pooled.` The remaining 5% (Helix + Grid) stays pooled at the Hub level. If a Helix claim is made — an upstream DNA Template is declared — the 3% routes to the Architect and 2% stays in Hub reserve. If no Helix is claimed, all 5% stays in the Hub Commons. The Grid allocation activates only when a Grid exists.
 
 **Grid stage (multiple Hubs, federated network):**
-`80% Node / 10% Pod / 5% Hub / 3% Helix / 2% Grid.` The full prism is active. Even here, unclaimed Helix flows into the Grid Commons rather than vanishing.
+`80% Node / 10% Pod / 5% Hub / 3% Helix / 1.7% Grid / 0.3% NET.` The full prism is active. The 2% now fractures into its final two spectrums: 1.7% sustains the local Grid infrastructure (inter-Hub routing, shared supply chains, Macro Re-Pair Bonds), and 0.3% sustains the global NET (the global nervous system). Even here, unclaimed Helix flows into the Grid Commons rather than vanishing.
 
 The principle is simple: **unclaimed allocations always pool at the current highest organizational layer.** Energy never disappears from the system. It just waits at the level where the organism currently ends, ready to flow further as new layers emerge.
 
 This means a two-person notebook ledger and a thousand-Node federated Grid run on the *exact same physics* — just at different stages of activation. You do not need to build the full infrastructure to start using the system. You start with a notebook and let the physics grow the skeleton.
+
+*(See Appendix: [Sharing the Harvest](../x-appendix/sharing-the-harvest.md))*
 
 ---
 

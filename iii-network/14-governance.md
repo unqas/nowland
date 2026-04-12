@@ -26,13 +26,13 @@ Here is how it works:
 
 5. **Resolution:** If no weighted Block stands after 72 hours, the Proposal auto-executes. If a Block stands, the Proposer must either modify their Proposal to address the objection or withdraw it. There is no override mechanism. There is no executive veto. If a genuine disagreement remains unresolvable, the system does not force agreement. It triggers a Fork.
 
-6. **Quorum:** A Proposal cannot auto-execute unless a minimum of 33% of the Hub's active Nodes (defined as Nodes who have executed at least one transaction in the current `4c` cycle) have viewed or interacted with it during the Review Window. If the quorum is not met, the Review Window extends by an additional 72 hours, once. If the quorum is still not met after the extension, the Proposal is returned to the Proposer for re-submission. This prevents decisions from passing in silence while the majority of the organism sleeps.
+6. **Quorum Gate (33%):** A Proposal cannot auto-execute unless a minimum of 33% of the Hub's active Nodes (defined as Nodes who have executed at least one transaction in the current `4c` cycle) have viewed or interacted with it during the Review Window. If the Quorum Gate is not met, the Review Window extends by an additional 72 hours, once. If the Quorum Gate is still not met after the extension, the Proposal is returned to the Proposer for re-submission. This prevents decisions from passing in silence while the majority of the organism sleeps.
 
 ### Pod-Level Decisions
 
-At the Pod level (3–8 Nodes), formal governance is unnecessary. Consensus emerges naturally in small groups bound by mutual trust. A Pod decides how to allocate its 10% treasury, which Vacuums to claim, and how to distribute internal workloads through direct conversation. No protocol can improve on the efficiency of five aligned humans in a room.
+At the Pod level (2–7 Nodes), formal governance is unnecessary. Consensus emerges naturally in small groups bound by mutual trust. A Pod decides how to allocate its 10% treasury, which Vacuums to claim, and how to distribute internal workloads through direct conversation. No protocol can improve on the efficiency of seven aligned humans in a room.
 
-If a Pod grows past eight Nodes and consensus begins to fracture, the Pod does not install a manager. It divides. Two Pods of four will always outperform one Pod of eight, because trust does not scale linearly — it scales inversely with group size.
+If a Pod grows past seven Nodes and consensus begins to fracture, the Pod does not install a manager. It divides. Two Pods of three or four will always outperform one Pod of eight, because trust does not scale linearly — it scales inversely with group size.
 
 ### The Constitutional Defaults
 

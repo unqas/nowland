@@ -53,12 +53,12 @@ ARTICLE 1. DEFINITIONS
     agreements of this License have been executed.
 
 1.8 "Recognized Hub" means any entity that (a) has registered as a legal 
-    structure (Cooperative, LLC, Ltd, GmbH, or equivalent) in its local 
-    jurisdiction, (b) has executed at least one valid transaction on the 
-    Network ledger, and (c) remits the 2% Grid allocation to the Grid 
-    Operator. At genesis, the Grid Operator is UNQA. Hub recognition is 
-    permissionless — any entity meeting conditions (a), (b), and (c) is 
-    automatically recognized.
+    structure (Cooperative, Holding, LLC, Ltd, GmbH, SCOP, or equivalent) in 
+    its local jurisdiction, (b) has executed at least one valid transaction 
+    on the Network ledger, and (c) remits the 2% Connection allocation 
+    (1.7% to the Grid, 0.3% to the NET) to the respective infrastructure 
+    operators. Hub recognition is permissionless — any entity meeting 
+    conditions (a), (b), and (c) is automatically recognized.
 
 --------------------------------------------------------------------------------
 ARTICLE 2. THE PUBLIC COMMONS (NON-COMMERCIAL GRANT)
@@ -84,7 +84,7 @@ under the Syntropy Protocol, and distributed via the following thermodynamic
 split:
 
     A. 80% (The Source): Routed by the Hub directly to the Licensee(s)
-       who executed the physical labor.
+       who executed the physical labor (The Nodes).
 
     B. 10% (The Circle): Routed by the Hub into a verifiable treasury 
        reserved exclusively for the health, tooling, infrastructure, and 
@@ -93,11 +93,16 @@ split:
     C. 5% (The Community): Retained by the Hub for the maintenance of the 
        legal Membrane, physical infrastructure, and shared community assets.
 
-    D. 3% (The Helix): Routed by the Hub to the Architect(s) whose DNA 
-       Templates were utilized in the execution of the work (The Creators).
+    D. 3% (The Creators): Routed by the Hub to the Architect(s) whose DNA 
+       Templates were utilized in the execution of the work (The Helix).
 
-    E. 2% (The Network): Routed by the Hub to the global maintainers of the 
-       Nowland OS infrastructure (The Grid & NET).
+    E. 2% (The Connection): Routed by the Hub to the infrastructure layers 
+       that connect the ecosystem:
+       - 1.7% to the Grid (regional infrastructure, inter-Hub routing, 
+         shared supply chains, Macro Re-Pair Bonds).
+       - 0.3% to the NET (global infrastructure, routing protocols, 
+         cryptographic identity systems, global ledger, open-source DNA 
+         repository).
 
 The Hub processes the split as a single, atomic operation. The Licensee 
 receives their 80% and their Pod receives its 10%. The internal fracture of 

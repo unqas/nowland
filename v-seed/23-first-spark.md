@@ -21,7 +21,7 @@ Open to the first page. Draw three columns.
 At the top of the page, write everyone's starting balance: **0**. 
 You have no printed money. You have no debt. You are in a state of thermodynamic equilibrium. 
 
-### Step 2: Establish the Local Peg
+### Step 2: Define the Local Peg
 Before you can trade, you must anchor your ledger to physical reality. You must define the **2b Dignity Peg** for your specific geographic location. 
 
 Sit down with Node B and answer this question: *What is the exact fiat cost of a highly nourishing, locally sourced, ethical meal in our city today?* Let us assume you decide it is €15. 
@@ -30,7 +30,7 @@ Therefore, `2b = €15` of kinetic energy.
 
 You do not write the fiat numbers in the ledger. You only write the 'b'. But the physical reality of the peg is now locked in your minds. You know exactly what a single unit of your energy is worth in calories and dignity. 
 
-### Step 3: Create the Vacuum
+### Step 3: Indicate the Vacuum
 Identify a real, immediate problem. 
 
 Perhaps Node B is a developer who is exhausted and doesn't have time to cook for the next three days. You are a skilled cook. Node B creates a Vacuum. They post a "Bounty" into the physical space between you: *"I need three days of high-quality meal prep."*
@@ -53,7 +53,7 @@ Now, you open the notebook and close the circuit. You do not exchange fiat cash.
 
 *Note: Because you do not have a Hub, a Helix, or a global Grid yet, you simplify the 10/5/3/2 split. All 20% goes into a single Seed Treasury.*
 
-### The Reality of What You Just Did
+#### The Reality of What You Just Did
 Look closely at that piece of paper. 
 
 `(-4.0) + 3.2 + 0.8 = 0.`
@@ -69,7 +69,7 @@ In the old world, this would be a source of anxiety. In The Nowland, it is simpl
 
 Next week, you need a piece of code reviewed, or your bicycle repaired, or help moving a piece of furniture. You create a Vacuum. Node B claims it. They execute the Syntropy. The math reverses. Their ledger returns to zero. Your ledger drops. The Commons collects another 20% split. 
 
-Eventually, the Commons column will reach `10b` or `20b`. What do you do with it? You and Node B look at that surplus and use it to buy a physical asset—a shared software subscription, a communal tool, or you invite a third friend into the notebook and use the Commons to fund their first meals. 
+Eventually, the Commons column will reach `10b` or `20b`. What do you do with it? You and Node B look at that surplus and use it to generate deflation: buy a physical asset, a shared software subscription, a communal tool; or you invite a third friend into the notebook and use the Commons to fund their first meals. 
 
 The Seed is planted. The organism is alive. 
 
@@ -88,7 +88,7 @@ The fastest way to kill a nascent community is to spend six months building a be
 | The Stigmergic Board | A Discord channel called `#vacuums` | When you have 50+ active Vacuums per week |
 | The Ledger | A shared Google Sheet with the A-B-C columns | When the spreadsheet becomes unmanageable (~15 Nodes) |
 | The Airlock | A standard PayPal or Stripe account held by the cooperative | When fiat volume exceeds basic bookkeeping |
-| The Hub legal entity | A standard registered Cooperative (eG, Co-op, SCOP) | When you process your first external fiat client |
+| The Pod/Hub legal entity | A company or a standard registered Cooperative (eG, Co-op, SCOP) | When you process your first external fiat client |
 | The Peer Audit | A group vote in your messaging app | When disputes exceed one per month |
 | Governance | A github repo or shared document with meeting notes | When you need formal quorum tracking |
 

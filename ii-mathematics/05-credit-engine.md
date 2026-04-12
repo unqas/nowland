@@ -1,4 +1,4 @@
-## Chapter 5: The Zero-Sum Mutual Credit Engine
+## Chapter 5: The Zero-Sum Mutual Credit Ledger
 
 > **TL;DR:** Money is not a printed asset; it is a measurement of relationship. The ledger operates as a zero-sum mutual credit engine where currency is sparked into existence *only* upon the creation of physical value, eliminating both inflation and extractive debt.
 
@@ -6,7 +6,7 @@ The greatest lie of the modern era is that wealth can be printed.
 
 When a central bank creates a trillion dollars out of thin air, they have not created a single drop of clean water, a single line of code, or a single brick. They have simply diluted the existing pool of kinetic energy. They are practicing economic alchemy, attempting to violate the First Law of Thermodynamics: *Energy cannot be created or destroyed.* Because you cannot print actual physical energy, printing fiat currency only creates the hallucination of wealth while guaranteeing the reality of inflation. It is a system built on endless debt owed to centralized exactors. 
 
-In The Nowland, we abandon alchemy and return to physics. We do not use fiat money. We use a **Zero-Sum Mutual Credit Engine**. 
+In The Nowland, we abandon alchemy and return to physics. We do not use fiat money. We use a **Zero-Sum Mutual Credit Ledger**. 
 
 To understand this, you must realize that money is not a noun. It is not a shiny rock or a piece of paper you hoard in a vault. Money is a verb. It is the measurement of a relationship between two human beings. 
 

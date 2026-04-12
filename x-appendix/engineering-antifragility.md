@@ -1,4 +1,10 @@
-# Appendix: Engineering Antifragility — How to Survive Whatever Happens
+# Engineering Antifragility
+
+*(or, How to Build a System That Gets Stronger When Challenged)*
+
+> **TL;DR:** The Nowland OS is engineered to be antifragile. This chapter documents specific structural mechanisms like weaponized mitosis, the hibernation protocol, and the jurisdictional hydra that allow the organism to metabolize existential threats—bureaucratic audits, fiat recessions, and internal conflicts—into compounding strength.
+
+---
 
 A fragile system breaks under pressure. A robust system endures pressure. An **antifragile** system feeds on pressure and grows stronger because of it.
 
@@ -142,3 +148,8 @@ It is a quiet, patient, mathematically rigorous alternative that grows stronger 
 The fiat pyramid draws its power from centralization, opacity, and dependency. The Nowland draws its power from distribution, transparency, and self-sufficiency. These are not competing ideologies. They are competing physics. And physics always wins.
 
 Stay soft. Stay quiet. Stay local. Build the floor. Let time do the rest.
+
+---
+
+> ### The Core Principle
+> **Failure is fertilizer.** A fragile system breaks under pressure; a robust system endures it; an antifragile system feeds on it. By operating transparently, remaining decentralized, and turning every crisis into a structural upgrade broadcasted across the Grid, the Nowland algorithmically turns the fiat system's attack into its own destruction.

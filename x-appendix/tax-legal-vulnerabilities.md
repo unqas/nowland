@@ -1,10 +1,14 @@
-# Appendix: Deep Dive: Tax, Audits & Legal Vulnerabilities
+# Tax, Audits & Legal Vulnerabilities
+
+(*or, What to Know to Be Fully Legally Compliant*)
+
+> **TL;DR:** To survive the legacy financial system, a Nowland Hub must intentionally deploy tax arbitrage, cooperative retention shields, and precise accounting to avoid "Constructive Receipt" and disguised employment. We do not look for loopholes; we use recognized legal structures to legally render the fiat extraction obsolete.
+
+---
 
 Every serious engineering document includes a section on known limitations. When builders first read about the Membrane and the Trojan Mouse, they often sound beautiful in theory. But when a forensic accountant or a labor regulator audits the structure, the illusion can shatter if not handled correctly.
 
-The architecture is mathematically elegant, but to survive the legacy system, we must harden the accounting against specific fiat attack vectors. 
-
-> **The Core Principle:** We do not evade taxes. We do not look for legal loopholes. We pay the gravity tax honestly, we record the net, and we treat the gross fiat number as a hallucination frequency cost. The Membrane is a pattern for study — not legal advice. Every Hub must engage qualified local accountants and lawyers to build, validate, and maintain their specific legal DNA.
+The architecture is mathematically elegant, but to survive the legacy system, we must harden the accounting against specific fiat attack vectors.
 
 ---
 
@@ -184,3 +188,6 @@ When building the Membrane and interfacing with the old world, the rule is absol
 We do not fight the state in court. We do not hide behind shady offshore tax-havens. We operate in broad daylight, using recognized corporate structures, voluntarily paying the required friction costs to escape gravity without taking damage. We don't break the law; we use the law to render the old world obsolete.
 
 **Every Hub is responsible for engaging qualified legal and accounting professionals in its local jurisdiction.** The architecture in this manual is a thermodynamic pattern, not legal advice. Study the rules of the game. Hire the professionals who know the local physics. Build the DNA that works in your specific reality. Then publish your proven structure on the Stigmergic Board so the next Hub starts from your foundation, not from zero.
+
+> ### The Core Principle
+> **We do not evade taxes. We do not look for legal loopholes. We pay the gravity tax honestly, we record the net, and we treat the gross fiat number as a hallucination frequency cost.** The Membrane is a pattern for study — not legal advice. Every Hub must engage qualified local accountants and lawyers to build, validate, and maintain their specific legal DNA.

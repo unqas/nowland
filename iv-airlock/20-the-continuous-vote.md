@@ -1,4 +1,4 @@
-# Chapter 20: The Continuous Vote (Money Voting)
+## Chapter 20: The Continuous Vote (Money Voting)
 
 > **TL;DR:** You do not vote for the future at a ballot box every four years. You vote for the future at the cash register every single day. Every fiat purchase is a thermodynamic transfer of energy that dictates which systems of value survive and which ones starve. Your most dangerous weapon is not your political affiliation — it is the privilege of your decision.
 
@@ -8,7 +8,7 @@ Every four years, you enter a booth, pull a lever, and believe you have shaped t
 
 The biggest power you possess is not your political affiliation. It is the privilege of your decision. Because when you decide to fund one thing, you simultaneously exclude the other. **De-ciding** literally means *to cut away.* Every purchase is a vote. Every vote has a consequence.
 
-## The Physics of Purchasing
+### The Physics of Purchasing
 
 In the current system, every time you spend money, you are voting.
 
@@ -23,7 +23,7 @@ Whatever system we are in, it cannot exist without our continuous financial supp
 
 If enough Nodes simply decide to route their capital away from Entropic goods and toward Syntropic alternatives, the legacy structures will collapse like suffocated stars. No revolution required. No manifesto. No political party. Just millions of quiet, daily choices, flowing in a new direction.
 
-## Walking the Landfill
+### Walking the Landfill
 
 If you want to know who genuinely controls the legacy world, do not look at politicians. Walk through a landfill. 
 
@@ -35,7 +35,7 @@ The people who made that trash are multi-billionaires today, and they achieved t
 
 The landfill is the physical fossil record of our collective voting history. It is the Consilience of our consumption. And it tells a devastating story.
 
-## The Inversion
+### The Inversion
 
 Here is the uncomfortable truth: the system you despise is the system you fund.
 
@@ -45,7 +45,7 @@ You do not need a protest sign. You need a receipt that aligns with your values.
 
 Money voting, happening every single day in every single transaction, is incomparably more powerful than political voting happening once every four years. Because the politician makes a promise. The receipt makes a fact. The politician asks for your trust. The receipt contains your physics.
 
-## Your Continuous Vote Inside the Membrane
+### Your Continuous Vote Inside the Membrane
 
 Inside The Nowland, money voting becomes explicit rather than unconscious.
 

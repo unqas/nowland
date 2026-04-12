@@ -9,17 +9,31 @@ The fiat safety net is not a baseline of dignity; it is an apology for a broken 
 In a Symbiocracy, we do not weaponize survival. We mathematically guarantee it. 
 
 ### The 4c Baseline (The Mycelial Floor)
+
 In nature, a mature forest does not let its saplings starve. The massive canopy trees absorb surplus sunlight and pump the excess carbon and sugar down into the mycelial network. The fungal grid routes those nutrients to the smaller trees on the forest floor, ensuring they survive until they grow tall enough to catch their own sun. The forest does this because a dense, biologically diverse ecosystem is thermodynamically resilient. A dying sapling is a vulnerability to the whole grid.
 
 In The Nowland, this mycelial floor is called the **4c Baseline**. 
 
 As we established, `1c` is the exact mathematical calculation of one week of biological peace (shelter, high-quality nourishment, and physical security). Therefore, `4c` represents one full cycle—a month of absolute survival. 
 
+The Nowland defines three formal economic tiers for every Node:
+
+| Tier | Value | Meaning |
+|---|---|---|
+| **MVB** (Minimal Viable Baseline) | `1c` / month (Consensus Target) | The absolute survival floor set by the consensus of the Pod. The starting target for a brand-new Pod navigating harsh times or fighting for its first spark. |
+| **Baseline** | `4c` / month | Biological peace — a full month of shelter, nourishment, and security. Enough to exit fight-or-flight mode and create without anxiety. |
+| **Apex** | `16c` / month (4 × Baseline) | Full sovereignty — best equipment, premium nourishment, travel, freedom. The ceiling enforced by the 1:4 Max-Out Coefficient. |
+
+These tiers are not aspirational. They are the mathematical constants that govern the growth stages of a Pod (see *Appendix: Sharing the Harvest* for the full mechanics). You start at MVB, you fight to reach Baseline for every member, and only when the Baseline is universally secured does the Apex become accessible.
+
 Because of the Syntropy Split, every time a Node executes a bounty, 10% of that energy flows into the Pod Treasury and 5% into the Hub Treasury. These treasuries are not slush funds for executives. They are the mycelial network. They exist to automatically top up the `4c` ring of every recognized Node in the ecosystem. 
 
 You do not have to "earn" your baseline survival, because the Hub recognizes that a starving, anxious Node is incapable of generating high-quality Syntropy. You are sustained so that your brain can exit the "fight or flight" mode of the fiat world and enter the creative, problem-solving state required to build real wealth. 
 
+> *Imagine waking up on a Tuesday morning knowing that your rent, food, and safety are mathematically secured — not by a corporation's goodwill, but by the surplus you and your closest friends generated last month. You open your laptop not because you must, but because the Vacuum you spotted yesterday is fascinating. Your body is rested. Your mind is clear. There is no anxiety about bills, no dread of performance reviews, no calendar full of meetings that exist only to justify someone else's job. This is what `4c` feels like. This is the biological floor beneath which no Node in the network falls.*
+
 ### Why It Doesn't Become Toxic Welfare
+
 Critics from the old world hear "UBI" and immediately assume the system will collapse under the weight of freeloaders. They assume human beings are inherently lazy, because in the fiat world, work is a miserable extraction of the soul. 
 
 But The Nowland OS is mathematically protected against the freeloader trap. 
@@ -27,7 +41,7 @@ But The Nowland OS is mathematically protected against the freeloader trap.
 * **The Gravity of the Vacuum:** Once your 4c baseline is met, if you want *more*—if you want to travel, buy a physical asset, or invest in a massive project—you must step onto the Stigmergic Board. You must create a Vacuum, drop into the negative, and ultimately execute Syntropy to clear your ledger. 
 * **The 1:4 Max-Out Coefficient:** You cannot scale to infinity alone. By default, the highest earner in a Pod cannot exceed four times the baseline of the lowest earner. To reach higher wealth (e.g. 20c), you are biologically forced to help ensure everyone in your Pod reaches at least 4c. This prevents fiat-style hoarding and incentivizes mutual uplift. (See *Appendix: Mathematics of the Pod* for full mechanics).
 
-Even before reaching the formalized scale of a Pod or Hub, you can begin establishing your own baseline deflation simply by sharing resources with one other person—a principle we call **The Synergy of Two** (Detailed in Chapter 21). 
+Even before reaching the formalized scale of a Pod or Hub, you can begin establishing your own baseline deflation simply by sharing resources with one other person—a principle we call **The Synergy of Two** (Detailed in Chapter 24). 
 
 But what happens when a Node simply stalls? What happens when their kinetic energy drops to zero, they consume their 4c baseline, and their internal ledger starts sinking into the negative week after week? 
 

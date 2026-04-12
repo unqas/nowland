@@ -22,7 +22,7 @@ To survive in a toxic environment, biology does not build a solid wall. It build
 
 A cell membrane allows nutrients (energy) to flow in, while keeping toxins (fiat bureaucracy, corporate taxes, and legal liability) out. In The Nowland, the Hub acts as our Membrane. It is constructed using two impenetrable materials: Cooperative Law and Double-Entry Bookkeeping.
 
-#### 1. Cooperative Law (The eG)
+### 1. Cooperative Law (The eG)
 If you try to run your Pod as a traditional corporation (an LLC, a C-Corp, or a German GmbH), you are immediately pulled into the physics of the Pyramid. The fiat state views a corporation as a capitalist extraction machine. It will hit you with heavy corporate taxes, rigid employment laws, and "contractor misclassification" traps designed to crush freelancers. 
 
 You must wrap the Hub in a legal structure that the fiat state already recognizes as non-extractive. 
@@ -36,16 +36,17 @@ By operating the Hub as a Cooperative:
 
 The Hub becomes a sterile legal wrapper. It signs the B2B contracts with the old world, holds the central bank account, and takes the legal liability off the shoulders of the individual Nodes. 
 
-### The Nested Sovereign Array (The Corporate Cascade)
+#### The Nested Sovereign Array (The Corporate Cascade)
 
 Operating a Hub as a lone Cooperative is powerful, but when the organism scales, treating the network as a loose collection of exposed freelancers docking into a central Hub is inefficient. Progressive income tax acts as a punishing cliff for successful builders. The true architecture scales through nested corporate shielding:
 
 * **The Node (Single-Member LLC or Solopreneur):** Operates individually to insulate personal assets from business execution and allow for highly localized expense deductions.
-* **The Pod (Joint LLC):** If a Pod is a tightly-coupled team, it registers as a joint venture LLC. This establishes a localized ring-fence around Pod-level risks, shared intellectual property, and internal tooling.
-* **The Hub (Cooperative / Holding):** The master organism. The Cooperative model is mathematically ideal at this level because the law dictates that it distributes surplus *proportional to work and usage* rather than proportional to equity capital. This directly maps to and protects the algorithms of the Syntropy Split. 
-* **The Grid (Social Fund / Holding):** When international Hubs route Vacuums to each other, they pass energy through Grid-level structures that manage global resources without triggering regional capitalist profit extraction.
+* **The Pod (Joint LLC or Partnership):** If a Pod is a tightly-coupled team, it registers as a joint venture LLC or partnership. This establishes a localized ring-fence around Pod-level risks, shared intellectual property, and internal tooling.
+* **The Hub (Cooperative or Holding):** The master organism. The Cooperative model (German *eG*, US Worker Cooperative, French *SCOP*, Spanish *Sociedad Cooperativa*) is mathematically ideal at this level because the law dictates that it distributes surplus *proportional to work and usage* rather than proportional to equity capital. This directly maps to and protects the algorithms of the Syntropy Split. Alternatively, a Holding structure can be used in jurisdictions where cooperative law is insufficient.
+* **The Grid (Nonprofit / Fund / Social-Purpose Organization):** When multiple Hubs, Pods, and sub-Grids coordinate in a geographic region, the Grid operates as a nonprofit or social-purpose fund. This structure enables tax-exempt status for community assets, grant eligibility for infrastructure projects, and legal standing as a social enterprise. The Grid manages shared physical resources without triggering regional capitalist profit extraction.
+* **The NET (Nonprofit / Fund):** The global coordination layer operates as a nonprofit or fund, maintaining the routing protocols, cryptographic identity systems, global ledger, and open-source DNA repository. The 0.3% NET allocation sustains this infrastructure.
 
-#### 2. The Financial Shield (Accrual Accounting)
+### 2. The Financial Shield (Accrual Accounting)
 The second half of the Membrane is the accounting shield. 
 
 When builders first conceptualize The Nowland OS, they panic about double taxation. They think: *"If the Hub receives €10,000 from a fiat client, and holds my €8,000 split in its bank account until I want to withdraw it, won't the Hub pay corporate tax on that money, and then I pay income tax on it again later?"*

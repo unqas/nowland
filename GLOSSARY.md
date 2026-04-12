@@ -6,13 +6,27 @@ The Nowland OS fundamentally replaces the extractive language of the old world w
 
 * **Node:** The sovereign individual. The atom of kinetic energy. In cellular biology, this is the autonomous cell — the irreducible origin point of all Syntropy. A Node owns their cryptographic identity, their data, and their A-B-C ledger. They interact directly with the Stigmergic Board to claim Vacuums and generate value. A Node is never an employee; a Node is a sovereign biological engine.
 
-* **Pod:** The autonomous strike-team (3–8 Nodes). The molecule. In biology, this is the cluster of specialized cells that form a functional tissue — stronger, faster, and more resilient than any individual cell. Pods are self-selected through mutual trust and shared Consilience. They share a 10% treasury that acts as their localized safety net, guaranteeing the 4c baseline of every member. A Pod is lethal because it eliminates all bureaucratic friction while maintaining absolute high-trust agility.
+* **Pod:** The autonomous strike-team (2–9 Nodes, with a perfect composition of 7). The molecule. In biology, this is the cluster of specialized cells that form a functional tissue — stronger, faster, and more resilient than any individual cell. Pods are self-selected through mutual trust and shared Consilience. They share a 10% treasury that acts as their localized safety net, guaranteeing the 4c Baseline of every member. A Pod is lethal because it eliminates all bureaucratic friction while maintaining absolute high-trust agility.
 
-* **Hub:** The legal Cooperative and infrastructure treasury. The organism. In biology, this is the complete multicellular body — the macro-structure that protects, feeds, and coordinates its internal cells. Legally, the Hub wraps itself in Cooperative law (the German *eG*, the US *Worker Cooperative*, the Italian *Società Cooperativa*). It acts as the Membrane between the internal Symbiocracy and the external fiat world. The Hub accepts all revenue, processes the Syntropy Split as a single atomic operation, and shields the Nodes from corporate tax friction. At genesis, the Hub is UNQA. As the ecosystem scales, new Hubs emerge as autonomous organisms.
+* **Hub:** The legal Cooperative or Holding and infrastructure treasury. The organism. In biology, this is the complete multicellular body — the macro-structure that protects, feeds, and coordinates its internal cells. Capped at Dunbar's Number (~150–230 Nodes); when a Hub approaches this ceiling, it naturally fissions into two autonomous Hubs connected via the Grid. Legally, the Hub wraps itself in Cooperative law (the German *eG*, the US *Worker Cooperative*, the French *SCOP*, the Italian *Società Cooperativa*, the Spanish *Sociedad Cooperativa*) or a Holding structure. It acts as the Membrane between the internal Symbiocracy and the external fiat world. The Hub accepts all revenue, processes the Syntropy Split as a single atomic operation, and shields the Nodes from corporate tax friction.
 
 * **Helix:** The DNA. The Architects and Elders who write open-source templates, workflows, and frameworks, then release them into the wild. They earn the 3% perpetual royalty whenever their DNA is used to generate Syntropy. The Helix is the Co-Uplifting Engine — the mechanism that financially incentivizes the most experienced builders to ruthlessly uplift the youngest. The Helix naturally dilutes over time as subsequent Architects improve and fork the original templates, ensuring no single Elder becomes an extractive rent-seeker.
 
-* **Grid:** The global macro-system and server infrastructure (the 2%). The biosphere. The Grid maintains the mathematical integrity of the ledger, the cryptographic security of the network, and the international server infrastructure. At genesis, UNQA serves as Grid maintainer. As the ecosystem matures, Grid governance transitions to the collective board of all Hubs.
+* **Grid:** The regional ecosystem connecting Hubs. Legally a Nonprofit, Fund, or Social-purpose organization. A Grid can be formed from a heterogeneous mix of Hubs, independent Pods, and smaller sub-Grids — it is an ecosystem, not a uniform layer. The 1.7% Grid allocation from every transaction sustains the inter-Hub routing, shared supply chains, Macro Re-Pair Bonds, and autonomy infrastructure. As the ecosystem matures, Grid governance operates through voluntary inter-Hub treaties, not hierarchy.
+
+* **NET:** The global nervous system — the federation of autonomous Grids across the planet. Legally a Nonprofit or Fund. The 0.3% NET allocation sustains the routing protocols, connecting all Grids, cryptographic identity systems, global ledger, and the open-source DNA repository.
+
+## The Tiers (Economics)
+
+* **MVB (Minimal Viable Baseline):** The absolute survival floor set by the consensus of the Pod. The MVB serves three functions: (1) the Pod survival floor when starting out or navigating crisis, (2) the child support unit — 1 child ≈ 1c, 2 children ≈ 1.25c, 3 children ≈ 1.5c, and (3) the baseline compensation for the Apprentice tier (L0). While often conceptually benchmarked near 1c, it is a localized consensus decision, not a hardcoded system constant.
+
+* **Baseline:** 4c per month. Biological peace — a full month of shelter, nourishment, and security. Enough to exit fight-or-flight mode and create without anxiety.
+
+* **Apex:** 16c per month (4 × Baseline). Full sovereignty — best equipment, premium nourishment, travel, freedom. The ceiling enforced by the 1:4 Max-Out Coefficient.
+
+* **Sharing the Harvest (Bounty Distribution):** The level-based system (L0–L4) that governs how a Pod's harvest is shared. L0 (Apprentice/MVB), L1 (Junior/Baseline), L2 (Builder/Mid), L3 (Architect/Senior), L4 (Founder/Apex). Levels unlock progressively as the Pod matures from Genesis through MVB, Baseline, and Reserve stages. See *Appendix: Sharing the Harvest*.
+
+* **LSS Attribution (80/20):** When a Vacuum is filled, the executor receives 80% of the LSS credit and the Vacuum creator receives 20%. This ensures both the signal and the labor are recognized by the ledger.
 
 ## The Environment (Physics)
 
@@ -34,7 +48,11 @@ The Nowland OS fundamentally replaces the extractive language of the old world w
 
 * **4c Baseline:** The Mycelial Floor. One month of guaranteed biological peace — nourishment, shelter, connectivity, and physical security. The mathematical threshold where human anxiety dies and human Syntropy begins. The network automatically works to keep every active Node above this line.
 
-* **The Prism Protocol (The Syntropy Split):** The 80/10/5/3/2 fracture of kinetic energy that occurs at the sub-atomic level of every transaction. 80% to the Node, 10% to the Pod, 5% to the Hub, 3% to the Helix, 2% to the Grid. This is not taxation — it is physics. No accountants, no auditors, no friction.
+* **The Prism Protocol (The Syntropy Split):** The 80/10/5/3/2 fracture of kinetic energy that occurs at the sub-atomic level of every transaction. 80% to the Node (Source), 10% to the Pod (Circle), 5% to the Hub (Community), 3% to the Helix (Creators), 1.7% to the Grid (Connection), 0.3% to the NET (Connection). This is not taxation — it is physics. No accountants, no auditors, no friction.
+
+* **Visibility Threshold (33%):** The Stigmergic Board rule requiring at least one-third of active Nodes to view a Hub-level Vacuum before the claim function unlocks. Prevents shadow contracts and insider dealing on large projects.
+
+* **Quorum Gate (33%):** The governance rule requiring at least one-third of active Nodes to view or interact with a Proposal before it can auto-execute. Prevents decisions from passing in silence.
 
 * **The Consilience Public License (CPL):** The legal agreement ensuring the system is used to generate Syntropy, not fiat extraction. Source-available. Free for non-commercial use. Commercial use requires operating through a recognized Hub and honoring the Syntropy Split.
 

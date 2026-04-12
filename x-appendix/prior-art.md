@@ -1,4 +1,10 @@
-# Appendix: The Ancestors — Prior Art & Lineage
+# The Ancestors — Prior Art & Lineage
+
+*(or, Who Came Before Us)*
+
+> **TL;DR:** The Nowland OS is not an isolated invention; it is the synthesis of a century of experiments. We integrate the local credit of LETS, the corporate scaling of Mondragon, and the trustless ledgers of cryptography, while mathematically solving the specific fracture points that caused our predecessors to stall.
+
+---
 
 The Nowland is not an invention that arrived fully formed from a vacuum. It is a synthesis. Every core mechanism in this operating system was independently proven — and partially broken — by a predecessor who came before us. We do not hide this lineage. We honor it. Because acknowledging the experiments that paved the way is itself an act of Consilience.
 
@@ -77,3 +83,8 @@ The Nowland stands on the shoulders of a century of experiments. Every predecess
 ---
 
 We are not the first to attempt this phase transition. We are simply the first to carry the lessons of every predecessor into a single, integrated operating system. The Nowland is the forest that grows from the fertile soil of a century of experiments.
+
+---
+
+> ### The Core Principle
+> **Evolution does not discard; it synthesizes.** Every successful mechanism in the Nowland was inherited from a past experiment that proved its thermodynamic viability. We succeed not because we invented everything from scratch, but because we assembled the unbroken pieces of our ancestors into a complete, antifragile engine.

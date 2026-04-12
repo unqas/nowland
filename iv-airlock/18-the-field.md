@@ -91,6 +91,8 @@ This is not a call to self-sacrifice. It is an observation about thermodynamics.
 
 If your Pod becomes known as the team that walks into chaos and leaves behind order, you will never need a marketing budget. You will never cold-call a client. The Vacuums will find you, because chaos is gravity and you are the cure.
 
+*(See Appendix: [The Fiat Client](../x-appendix/the-fiat-client.md))*
+
 ---
 
 ### The Environment, Not the Flower

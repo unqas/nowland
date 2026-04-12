@@ -1,6 +1,6 @@
 # Part I: The Vocabulary of the New World
 
-If you want to change reality, you must first change the language. 
+*(If you want to change reality, you must first change the language.)*
 
 When you use the vocabulary of the old world—*employee, manager, salary, corporation, boss*—you inadvertently drag the friction of that world into the new one. The old words carry a hidden architecture of subservience and extraction. To build a post-fiat civilization, we must install a new semantic operating system. We begin by dismantling the oldest and most inefficient structure in human history: The Pyramid.
 
@@ -16,14 +16,15 @@ The Pyramid is not a natural biological structure; it is a monument to extractio
 
 At the narrow top sits the executive class. They do not generate the kinetic energy; they direct it, and more importantly, they siphon it. 
 
-#### The Thermodynamics of the Pyramid
+### The Thermodynamics of the Pyramid
 In physics, the Pyramid is an engine with catastrophic heat loss. 
 
-To move information from the bottom (the reality of the street) to the top (the boardroom), it must pass through layers of middle management. Each layer acts as a friction point, distorting the truth to protect its own existence. By the time the signal reaches the top, the reality is entirely hallucinated. 
+To move information from the bottom (the reality of the street) to the top (the boardroom), it must pass through layers of middle management. Each layer acts as a friction point, distorting the truth to protect its own existence. By the time the signal reaches the top, the reality is entirely hallucinated.
 
 Conversely, when the top dictates an action to the bottom, the energy required to force compliance is massive. The Pyramid requires HR departments, performance reviews, micro-management, and the constant, underlying threat of starvation (unemployment) just to keep the base moving. The system burns half of its total energy just maintaining its own bloated hierarchy. It is a thermodynamic nightmare. It guarantees **Entropy**.
 
-#### The Biological Alternative: Symbiocracy
+### The Biological Alternative: Symbiocracy
+
 Nature does not build pyramids. 
 
 If your physical body operated like a corporation, it would die in five minutes. There is no "CEO Cell" in your brain dictating exactly how much oxygen a muscle cell in your leg should receive. The human body, the mycelial network of a forest, and the flocking of birds all operate on a vastly superior architectural model: **Distributed Intelligence**.

@@ -13,3 +13,10 @@ nowland.html
 nowland-pocket-guide.html
 nowland-pocket-guide.epub
 nowland-pocket-guide.pdf
+
+build/
+output/
+nowland-simulation.md
+
+# Simulation scripts and raw data (generated artifacts — not for the repo)
+y-simulation/y-scripts/

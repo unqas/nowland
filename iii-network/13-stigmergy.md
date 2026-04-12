@@ -25,8 +25,8 @@ The Board is the digital environment where the Hub, the Pods, and the individual
 
 Whether you are claiming a Vacuum to execute a bounty or publishing a Battery or a Helix (DNA) for others to use, both actions physically run energy through the system. Both actions organically increase your **Lifetime Syntropy Score (LSS)**, publicly verifying your capacity, experience, and capability to take responsibility in your domain.
 
-### The 33% Hub Visibility Rule
-To prevent shadow contracts and insider dealing on massive projects, transparency scales with gravity. If a Vacuum represents an infrastructure project at the Hub level or higher, it cannot be quietly claimed by a pre-arranged Pod. The system enforces the **33% Rule**: at least one-third of all active Nodes in the Hub must physically "see" (view and acknowledge) the Vacuum on the Stigmergic Board before the claim function unlocks. The bigger the project, the more public the problem must become before anyone is allowed to solve it.
+### The Visibility Threshold (33%)
+To prevent shadow contracts and insider dealing on massive projects, transparency scales with gravity. If a Vacuum represents an infrastructure project at the Hub level or higher, it cannot be quietly claimed by a pre-arranged Pod. The system enforces the **Visibility Threshold**: at least one-third of all active Nodes in the Hub must physically "see" (view and acknowledge) the Vacuum on the Stigmergic Board before the claim function unlocks. The bigger the project, the more public the problem must become before anyone is allowed to solve it.
 
 ### Self-Selection vs. Assignment
 When you log into the Board, nobody tells you what to do. You are forced to act as a sovereign organism. 

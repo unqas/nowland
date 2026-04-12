@@ -31,6 +31,8 @@ When you take scattered, useless materials and assemble them into something func
 
 Syntropy is the act of leaving an environment mathematically and physically better than you found it. It is the literal definition of life.
 
+*(See Appendix: [Defining Syntropy](../x-appendix/defining-syntropy.md))*
+
 ### The Culture of the Builder
 In The Nowland, we do not demonize the desire for wealth. We simply redefine how it is attained. 
 
