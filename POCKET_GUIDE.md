@@ -7,7 +7,7 @@ When faced with a decision, run it through these three protocols. If it passes, 
 
 **1. Symbiocracy (The Pod Protocol)**
 * **The Meaning:** Decentralized, localized autonomy. No bosses, no dead weight, just aligned cells.
-* **The Everyday Application:** Stop asking for permission from the top, and stop trying to micromanage the bottom. Find your "Pod" (your 3–5 high-trust partners). When a problem arises, don't wait for a savior—pool your local resources, claim the responsibility, and solve it directly.
+* **The Everyday Application:** Stop asking for permission from the top, and stop trying to micromanage the bottom. Find your "Pod" (your 2–7 high-trust partners). When a problem arises, don't wait for a savior—pool your local resources, claim the responsibility, and solve it directly.
 * **The Decision Filter:** *"Am I trying to control this by force, or am I engineering an environment where my Pod can naturally solve it?"*
 
 **2. Syntropy (The Spark Protocol)**
@@ -42,13 +42,14 @@ Whether you are running this through a high-tech smart contract or manually on a
 * **10% to the Circle (The Pod):** A safety net for your immediate team's shared tools, software, or emergency time-off.
 * **5% to the Community (The Hub):** The energy required to maintain the legal airlock, secure the leads, and build the shared community infrastructure.
 * **3% to the Creators (The DNA):** The perpetual royalty to whoever created the blueprint, template, or idea. This is the Co-Uplifting Engine—your financial incentive to make everyone around you a genius.
-* **2% to the Network (The Grid):** To maintain the global servers and the autonomy of the digital infrastructure.
+* **1.7% to the Commons (The Grid):** To maintain the regional inter-Hub infrastructure, shared supply chains, and mutual aid.
+* **0.3% to the Connection (The NET):** To maintain the global routing protocols, cryptographic identity, and open-source DNA repository.
 
 ---
 
 ## PART IV: The Ultimate Goal
 You are not building this to become a billionaire. Billionaires are black holes hoarding dead energy because they are terrified of the chaos around them.
 
-**You are building your Pod (or the Hub) and the Network (UNQA) to become The Last Millionaire.**
+**You are building your Pod (and eventually the Hub and the Network) to become The Last Millionaire.**
 
 You are using the friction and capital of the old world one final time to buy the land, the servers, and the tools. Once the machine is running, you turn it on, distribute the wealth through the Syntropy Split, and permanently cure the disease of scarcity for everyone who comes after you. You trade the anxiety of hoarding for the absolute biological peace of living in an indestructible, frictionless forest.

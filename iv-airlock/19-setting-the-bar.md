@@ -1,6 +1,6 @@
-# Chapter 19: Setting the Bar
+## Chapter 19: Setting the Bar
 
-> **TL;DR:** The fiat world sets its product standards at the floor of "not technically illegal." Your body deserves better. Once you learn to read the ingredients, the packaging, and the fine print, you cannot unsee the hallucination of "cheap." You set the bar for what you consume exactly as you set the bar for what you produce.
+> **TL;DR:** The fiat world sets its product standards at the floor of "not technically illegal." Your body deserves better. Once you learn to read the ingredients, the packaging, and the fine print, you cannot unsee the illusion of "cheap." You set the bar for what you consume exactly as you set the bar for what you produce.
 
 You cannot create Syntropy if your biological intake is Entropic. 
 
@@ -8,7 +8,7 @@ This is not a philosophical statement. It is a thermodynamic law. If you spend a
 
 The greatest trick the fiat economy ever performed was convincing you that cheap is the same as affordable, that legal is the same as safe, and that a product that passed a government standard must be good enough for your body.
 
-## The Floor Is Not the Standard
+### The Floor Is Not the Standard
 
 Walk into any fiat supermarket. Pick up a packaged food product from the shelf. Turn it over and read the ingredients. 
 
@@ -22,7 +22,7 @@ Some countries refuse to play this game. In Japan, packaging cannot display a sl
 
 If your government decided that you do not deserve the same treatment as a Japanese consumer or a Scandinavian child, that is their choice. But it must not be yours.
 
-## Response-Ability
+### Response-Ability
 
 Do not let anyone take away your responsibility — your ability to respond.
 
@@ -30,11 +30,11 @@ The fiat system is designed to remove your agency one convenience at a time. It 
 
 But response-ability is not a burden. It is your most dangerous weapon. It is the refusal to delegate your biological intake to a system that has no interest in your health. It is the simple act of reading a label, asking a question, and trusting what your body tells you after you eat.
 
-Listen to your body. Listen to your senses. The fiat supermarket is loud — neon-lit aisles, engineered packaging, dopamine-triggering displays — but your body is quiet, honest, and ancient. It knows the difference between a fresh loaf of sourdough and a plastic-wrapped industrial sponge. It knows the difference between a seasonal tomato grown in soil and a hydroponic sphere engineered for identical redness in January. Once you develop the habit of listening to the quiet signal underneath the commercial noise, the hallucination of "cheap" permanently dissolves.
+Listen to your body. Listen to your senses. The fiat supermarket is loud — neon-lit aisles, engineered packaging, dopamine-triggering displays — but your body is quiet, honest, and ancient. It knows the difference between a fresh loaf of sourdough and a plastic-wrapped industrial sponge. It knows the difference between a seasonal tomato grown in soil and a hydroponic sphere engineered for identical redness in January. Once you develop the habit of listening to the quiet signal underneath the commercial noise, the illusion of "cheap" permanently dissolves.
 
 Reality does not change based on what you think about it. But your personal experience — your health, your energy, your clarity, your sleep, your mood — can change dramatically with the power of your attention and the quality of your choices. 
 
-## The Mirror Principle
+### The Mirror Principle
 
 You set the bar for what you consume exactly as you set the bar for what you produce.
 
@@ -44,7 +44,7 @@ In The Nowland, the Dignity Peg is not just a pricing mechanism. It is a quality
 
 This is the bar. It is not negotiable. And by setting it here — by refusing to define dignity as "the cheapest calories that won't poison you today" — you force the entire economic system to optimize for quality, locality, seasonality, and honest sourcing rather than for margin, shelf-life, addiction, and waste.
 
-## The Daily Choice
+### The Daily Choice
 
 Once you see it, you cannot unsee it. And once you cannot unsee it, you cannot unfeel it. And once you cannot unfeel it, you can no longer excuse yourself from the consequences of your consumption.
 

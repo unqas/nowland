@@ -28,7 +28,7 @@ We must stop being passive consumers of a dying narrative and become the realiza
 The Nowland OS does not follow corporate policy; it follows observable patterns in biology and physics — the only laws that predate human opinion.
 
 ### 1. Symbiocracy: The Law of Aligned Cells
-In nature, complex life emerges only when distinct organisms cooperate for mutual survival (**Symbiosis**). The Nowland OS scales this into a governance model where the "Boss" is replaced by the **Pod** — a small, high-trust strike-team of 3 to 8 sovereign Nodes. Every Pod governs its own energy, hunts for its own value, and shares nutrients through a common root system (The Hub). You do not ask a headquarters for permission. You read your local environment, find the problem, and solve it with the people you trust. We do not build pyramids; we grow a forest.
+In nature, complex life emerges only when distinct organisms cooperate for mutual survival (**Symbiosis**). The Nowland OS scales this into a governance model where the "Boss" is replaced by the **Pod** — a small, high-trust strike-team of 2 to 8 sovereign Nodes. Every Pod governs its own energy, hunts for its own value, and shares nutrients through a common root system (The Hub). You do not ask a headquarters for permission. You read your local environment, find the problem, and solve it with the people you trust. We do not build pyramids; we grow a forest.
 
 ### 2. Syntropy: The Rejection of Decay
 Life is the literal process of Syntropy — the act of turning random chaos into organized, complex structures. While the fiat economy is built on extraction and decay (Entropy), the Nowland OS is built on creation. You are rewarded only when you physically order chaos: by building a system, fixing a break, or writing "DNA" - code that makes the local environment more resilient. If it doesn't create order, it isn't wealth. We do not reward tollbooths; we reward the physical act of leaving an environment better than you found it.
@@ -46,7 +46,8 @@ The Nowland OS eliminates the hoarding of dead energy. Every transaction execute
 * **10% to the Pod (The Circle | The Organ):** A localized treasury for your immediate team. This funds your shared tools, acts as your biological safety net, and guarantees your baseline survival.
 * **5% to the Hub (The Community | The Organism):** The energy required to maintain the legal Membrane, secure physical infrastructure, and keep the ecosystem safe from fiat extraction.
 * **3% to the Helix (The DNA | The Creators):** A perpetual royalty to the Architect or Elder who created the template you used. This is the Co-Uplifting Engine — the mechanism that financially incentivizes the most experienced builders to freely share their best tools.
-* **2% to the Grid (The Commons | The Network):** To maintain the global servers and the mathematical integrity of the network.
+* **1.7% to the Grid (The Commons | The Connection):** To maintain the regional inter-Hub infrastructure, shared supply chains, and Macro Re-Pair Bonds.
+* **0.3% to the NET (The Network | The Connection):** To maintain the global routing protocols, cryptographic identity systems, global ledger, and open-source DNA repository.
 
 ---
 
@@ -55,7 +56,9 @@ The Nowland OS eliminates the hoarding of dead energy. Every transaction execute
 Fiat money is a hallucination backed by debt. The Nowland OS anchors its ledger to biology:
 
 * **The 2b Dignity Peg:** The exact kinetic energy required to purchase a highly nourishing, locally sourced, ethical meal. Currency must be pegged to human metabolism, not central banks.
+* **The MVB (1c):** Minimal Viable Baseline — the absolute survival floor set by the consensus of the Pod when starting out or enduring harsh times.
 * **The 4c Baseline:** The "Mycelial Floor." One month of biological peace — nourishment, shelter, and security. The network automatically works to keep every active Node above this line.
+* **The 16c Apex:** Full sovereignty. The ceiling enforced by the 1:4 Max-Out Coefficient.
 
 ---
 
@@ -106,11 +109,11 @@ Do not wait for a global "Super App." The phase transition begins at Ground Zero
 ---
 
 ## VIII. The License
-This repository operates under the **Consilience Public License (CPL) v0.1**. 
+This repository operates under the **Consilience Public License (CPL) v0.4**. 
 
 **Classification:** Syntropic / Source-Available (Non-OSI). 
 
-It is entirely free to read, fork, and use for non-commercial builds. However, any commercial use of this DNA requires operating through a Recognized Hub and honoring the Syntropy Split (80/10/5/3/2). If you use this architecture to generate wealth, the Hub processes the split as a single atomic operation — you keep 80%, your Pod keeps 10%, and the remaining 10% sustains the infrastructure.
+It is entirely free to read, fork, and use for non-commercial builds. However, any commercial use of this DNA requires operating through a Recognized Hub and honoring the Syntropy Split (80/10/5/3/2). If you use this architecture to generate wealth, the Hub processes the split as a single atomic operation — you keep 80%, your Pod keeps 10%, and the remaining 10% sustains the infrastructure (5% Hub, 3% Creators, 1.7% Grid, 0.3% NET).
 
 **See `LICENSE` for the physics of this agreement.**
 
@@ -118,9 +121,9 @@ It is entirely free to read, fork, and use for non-commercial builds. However, a
 
 ## IX. Support the Helix
 
-The transition requires infrastructure. The author of the Nowland and the team behind the UNQA Genesis Hub are currently building **unqa.net** (a free stigmergic board, marketplace, and unprecedented deflationary toolkit). 
+The transition requires infrastructure. The author of the Nowland and the team behind the **UNQA** (Genesis Hub) are currently building **unqa.net** (a free stigmergic board, marketplace, and unprecedented deflationary toolkit). 
 
-If this architecture generates Syntropy for you, at this early stage you can support our work and fund the Helix at **[nowland.unqa.net](https://nowland.unqa.net)**.
+If reading this book generated Syntropy for you, at this early stage you can support our work and fund its Helix at **[nowland.unqa.net](https://nowland.unqa.net)**.
 
 ---
 *Initiated by Shukhrat at UNQA (Genesis Hub).*

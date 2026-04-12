@@ -2,7 +2,7 @@
 # Anything listed here will not be synced to the GitBook platform.
 
 # Avoid compiling generated book files back into gitbook
-nowland_compiled.md
+nowland-book-compile.py
 nowland.md
 nowland.epub
 nowland.pdf
@@ -11,7 +11,13 @@ nowland-pocket-guide.html
 nowland-pocket-guide.epub
 nowland-pocket-guide.pdf
 
-# Ignore build scripts
-nowland-book-compile.py
+# Ignore build artifacts
 build/
 output/
+nowland-simulation.md
+
+# Simulation scripts and raw data only (the y-simulation/ docs ARE synced to GitBook)
+y-scripts/
+y-data/
+y-simulation/
+y-simulation/y-scripts/

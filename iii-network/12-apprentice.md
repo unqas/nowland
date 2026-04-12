@@ -1,4 +1,4 @@
-# Chapter 12: The Apprentice (Generational Syntropy)
+## Chapter 12: The Apprentice (Generational Syntropy)
 
 > **TL;DR:** A system that does not structurally plan for its children dies in one generation. The Nowland integrates youth and apprentices into the ecosystem early by providing fractional baselines, inherited equipment, and access to the Stigmergic Board via micro-bounties, allowing them to learn physics rather than memorizing fiat theory.
 
@@ -8,7 +8,7 @@ In the fiat world, children are treated as absolute economic liabilities until t
 
 In a Symbiocracy, children are the future lifeblood of the network. They are not isolated liabilities of their parents; they belong to the Node, the Pod, and the Hub. Their survival and integration into the Stigmergic Board is mathematically codified into the ecosystem.
 
-## The Mathematical Allocation for Youth
+### The Mathematical Allocation for Youth
 
 A child does not require the full `4c` Baseline of an adult because they share the physical shelter, utilities, and infrastructure of their parents and have access to the shared resources of the Pod and Hub. Their baseline is fractional — typically around `1.0c` to `1.5c` depending on age and how mature their Hub's infrastructure is — covering food, clothing, education materials, and health requirements.
 
@@ -20,7 +20,7 @@ Because a parent Node with children requires a higher baseline to sustain their 
 
 This means a parent is not fighting a solitary battle. The community materially supports the generational transition because a thriving, educated child mathematically becomes a high-output Battery for the entire Pod in the future. Every `b` invested in a child today is a `c` earned by the organism tomorrow.
 
-### The Fractional Baseline Breakdown
+#### The Fractional Baseline Breakdown
 
 | Source | Contribution | Purpose |
 |---|---|---|
@@ -32,7 +32,7 @@ The combined effect of these three layers produces a fractional baseline of appr
 
 Parents who have children are often *more* efficient, not less, because they share space, combine utilities, and optimize domestic logistics. The baseline requirement *per person* drops when a family unit operates inside the Hub, not outside it. The system does not punish reproduction; it structurally supports it.
 
-## Inherited Physics (Older Equipment)
+### Inherited Physics (Older Equipment)
 
 One of the great tragedies of the fiat world is the restriction of access. Children are kept away from "real" tools until they are deemed "qualified." They are given toy laptops, and dumbed-down interfaces — as if the child's curiosity is something to be managed rather than unleashed.
 
@@ -42,7 +42,7 @@ Children are explicitly given the equipment they are **allowed to dismantle, bre
 
 The Youth Pool is the community's sandbox — a library of inherited tools, pre-depreciated equipment, and raw materials that are explicitly designated for experimentation, destruction, and learning. The cost of failure is zero. The value of curiosity is incalculable.
 
-## Micro-Bounties and the Age of 13
+### Micro-Bounties and the Age of 13
 
 Children do not learn Syntropy by sitting in a classroom memorizing macroeconomic theory. They learn it by feeling the gravity of a Vacuum and sparking it.
 
@@ -58,7 +58,7 @@ When they complete a Micro-Bounty, they trigger the exact same thermodynamic cir
 
 This permanently rewires their brain. They do not view work as a humiliating extraction of their time by a faceless institution. They view it as a joyful, physically grounded, direct creation of value that earns them biological peace, reputation, and the tangible respect of their community. By the time they reach adulthood, they have already internalized the physics of the ledger. They do not need to be taught how the economy works. They have been *living* inside it for years.
 
-## The Elder Mentorship
+### The Elder Mentorship
 
 As detailed in Chapter 11, the Eldership is not restricted to adults. Every young apprentice is paired with up to three Elders outside of their immediate parents.
 
@@ -68,7 +68,9 @@ An Elder teaches the apprentice how to code, farm, design, or build, and the Eld
 
 This alignment of incentive is the deepest form of Co-Uplifting in the system. The Elder is not volunteering out of selfless generosity — they are investing in a future Node whose output will sustain them. The child is not passively receiving knowledge — they are acquiring the kinetic skills that will make them sovereign. Both parties are biologically aligned. Both parties profit.
 
-## The Opt-In Principle (The Anti-Kibbutz)
+*(See Appendix: [The Self-Uplifting Node](../x-appendix/self-uplifting-node.md))*
+
+### The Opt-In Principle (The Anti-Kibbutz)
 
 Here is where the Nowland OS confronts the single deadliest failure mode of every communal system that came before it: **the problem of involuntary inheritance.**
 
@@ -88,7 +90,7 @@ The Nowland does not need walls. It needs gravity. If the physics work — if th
 
 And if they leave, and later discover that the fiat world is exactly the extractive hallucination the system describes, the door is always open. They can return, sign up, and re-enter at any time. The organism does not hold grudges. It holds doors.
 
-## Newcomers (The Onboarding Protocol)
+### Newcomers (The Onboarding Protocol)
 
 Not every new Node is a child raised inside the system. The Nowland will attract adult newcomers — exhausted freelancers, burned-out employees, disillusioned professionals — who discover the system and want in.
 

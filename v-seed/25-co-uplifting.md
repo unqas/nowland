@@ -1,4 +1,4 @@
-## Chapter 24: Co-Uplifting
+## Chapter 25: Co-Uplifting
 
 > **TL;DR:** There are no static experts; if you sit on your legacy, entropy pulls you backward. True scale is achieved by unilaterally uplifting others to your level of access, so they can pull you into theirs. Do not fight for the same stagnant pie — co-uplift to bake a bigger, more diverse one.
 
@@ -16,7 +16,7 @@ Why do you build? In the old system, you work because you have to. You work to i
 
 In the Nowland, you do your work well simply because **it is the direct realization of yourself.** Every hour you spend at work, you are faced with a fundamental choice: You can either spend that time trying to *skip the clock*—distracting yourself until the day is over—or you can *master the flow* to reveal who you are and discover what you are capable of making.
 
-You do not work well and grow because of some final destination point you will maybe reach and pass in the future. You work well because of *who you become* in the process of revealing your potential. You work to gravitate toward self-realization—toward actually living and experiencing your life while you are Alive.
+You do not work well and grow because of some final destination point you will maybe reach and pass in the future. You work well because of *who you become* in the process of revealing your potential. You work to gravitate toward self-realization — toward actually living and experiencing your life while you are Alive.
 
 You can wear different masks. You can adopt different looks and appearances. You can lie, and you can hide. You do not have to unwrap your soul and be a transparent leaf to the world if you do not want to. You can perform whatever you are capable of doing. **But you can never escape yourself.**
 
@@ -76,8 +76,13 @@ We must not be building this just to survive. We must be building this to escape
 
 Ultimately, this is not a revolution, and it is not a transformation. It is simply the process of getting rid of everything that is not you, to create space for the authentic self that was always there.
 
-You can debate or dismantle your opinion on what this new paradigm is, but the only way to feel it and know what it actually is, is to be living in the Nowland yourself.
+You can debate or dismantle your opinion on what this new paradigm is, but the only way to feel it and know what it actually is, is to ***be living*** in the Nowland yourself.
 
 You are the Ground Zero of your own life. The First Spark is how you turn the key. Co-Uplifting is how we build the door. The Nowland is the present moment in which you choose to leave the door open.
 
 **Let's build better, together!** So we all have what to actually choose from.
+
+---
+
+> ### The Core Principle
+> **You do not scale by hoarding your leverage.** You scale by unilaterally uplifting others to your level of access so they can pull you into theirs. There are no static experts; entropy punishes those who sit on their legacies. In a closed fiat system, people fight over a stagnant pie. In The Nowland, we bake a new one. When you stop competing and start Co-Uplifting, you generate the gravity needed to sustain the network.

@@ -1,4 +1,10 @@
-# Appendix: Known Tensions & Open Problems
+# Known Tensions & Open Problems
+
+*(or, What We Don't Know **Yet**)*
+
+> **TL;DR:** The Nowland OS is not a utopia; it is an engineering blueprint. This section honestly documents the known empirical limitations, edge cases, and scaling cliffs of the architecture, inviting the community to solve these vulnerabilities rather than hide them.
+
+---
 
 Every serious engineering document includes a section on known limitations. The absence of such a section signals either naivety or dishonesty. Its presence signals intellectual maturity — a builder who has already stress-tested their own system and is honest about the fracture points.
 
@@ -12,10 +18,13 @@ We document these tensions here because Consilience demands it. We do not hide t
 
 **The Tension:** The 4c Baseline guarantees biological peace for every active Node. But what happens if 30% of the Nodes in a Hub chronically consume their baseline without generating any offsetting Syntropy? What if they sit at -8c, -12c, absorbing the surplus of the productive Nodes without filling any Vacuums?
 
-**The Current Defense:** The system has three layers of protection:
-1. **Social pressure in small Pods.** Because Pods are 3–8 people, freeloading is immediately visible to your closest collaborators. The trust bond that makes Pods so efficient also makes them self-regulating. A Pod-mate who stops producing is confronted directly, not by a bureaucratic HR process, but by the people who depend on them.
+**The Current Defense:** The system has four layers of protection:
+1. **Social pressure in small Pods.** Because Pods are 2–7 people, freeloading is immediately visible to your closest collaborators. The trust bond that makes Pods so efficient also makes them self-regulating. A Pod-mate who stops producing is confronted directly, not by a bureaucratic HR process, but by the people who depend on them.
 2. **Stigmergic Board visibility.** Every Node's lifetime balance and activity is transparent on the ledger. A chronically negative Node is visible to the entire Hub. Reputation is thermodynamic.
 3. **The Re-Pair Protocol.** When a Node drops below the safety threshold, the system deploys an Elder to diagnose and repair their engine. If the underlying cause is burnout or personal crisis, the repair works. If the cause is genuine freeloading, the Re-Pair Elder will identify it.
+4. **Exclusion by Pod Consensus.** If the Re-Pair Protocol confirms the Node is chronically draining with no intent to repair, the Pod may vote by consensus to exclude the Node. Alternatively, the productive core can Fork into a new Hub and leave the draining Nodes behind. Re-entry after exclusion requires a **double Helix payment** — the excluded Node loses access to the 4c Baseline until they or their double Helix sponsor **fully compensate** all the 4c they received during the draining period. They can compensate earlier if they wish, but while active they cannot receive less than the Baseline floor.
+
+**The Natural Parallel:** A parasiting organism that drains too much from its host often kills both the host *and* itself. If nobody works, the system does not work. That is not a flaw — that is physics. The 4c Baseline is not free energy; it is *shared* energy. The organism can only sustain non-producing cells as long as the producing cells generate enough surplus. When the ratio inverts, the organism starves and the parasite dies with it. This is why the exclusion mechanism exists — not as punishment, but as immune response.
 
 **The Honest Gap:** We do not have mathematical proof that these defenses scale beyond a few hundred Nodes. The theory is biologically sound — forests self-regulate parasitic species through competitive pressure — but the empirical test remains to be run. The first Hubs will generate the data.
 
@@ -65,7 +74,7 @@ Furthermore, the deflation in The Nowland is not price-based — it is *cost-bas
 
 | Community Size | Tool | Complexity |
 |---|---|---|
-| 2–5 Nodes (The Pod) | Physical notebook | Zero-tech. Pure trust. |
+| 2–7 Nodes (The Pod) | Physical notebook | Zero-tech. Pure trust. |
 | 5–15 Nodes (The Hub) | Shared spreadsheet (Google Sheets, LibreOffice) | Simple formulas auto-calculate the Syntropy Split. Transparent to all members. |
 | 15–50 Nodes | Basic web application | A lightweight ledger app tracking balances, Vacuums, and the Split. No blockchain required at this stage. |
 | 50–250 Nodes | Dedicated Nowland OS app | Full Stigmergic Board, cryptographic identity, smart contract execution, and Peer Audit functionality. |
@@ -124,7 +133,7 @@ The core principle: the ledger does not carry fiat. It carries biology. The fiat
 
 **The Current Defense:**
 1. **The Fork right (Chapter 14).** Any group of Nodes can exit a Hub at any time and establish a competing Hub. This is a permanent pressure valve against consolidation.
-2. **The Federation architecture (Chapter 9).** The 2% Grid allocation is the *only* mandatory inter-Hub obligation. There is no central authority that can force Nodes to stay in a Hub. Hubs are independent legal entities that cooperate voluntarily.
+2. **The Federation architecture (Chapter 9).** The 2% Connection allocation (1.7% Grid + 0.3% NET) is the *only* mandatory inter-Hub obligation. There is no central authority that can force Nodes to stay in a Hub. Hubs are independent legal entities that cooperate voluntarily.
 3. **Mitosis pressure.** Above a certain size (guided by Dunbar's number and governance practicality), a Hub is encouraged to split into smaller, more agile Hubs — just as biological cells divide when they grow too large for efficient nutrient transport.
 4. **Transparent ledgers.** Every transaction, every governance vote, every asset acquisition is visible on the Stigmergic Board. You cannot quietly consolidate power when all the math is public.
 
@@ -167,3 +176,8 @@ We publish these tensions not because they weaken the system, but because they s
 If you can solve one of these problems, go to the Stigmergic Board and build the prototype. Prove it with physics. Earn the Helix.
 
 The forest grows strongest where the soil is honestly tended.
+
+---
+
+> ### The Core Principle
+> **Antifragility demands honesty.** A system is only as durable as its willingness to confront its own fracture points. We publish these tensions not as an admission of defeat, but as an open call to action. Every gap is a Vacuum on the Stigmergic Board waiting to be filled.

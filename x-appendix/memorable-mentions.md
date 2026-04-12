@@ -1,6 +1,10 @@
-# Appendix: Memorable Mentions
+# Memorable Mentions
+
+*(or, Who Helped Us Build This Thing)*
 
 > **TL;DR:** The Nowland OS did not emerge in a vacuum. It was forged in the fire of critical questions, stress-tests, and deep architectural audits. This section is dedicated to the individuals and instruments that broke the system so we could build it stronger.
+
+---
 
 A biological organism only becomes antifragile if it is exposed to genuine environmental pressure. A theoretical economic system is useless until it survives contact with reality.
 
@@ -10,11 +14,13 @@ The creators of The Nowland OS owe a profound debt of gratitude to the following
 
 ## The Catalyst
 
-*   **Shukhrat Bobomuratov (@ohshukhrat)** — The architect, author, instigator, and synthesizer of The Nowland OS. Shukhrat assembled and selected the core terminology — **Symbiocracy**, **Syntropy**, and **Consilience** — as the philosophical pillars of the system. He engineered the thermodynamic mathematics, the **Syntropy Split**, the **Cooperative Membrane**, the **Stigmergic** workflows, the **Eldership** lifecycle, the **Mentorship Bond** economics, and the **Helix** attribution architecture. The philosophical and existential framework — including the field theory of human coordination, the biological metaphors, and the framing of economics as physics — emerged from over sixteen years of independent research, lived experience, and personal papers. He translated the unyielding physics of biological constraint into the formal operating system that gives this community its life.
+*   **Shukhrat Bobomuratov (@ohshukhrat)** — The architect, author, instigator, and synthesizer of The Nowland OS. Shukhrat assembled and selected the core terminology — **Symbiocracy**, **Syntropy**, and **Consilience** — as the philosophical pillars of the system. He engineered the thermodynamic mathematics, the **Syntropy Split**, the **Cooperative Membrane**, the **Stigmergic** workflows, the **Eldership** and **Apprenticeship** lifecycle, the **Mentorship Bond** economics, and the **Helix** attribution architecture. The philosophical and existential framework — including the field theory of human coordination, the biological metaphors, and the framing of economics as physics — emerged from over sixteen years of independent research, lived experience, and personal papers. He translated the unyielding physics of biological constraint into the formal operating system that gives this community its life.
 
 ## The Architects of Friction
 
 *   **Artemii Kravchuk (@artiekra)** — For relentlessly stress-testing the Audit, Dispute, and Attribution mechanisms. Artemii's questions exposed the fragility of assumed consensus, which led to the "Local Resolution First" defense, mathematically scaled jury sizes, and the honest confrontation of the Helix Attribution Gap. His refusal to accept superficial answers helped ensure the immune response of the system remained biological rather than devolving into corporate bureaucracy.
+
+*   **Alex Mashchenko** — For acting as the elderly-mentor and sharing his deep, lived experience on the realities of scaling trust. Alex guided the crucial re-definition of leadership shifting futher from a title of authority to a role of mentorship. He demanded sharper, more specific criteria for defining Syntropy, and articulated *Consilience* not just as a mental alignment, but as a physical, verifiable reality that explicitly includes and benefits those outside the Nowland Membrane. His feedback grounded theoretical concepts in operational truth.
 
 ---
 

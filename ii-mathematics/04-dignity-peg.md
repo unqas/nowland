@@ -2,6 +2,12 @@
 
 *(The mechanics of the machine. The end of the "salary" and the "employee.")*
 
+Before we start building the legal membranes and scaling the social layers, we must establish the physical heart of The Nowland: **the thermodynamic ledger.**
+
+The fiat world measures value in elastic, arbitrary units of currency that expand and contract at the whim of central banks and geopolitical forces. When we operate in fiat, we are essentially trying to measure physical reality using a ruler that changes its length every year. This is the root cause of the endless exhaustion builders experience—when your energy is stored in a depreciating asset, you must constantly run faster simply to stay in the same place.
+
+To build a biologically peaceful coordinate system, we need a unit of measurement that cannot be manipulated, cannot be inflated away, and is inherently tied to the physical survival of the organism. We need to peg the economy not to the stock market, but to human dignity.
+
 ---
 
 ## Chapter 4: The 2b Dignity Peg

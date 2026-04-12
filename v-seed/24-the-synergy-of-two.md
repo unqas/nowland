@@ -1,6 +1,6 @@
-# Chapter 21: The Synergy of Two
+## Chapter 24: The Synergy of Two
 
-> **TL;DR:** You do not need a lawyer, an LLC, or a massive cooperative to start deflating your life. The phase transition begins the exact moment two people decide to share a resource. Syntropy multiplied by two becomes Synergy. Cooperative literally means to *co-operate*.
+> **TL;DR:** The phase transition begins the exact moment two people decide to share a resource. Syntropy multiplied by two becomes Synergy. You do not need a lawyer, an LLC, or a massive cooperative to start deflating your life. Cooperative literally means to *co-operate*.
 
 When builders first read about Hubs, Membranes, legal structures, and corporate expense shields, they often become paralyzed by the perceived complexity. They assume that escaping the fiat system requires massive, organized infrastructure. 
 
@@ -8,7 +8,7 @@ But Cooperative literally means to *co-operate*. You do not have to overcomplica
 
 The infinite deflation of the 4c Baseline begins the moment you are no longer alone. 
 
-## The Micro-Synergy (Producing Syntropy When You're Starting Alone)
+### The Micro-Synergy (Producing Syntropy When You're Starting Alone)
 
 If you are a solo Node, you can immediately begin creating Syntropy without a legal Membrane, without a Pod, and without a single line of code. 
 
@@ -22,7 +22,7 @@ The rule of the Micro-Synergy is brutally simple:
 
 That is how you create deflation for real. Not through macroeconomics. Not through policy. Through the daily, physical, irreversible act of sharing a resource that you were about to waste. Every shared subscription, every shared meal, every shared ride, every favor that costs you nothing but saves another person an hour of fiat friction — that is a grain of sand added to the cathedral.
 
-## The Synergy of Two (The Spark)
+### The Synergy of Two (The Spark)
 
 The magic starts when you are not alone. Because two is not double — it is exponential.
 
@@ -40,7 +40,7 @@ But the Synergy of Two is not merely logistical. It is emotional. A solo Node fi
 
 That emotional Synergy is worth more than any tax advantage.
 
-## Scaling the Synergy (The Group Buy)
+### Scaling the Synergy (The Group Buy)
 
 The magic compounds once you formalize this into a Pod or a Hub. 
 
@@ -57,21 +57,21 @@ As the Hub's Vacuum grows, you can expand this synergy:
 
 Each of these steps is a ratchet click of the Infinite Deflation engine. Each shared resource permanently removes one more fiat bleed from the system.
 
-## Resilient Deflation (Transcending Consumption)
+### Resilient Deflation (Transcending Consumption)
 
 You used to go to the market to choose from the products available. But the Hub allows you to transcend consumption entirely. 
 
-If your Hub's internal Vacuum is big enough, you stop *buying* the product and start *creating* it. You can assemble your own computers — built from components selected for repairability and longevity, not for planned obsolescence. You can build custom furniture — designed for the specific human who will use it, crafted to last decades. You can fund an organic, off-grid farm, or produce the sourdough bread that the entire Hub eats for breakfast.
+If your Hub's internal Vacuum is big enough, you stop *buying* the product and start *creating* it. You can assemble your own computers — built from components selected for repairability and longevity, not for planned obsolescence. You can build custom furniture — designed for the specific human who will use it, crafted to last decades. You can fund an organic, off-grid farm, or produce of the sourdough bread that the entire Hub eats for breakfast.
 
 And the Grid of Hubs can go even further. When multiple Hubs in a region begin to coordinate their Vacuums, the scale of shared infrastructure becomes civilizational:
-*   Construct new apartments — community-owned, maintained by the construction Pod, funded by the Hub treasury.
+*   Construct new apartments — community-owned, maintained by the construction Pod, funded by the Hubs' treasury.
 *   Build independent local LAN networks — freeing the community from dependence on fiat ISPs.
 *   Install localized solar energy grids — generating electricity at near-zero marginal cost once the hardware is paid off.
 *   Establish independent server infrastructure — hosting the community's digital tools on physical hardware owned by the cooperatives.
 
 The goal is to be **sustainably resilient**. Not self-sufficient in the survivalist sense — not hiding in a bunker eating canned beans — but structurally independent from the fiat systems that currently extract a tax on every basic human need: food, shelter, energy, communication, compute.
 
-## Start Where You Are
+### Start Where You Are
 
 It is not that complex until you make it complex.
 

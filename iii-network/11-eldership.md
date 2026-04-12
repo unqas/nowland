@@ -29,14 +29,38 @@ The LSS cannot be bought. It cannot be inherited. It cannot be inflated by gamin
 Eldership is not a title you are given. It is a state you grow into — naturally, gradually, and visibly.
 
 **Apprentice (LSS: 0–50c).** You have just entered the network. You are learning the vocabulary, executing small Vacuums, and finding your Pod. Your 4c Baseline is covered by the Pod and Hub treasuries while you build momentum. You are the sapling on the forest floor — fragile, but essential to the forest's future.
+*Access: Can form or join a Pod.*
 
 **Builder (LSS: 50–250c).** You have proven your Consilience. Your work passes Peer Audits consistently. You are beginning to specialize — developing a distinct kinetic signature in code, design, agriculture, logistics, or any domain where you generate order. Your Pod trusts you with complex bounties. You are beginning to publish your first DNA Templates.
+*Access: Can create or join a Hub. Can maintain Grid infrastructure. Eligible for Grid-level income (1.7% allocation).*
 
 **Architect (LSS: 250–750c).** You are now a net contributor to the network's intelligence. Your DNA Templates are being adopted by other Pods. You are earning Helix royalties. Younger Nodes are starting to seek you out for advice. You begin to carry meaningful governance weight inside your Hub — your Blocks on Proposals are taken seriously because your track record is visible to everyone.
+*Access: Can create or initiate a Grid. Can maintain Network infrastructure. Eligible for NET-level responsibilities (0.3% allocation).*
 
 **Elder (LSS: 750c+).** You have injected at least **seven hundred fifty units** of verified order into the ecosystem. Your mentorship trails span dozens of Nodes. Your DNA Templates are woven into the workflows of multiple Hubs. Your governance weight is significant. You are the canopy tree — still growing, still producing, but your deepest impact is now through the **mycelium**: the mentorship bonds, the repair protocols, the strategic wisdom you pass to the next generation.
+*Access: Full governance weight. Mentorship Bond access. Can steward any layer of the organism.*
 
-These thresholds are not rigid gates. They are descriptive, not prescriptive — they name what naturally happens as a Node accumulates experience. A 22-year-old who has generated 900c of Syntropy in four years of intense building is an Elder. A 55-year-old who has generated 30c in twenty years of passive participation is an Apprentice. The system does not care about your birthday. It cares about your evidence.
+These thresholds are not rigid gates. They are descriptive, not prescriptive — they name what naturally happens as a Node accumulates experience. A 22-year-old who has generated 900c of Syntropy in four years of intense building is an Elder. A 55-year-old who has generated 30c in twenty years of passive participation is an Apprentice. The system does not care about your birthday. It cares about your evidence. The access gates, however, *are* structural — they ensure that the infrastructure responsible for hundreds or thousands of Nodes is stewarded by builders with a proven track record, not by newcomers who have not yet demonstrated Consilience.
+
+---
+
+### The Leader as Founder-Elder
+
+The Path to Eldership traces the natural arc of an experienced builder. But there is a specific form of Eldership that every healthy Pod requires from its inception: the **Founder/Leader/Elder-Mentor** — the L4 Node at the apex of the Pod's hierarchy.
+
+The Founder is not a CEO. They do not sit above the Pod and extract from it. They sit at the center of the Pod and **radiate through it.** The Founder's daily function is not primarily execution — it is **mentorship, motivation, inspiration, facilitation, and moderation** of all members of the Pod and its processes, while maintaining and increasing the quality of everyone in the group.
+
+The Founder:
+*   **Finds clients and revenue sources.** They carry the commercial responsibility of keeping the Pod fed with Vacuums.
+*   **Maintains the legal Membrane.** They interface with the Hub's cooperative structure to protect the Pod from fiat friction.
+*   **Makes final calls when consensus fails.** When the Pod cannot reach agreement, the Founder exercises weighted judgment — not as a dictator, but as the Node with the deepest skin in the game.
+*   **Mentors and facilitates.** They identify each member's strengths, weaknesses, and stress points. They find tools to increase efficiency while avoiding burnout. They moderate conflicts before they become fractures.
+*   **Maintains and raises quality.** They set the bar (Chapter 19) for the Pod's deliverables and hold the team accountable to it — not through punishment, but through coaching.
+*   **Stewards the Pod treasury.** They execute consensus-driven decisions regarding how 3% of the Pod's 10% treasury is allocated.
+
+In a Symbiocracy, there may be **more than one leader** in a Pod. Two experienced Nodes may share the Founder responsibilities — one focused on client acquisition and Membrane management, the other on internal mentorship and quality. This is not redundancy; this is resilience. A single point of failure in leadership is just as dangerous as a single point of failure in code.
+
+They are not paid for executing the most work — many Builders will out-produce them in raw kinetic output. They are paid for ensuring the **entire organism thrives**. That is why the Founder is often referenced as the Elder-Mentor: they have the experience, they have been there from the start (or bring accumulated experience from previous Pods), and they know how to make the machine run without burning the people inside it.
 
 ---
 
@@ -46,7 +70,7 @@ The Helix (Chapter 10) rewards Architects who release DNA Templates into the wil
 
 The Helix rewards published DNA templates. The Mentorship Bond rewards the relationship. The two are symbiotic — mentors teach people *how* to use templates, so every active mentor indirectly generates Helix income for template authors.
 
-**A critical clarification: the 3% never competes with the Node's income.** The Syntropy Split (Chapter 6) fractures every circuit into five beams: 80% to the Node, 10% to the Pod, 5% to the Hub, 2% to the Grid, and 3% to the Helix pool. The Helix pool — and everything within it, including Mentorship Bonds and DNA Template royalties — is collected and distributed independently by the system. A mentor's bond income does not reduce the mentee's 80%. A template's royalty does not reduce the builder's share. The 3% is a separate stream, held at the organizational layer, flowing to mentors and architects without touching the Node's earnings. Mentors and templates are funded by the ecosystem, not by the individual.
+**A critical clarification: the 3% never competes with the Node's income.** The Syntropy Split (Chapter 6) fractures every circuit into five beams: 80% to the Node, 10% to the Pod, 5% to the Hub, 2% to the Grid/NET, and 3% to the Helix pool. The Helix pool — and everything within it, including Mentorship Bonds and DNA Template royalties — is collected and distributed independently by the system. A mentor's bond income does not reduce the mentee's 80%. A template's royalty does not reduce the builder's share. The 3% is a separate stream, held at the organizational layer, flowing to mentors and architects without touching the Node's earnings. Mentors and templates are funded by the ecosystem, not by the individual.
 
 This also means that **high-quality educational materials are the most powerful gravity for earning mentorship bonds.** An Elder who publishes outstanding DNA Templates — clear workflows, detailed guides, replicable processes — naturally attracts apprentices. The Templates earn Helix on their own, and the apprentices who discover them seek out the author for Voluntary Mentorship Bonds. Publishing is the marketing. Teaching is the product. The income compounds from both streams simultaneously.
 
