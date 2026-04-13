@@ -33,9 +33,9 @@ To cover your `4c` with the 80/10/5/3/2 Syntropy Split, you must *generate* `5c`
 
 The ×2 multiplier is a conservative ceiling, not a precise calculation. The exact minimum multiplier for your jurisdiction can be computed using the **Friction Markup Formula** from Chapter 6: `M = B / (1 - B)`, where `B` is your total tax burden. For a country with 50% burden, the formula yields exactly ×2. For lower-burden jurisdictions (e.g., the US at ~27%), the formula yields ~×1.37. We always recommend billing at ×2 because it is better to over-prepare and redistribute the surplus than to underbill and starve your Pod.
 
-You do this because your fiat obligations still exist: rent, groceries not yet covered by the Hub, personal taxes at rural Airlock. This legally safe tax multiplier guarantees that you can invoice fiat clients, pay all necessary state taxes, and still walk away with the exact internal net you need. 
+You do this because your fiat obligations still exist: rent, groceries not yet covered by the Hub, personal taxes at rural Airlock. This legally safe tax multiplier guarantees that you can invoice fiat clients, pay all necessary state taxes via the Gross-Up translation (Chapter 17), and still walk away with the exact internal net you need. 
 
-**The Optimization Bonus:** While you *bill* at 2x, the Hub *retains* energy using max-leverage optimization (pre-tax assets and dividend thresholds). If the Hub is efficient, the real tax drag may only be 20-30%. The excess "hallucination buffer" is not lost; it is recovered and credited back to the Node's ledger as Patronage Dividends at the end of the fiscal cycle. You bill for the storm, but you keep the sunlight.
+**The Optimization Bonus (The Yield Spread Refund):** While you *bill* at 2x to guarantee absolute safety, the Hub *retains* energy using max-leverage optimization (pre-tax physical assets and dividend thresholds). If the Hub is efficient, the real tax drag to process your take-home target may only be 20-30% (~1.3x multiplier). **The difference between the safely billed 2x and the actual ~1.3x cost is the Yield Spread.** This massive unspent fiat buffer is never "lost" to the corporate shell. It is securely held in the Pod's pre-tax corporate treasury to buy shared infrastructure, or its 80% is redistributed back to the Node as tax-shielded Patronage Dividends (Path B) at the end of the fiscal cycle. You bill for the storm, you guarantee your own safety, and whatever is saved stays yours. You keep the sunlight.
 
 ## The 10c Monthly Target (The Comfortable Builder)
 
@@ -64,9 +64,9 @@ The internal math is identical everywhere. What changes is the fiat shadow. A bu
 2. Lowering your life standards (sacrificing your `4c` dignity).
 3. Risking your Baseline (running a deficit that the Pod must cover).
 
-The goal of generating `10c` gross is strategically safe. It allows enough buffer to clear the highest tax brackets in any major jurisdiction, maintain your dignity, and safely over-prepare for fiat extraction. If the Hub manages the legal Membrane efficiently and resolves the taxes cheaper than expected, the unspent fiat is recovered, converted back to `c` units, and credited back to the Node's ledger at year-end clearance as Patronage Dividends.
+The goal of generating `10c` gross is strategically safe. It allows enough buffer to clear the highest tax brackets in any major jurisdiction via the Hub's Gross-Up logic, maintain your dignity, and safely over-prepare for fiat extraction. If the Hub manages the legal Membrane efficiently and resolves the taxes cheaper than expected, the unspent fiat (The Yield Spread) is recovered and either held in the Pod Treasury for shared infrastructure or redistributed — with 80% credited back to the Node's ledger at year-end clearance as Patronage Dividends.
 
-This means: you price conservatively at a 2x multiple, you prepare for worst-case fiat friction, and whatever the Hub saves through efficient accounting is returned to you. The internal peace is secured *before the race starts*, not scrambled together after the energy is already gone.
+This means: you price conservatively at a 2x multiple, you prepare for worst-case fiat friction, and whatever the Hub mathematically saves through efficient accounting is returned entirely to you. The internal peace is secured *before the race starts*, not scrambled together after the energy is already gone.
 
 ## The 50c Apex Builder
 
@@ -139,15 +139,19 @@ You *must* raise the bar for everyone. You must mentor them, share your high-val
 
 This is not altruism. This is thermodynamics. The organ cannot grow if its cells are dying. The builder cannot soar if their strike-team is starving. The 1:4 Coefficient forces every ambitious Node to become a leader who lifts, not an executive who extracts.
 
+### The Corporate Cap Table (16/12/8/4)
+
+When a Pod operates through a corporate entity (LLC, or equivalent) under the Trojan Mouse configuration, the 1:4 coefficient is not just an agreement; it is hardcoded into the Cap Table. The Pod issues **Equity Shares** to match the distribution tiers: L4 = 16, L3 = 12, L2 = 8, L1 = 0 (Phantom). 
+
+Because dividends are paid strictly per-share, the Leader will mathematically always receive 4× what the Junior receives — no more, no less. 
+
+Apprentices and new Juniors (L0–L1) do not receive legal equity immediately. Unwinding a shareholder who quits after two weeks is legally expensive. Instead, they hold **Phantom Shares** (Profit Participation Points) that grant them their cash distribution ratio, but zero voting rights. Once they cross the **50c** generation threshold (proving their competence and cultural alignment), they vest. The Pod LLC formally issues 8 legal Builder shares to the Node entity. The total share pool expands, but the 1:4 ratio never breaks.
+
 ### Weight Factors for Redistribution
 
-Within the 1:4 constraint, the precise allocation for each Node within a level is not a flat number. It is weighted by three factors:
+Within the 1:4 constraint, the precise allocation for each Node within a level is not a flat number. It is weighted by three factors: **LSS (Lifetime Syntropy Score)** — your proven track record of cumulative value creation (seniority by output, not by time); **Throughput** — how much energy has flowed through you in the current Hub/Pod; and **Join Date** — how early you committed to the organism. These three factors are multiplied together to produce a **Redistribution Weight** that determines each Node's precise position within their level's range. 
 
-1. **LSS (Lifetime Syntropy Score):** Your proven track record. A Node with an LSS of 500 has demonstrated more cumulative value creation than a Node with an LSS of 50. This is seniority by output, not by time. Note: the LSS itself is split 80/20 between the Executor and the Vacuum-creator (see *Appendix: LSS Attribution*).
-2. **Throughput:** How much energy has flowed through you in the *current* Hub/Pod. A high-LSS Node who recently joined a new Pod has historical credibility but limited local contribution. Throughput weights the recent, lived reality.
-3. **Join Date:** How early you committed to the organism. The first Nodes in a Pod carried the highest risk — they joined before the Baseline was secured, before the treasury existed, before the proof was in. Skin in the game is recognized.
-
-These three factors are multiplied together to produce a **Redistribution Weight** that determines each Node's precise position within their level's range. The Pod's consensus governs how heavily each factor is weighted — some Pods may value LSS above all else, others may prioritize local throughput. See *Appendix: Sharing the Harvest* for the full level system and growth stage unlocks.
+For the full redistribution mechanics, growth stage triggers, and compensation unlocks, see [Appendix: Sharing the Harvest](x-appendix/sharing-the-harvest.md). For the detailed LSS attribution split (80/20 between Executor and Vacuum-creator), see [Appendix: LSS Attribution](x-appendix/lss-attribution.md).
 
 ### Expanding the Ceiling (Consensus Tuning)
 
@@ -182,7 +186,7 @@ Not every Pod is a Perfect Circle. Many Pods start with five members, all fighti
 | **NET (0.3%) (The Global Connection)** | 25c × 0.3% | 0.075c |
 | **The Yield Spread (Hub Optimization Bonus)** | Hub-level optimization | ~10-15c potential recovery |
 
-*Note: The Pod bills for 50c to guarantee a 25c internal net floor. However, using max-leverage tax optimization, the Hub may only lose 12.5c to fiat friction. The remaining 12.5c spread is your Hub's "Alpha"—extra energy returned to the Pod Treasuries or distributed as bonus c-units at year-end.*
+*Note: The Pod intentionally bills out for 50c to absolutely guarantee a 25c internal net floor. However, using max-leverage tax optimization, the Hub may legally only lose 12.5c to fiat friction. The remaining 12.5c spread is your Hub's "Yield Spread"—this massive pre-tax surplus is explicitly returned to the Pod Treasuries or distributed back to Nodes as bonus Patronage Dividends at year-end. You do not bill 2x and receive half; you bill 2x to feel perfectly safe, and any saved friction is exclusively yours to keep.*
 
 The 2.5c Pod Treasury per month breaks down as:
 - **Future Youth Fund** (1% of total = 10% of Pod Treasury): 0.25c/month → 3c/year.
@@ -261,19 +265,11 @@ These numbers are pegged to the €20 reference ceiling. At the €10 peg, halve
 
 ## The Growth Timeline
 
-A Pod does not appear fully formed. It grows through predictable stages, each with its own team composition and economic milestone. The following timeline is a *proposed example* — teams can be more or less efficient depending on their market, field, luck, skills, or desire for growth. This is a compass, not a clock.
-
-| Stage | Name | Typical Duration | Composition | Economic Milestone |
-|---|---|---|---|---|
-| 1 | **Seed** | ~3–6 months | You alone | Building toward MVB (1c). Practicing the full 80/10/5/3/2 Split. |
-| 2 | **Sparkle** | ~6–12 months | Both founders (1:1 parity) | MVB secured → working toward Baseline. |
-| 3 | **Co-Uplifting** | ~12–16 months | 2 builders + 2 junior/apprentice (4 members) | L2 unlocked. Both founders are now Builders. |
-| 4 | **Maturation** | ~12–24 months | 1 leader + 1 architect + 1 builder + 1 junior + 1 apprentice (5 members) | Baseline reached for everyone. Apprentice growing toward 2×MVB. |
-| 5 | **Perfect Circle** | Sustained | 1 Founder + 1 Architect + 3 Builders + 1 Junior + 1 Apprentice (7 members) | Reserve secured. L4 unlocked. Youth Fund sustaining 2 children. |
+A Pod does not appear fully formed. It grows through five predictable stages — from **Seed** (you alone, building toward MVB) through **Sparkle** (two co-founders at 1:1 parity), **Co-Uplifting** (4 members, L2 unlocked), **Maturation** (5 members, Baseline reached for everyone), and finally the **Perfect Circle** (7 members: 1 Leader, 1 Architect, 3 Builders, 1 Junior, 1 Apprentice — reserve secured, L4 unlocked, Youth Fund sustaining 2 children).
 
 The progression is organic. You do not recruit to fill a slot — you grow into it. The Junior of today is the Builder of next year. The Apprentice who learned to code on inherited equipment becomes the Architect who designs the Pod's next DNA Template. The circle completes itself not by hiring, but by nurturing.
 
-For detailed growth stage triggers and compensation unlocks at each stage, see *Appendix: Sharing the Harvest*. For scaling the Pod to a Perfect Circle, see *Appendix: How to Scale*.
+For the full growth timeline with detailed stage triggers, typical durations, composition, and compensation unlocks, see [Appendix: How to Scale](x-appendix/how-to-scale.md). For the stage-based redistribution rules, see [Appendix: Sharing the Harvest](x-appendix/sharing-the-harvest.md).
 
 ## The Multiple Streams Advantage
 

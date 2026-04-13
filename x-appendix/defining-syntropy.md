@@ -16,6 +16,16 @@ The Nowland answers it with **experience**.
 
 ---
 
+## The Start → Adopt → Stay Engine
+
+Syntropy is not a one-time event. It is a living cycle — the same **Start → Adopt → Stay** rhythm that governs the entire Nowland.
+
+When a gardener observes the soil, the light, and the seasons before planting, the flower has a far greater chance of thriving. The gardener who ignores reality and forces a tropical seed into frozen ground will generate only Entropy — wasted energy, a dead plant, and no harvest.
+
+The same physics govern your work. The more observant you are — the more deeply you understand the mechanics of your environment, your client's real needs, and the tools at your disposal — the more efficiently your engine will run. Syntropy is not guesswork. It is the disciplined practice of aligning your perception with reality, cycle after cycle, until the engine hums.
+
+**Start** by researching and understanding where and what the Vacuum truly is. **Adopt** the feedback the environment gives you — adapt your approach, refine your process, iterate toward the intended experience. **Stay** in the loop long enough for the compound interest of your learning to take over. You do not become a master in one pass. You become a master by running more loops than anyone else, each time with sharper eyes.
+
 ## The Experience-Driven Evaluation Loop
 
 Syntropy is not measured by ticking boxes. It is measured by whether the **intended experience** was actually created. The operational loop works as follows:
@@ -25,11 +35,11 @@ Syntropy is not measured by ticking boxes. It is measured by whether the **inten
 - *"When a farmer follows this template, their yield should increase by at least 15% in the first season without additional inputs."*
 - *"When a client reads this research, they should know exactly who their top three customer segments are and what to say to each one."*
 
-The expected experience becomes the **Statement of Work (SOW)** — the shared understanding of what "done" looks like in physical reality.
+The expected experience becomes the **Statement of Work (SOW)** — the shared understanding of what "done" looks like in physical reality. It should include: Scope of Work, Timeline, Budget, and Deliverables.
 
-**2. Execute (The Build).** Do the work. Build the prototype. Write the code. Plant the seed. The execution phase is where kinetic energy meets the Vacuum.
+**2. Execute (The Build).** Do the work. Build the prototype. Write the code. Plant the seed. Cook the meal. The execution phase is where kinetic energy meets the Vacuum.
 
-**3. Measure Experience (The Check).** Once delivered, both parties evaluate: *Did the expectation lead to the right experience?* Did the user actually feel clarity? Did the yield actually increase? Did the client actually gain the knowledge they needed? This is not a subjective opinion poll — it is a Consilience test. The experience either physically occurred, or it didn't.
+**3. Measure Experience (The Check).** Once delivered, both parties evaluate: *Did the expectation lead to the right experience?* Did the user actually feel clarity? Did the yield actually increase? Did the client actually gain the knowledge they needed? Was it actually tasty? This is not a subjective opinion poll — it is a Consilience test. The experience either physically occurred, or it didn't.
 
 **4. Adapt (The Iterate).** If the experience did not match the expectation:
 - Change the expectations (maybe they were wrong — too ambitious, too vague, or misaligned with reality).
@@ -49,6 +59,14 @@ Publish these as Helix. Share them with the community and the network. This is h
 
 ---
 
+## The Economics of the Loop
+
+Every cycle of the loop — Research, Strategy, Implement, Get Feedback — requires kinetic energy. That energy must come from somewhere. When the steps are agreed upon and the executor delivers the work faithfully according to the Statement of Work, the work is paid for. The bounty is earned at the moment of execution, not at the moment of results.
+
+This is a critical distinction: **nobody can guarantee that the work will produce the intended experience.** A farmer who follows the best soil protocol may still face drought. A developer who writes clean code may still face a shifting market. What you can guarantee is the *quality of the process* — the rigor, the discipline, the attitude, and the Consilienced approach.
+
+The Syntropic process maximizes the *probability* of reaching Consilience. It does not promise certainty. But a team that runs the loop with honest perception, clear expectations, and genuine adaptation will converge on the intended experience faster and more reliably than any team working on assumptions, ego, or faith. Syntropy is the bet with the best odds — not because it eliminates risk, but because it eliminates the waste that makes most bets fail.
+
 ## The Operational Cycle
 
 At the team level, the daily rhythm is:
@@ -61,26 +79,7 @@ This library is your most valuable asset. It is the DNA of your Pod. When shared
 
 ---
 
-## Quality Approaches Aligned with Nowland Values
-
-The Nowland is not inventing quality methodology from scratch. Several established approaches share our core values of continuous improvement, coached leadership, and physical proof:
-
-### Toyota Kata (The Improvement Kata)
-
-Developed by Mike Rother from studying Toyota's internal culture, the Improvement Kata is a four-step routine:
-
-1. **Understand the Direction** — What is the long-term challenge?
-2. **Grasp the Current Condition** — What is physically true right now?
-3. **Establish the Next Target Condition** — What specific step will move you forward?
-4. **Experiment (PDCA)** — Plan-Do-Check-Act. Run a small, fast experiment and learn from it.
-
-The **Coaching Kata** that accompanies it is directly aligned with the Nowland's mentorship model: instead of providing answers, the Elder-Mentor asks five standardized questions that develop the learner's own scientific thinking. This is mentorship, not management. Guidance, not direction.
-
-### The B Corp Impact Assessment
-
-The B Corp framework measures impact across five domains: Governance, Workers, Community, Environment, and Customers. Its principles of **comprehensiveness** (holistic view), **positivity** (measure what you create, not just what you avoid), and **continuous improvement** (standards evolve) are all aligned with Syntropy's multi-stakeholder, order-creating philosophy.
-
-### The Consilience Test (Chapter 3)
+## The Consilience Test
 
 The simplest quality check of all: *Does the deliverable physically exist? Can an independent observer verify that it works?* You cannot argue your way into Syntropy. You cannot market your way into Consilience. The bridge stands or it falls. The meal nourishes or it doesn't. The code runs or it crashes.
 

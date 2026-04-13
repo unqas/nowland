@@ -1,6 +1,6 @@
 # Sharing the Harvest
 
-*(or, How to Distribute Energy Within a Pod)*
+*(or, How the Harvest is Split Among the Hands That Planted)*
 
 > **TL;DR:** Within a Pod, the 80% Node allocation is further distributed according to a level system (L0–L4) anchored to the Pod's growth stage. Two co-founders split equally. As the Pod matures and secures its Baseline, higher contribution levels unlock — always governed by the 1:4 Max-Out Coefficient. You cannot have an Apex earner in a Pod where the Juniors are not yet fed.
 
@@ -43,6 +43,9 @@ Once a Pod generates surplus beyond its immediate survival needs, members can op
 **These are floors, not ceilings.** Every Node at every level can earn more than their floor. If the Pod is highly effective and consensus-raises its Baseline above 4c, all tiers scale proportionally. A Pod with a 25c consensus Baseline → L4 Apex = 100c.
 
 The Leader at L4 additionally holds the right to make consensus-driven decisions on how **3% of the Pod's 10% treasury** is allocated or redistributed among the team — an executive stewardship responsibility, not a personal bonus.
+
+**The Corporate Translation (The Share Array):**
+When the Pod wraps itself in a corporate entity (LLC/LDA) under the Trojan Mouse strategy, these levels map directly onto the Pod’s **Equity Share Array**: L4 = 16 shares, L3 = 12, L2 = 8, L1 = 0 (Phantom), L0 = 0 (Phantom). Dividends are paid per share, structurally hardcoding the 1:4 Max-Out Coefficient into the corporate articles of association. Apprentices and Juniors (L0–L1) hold Phantom Shares (Profit Participation Points) that grant them their cash distribution ratio but zero legal equity or voting rights. They vest into real equity (8 Builder shares) once they cross the 50c energy threshold.
 
 ---
 
@@ -105,6 +108,8 @@ When you are in the Genesis stage, fighting to secure MVB, you write down everyt
 Once the Pod reaches sustainability (10c revenue per person), the surplus has a history. The Attribution Ledger ensures that the founders who built the engine during the cold months receive retroactive recognition — either as a one-time redistribution from the surplus, or as a permanently higher Redistribution Weight that reflects their founding contribution.
 
 You are not working for free. You are investing in an organism that remembers.
+
+**The Legal Reality:** During the Genesis stage, Nodes who have not yet vested into the Pod’s corporate entity operate as external B2B contractors holding Phantom Shares. The Attribution Ledger serves as the mathematical proof that their early sweat-equity justifies the share issuance when the vesting threshold (50c) is crossed. This keeps the corporate cap table clean while preserving the historical fairness of early contribution.
 
 ---
 

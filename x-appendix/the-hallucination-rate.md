@@ -20,24 +20,24 @@ Instead of abstract percentages, let's look at raw physics. You generate **€10
 |---|---|---|---|---|
 | **The Fiat Employee** | ~€25,000 (Boss Margin / Bureaucracy) | ~€30,000 (Social + Income Tax on the remainder) | **~€45,000** | **€0** |
 | **The Isolated Node (Freelancer)** | €0 (You are the boss) | ~€35,000 (Self-employment + Income tax) | **~€65,000** (But you pay all infrastructure at retail price) | **€0** |
-| **The Nowland Hub Node** | €0 (The Stigmergic Board extracts no profit) | ~€20,000 (Minimized through pre-tax asset shielding and optimized dividend thresholds) | **~€60,000** | **€20,000** (The pre-tax 20% Syntropy Split) |
+| **The Nowland Hub Node** | €0 (The Stigmergic Board extracts no profit) | ~€20,000 (Minimized through pre-tax asset shielding and optimized dividend thresholds) | **~€60,000** | **€20,000** (The 20% Syntropy Split, deployed pre-tax as shared assets, or shielded as post-CIT statutory reserves) |
 
 ### The Verdict on the Table
 * As an **Employee**, you generated €100k and captured €45k. You lost 55% of your life-force to a corporate hierarchy and state bureaucracy. You are safe, but heavily exploited.
 * As an **Isolated Freelancer**, you captured €65k. You eliminated the boss, but you bear 100% of the risk, buy retail-priced infrastructure, and still bleed heavy fiat taxes to a state that gives you no safety net. You are free, but highly fragile.
-* As a **Nowland Node**, you execute maximum tax leverage. The Hub completely shields the 20% Split (€20,000) from personal income tax by allocating it directly to pre-tax community infrastructure and shared real assets. From the remaining €80,000 safely withdrawn through optimized threshold/dividend mechanics, you bleed only ~€20,000 to the state. You take home **~€60,000** personally, while co-owning **€20,000** in your Treasuries. Your total realized network energy is **€80,000** — vastly out-scaling the isolated freelancer while enjoying complete cooperative immunity.
+* As a **Nowland Node**, you execute maximum tax leverage via the 4-Tier Corporate Cascade. The system completely shields the 20% Split (€20,000) from personal income tax by allocating it directly to pre-tax community infrastructure, or holding it safely as low-friction, flat-CIT statutory reserves. From the remaining €80,000 safely withdrawn through optimized Parent-Subsidiary transfers and dividend mechanics, your Micro-LLC bleeds only ~€20,000 in combined taxes to the state. You pull **~€60,000** net into your physical checking account, while co-owning **€20,000** in your Treasuries. Your total realized network energy is **€80,000** — vastly out-scaling the isolated freelancer while enjoying complete cooperative immunity.
 
 ---
 
 ## The Cooperative Advantage: Why We Should Stay Together
 
-Why is the "Shared Pot" mathematically superior to being a lone freelancer hoarding 100% of their revenue? Because physical reality is cheaper in bulk, and fiat tax law heavily favors corporations over individuals.
+Why is operating as `Hub` or `Pod` mathematically superior to being a lone freelancer hoarding 100% of their revenue? Because physical reality is cheaper in bulk, and fiat tax law heavily favors corporations over individuals.
 
 When you stay together physically and legally as a Hub (using a Cooperative Membrane), you unlock thermodynamic efficiencies that an isolated freelancer can never reach:
 
-1. **Pre-Tax Infrastructure (The Membrane Shield):** When an isolated freelancer buys a €3,000 workstation or a cloud server, they often buy it using post-tax money. When the Hub buys it using the 5% Treasury for communal use, it is a direct B2B corporate expense. It lowers the cooperative's taxable baseline before the state ever touches it.
-2. **Bulk Caloric & Spatial Pricing:** Fulfilling the `4c` Baseline (food, energy, shelter) at retail prices for 50 isolated individuals is astronomically expensive. Fulfilling it for a 50-Node Hub through agricultural direct-contracts, shared co-living compounds, and bulk local energy grids drops the per-capita fiat cost by 40–60%. 
-3. **Shared Administrative Overheads:** An isolated freelancer pays €2,000/year for an accountant, €1,500/year for individual specialized software licenses, and €10,000/year for an office. A 50-Node Hub pays one cooperative accounting firm, negotiates enterprise software licenses, and buys a shared physical compound. You completely eliminate the duplication of friction.
+1. **Pre-Tax Infrastructure (The 2.5x Buying Power Multiplier):** An isolated employee must earn roughly €2,000 in gross wages, get taxed down to €1,000, and use that €1,000 post-tax to buy a laptop (paying VAT out of pocket). A Hub buys the same laptop as eligible business expense *before* corporate taxes are drawn, and legally reclaims the VAT. The thermodynamic cost to the Hub is effectively €800. By leaving capital in the Hub's treasury instead of withdrawing it, the Node effectively yields a **2.5x Buying Power Multiplier** (€2,000 ÷ €800) on their acquired physical assets.
+2. **Bulk Leverage:** The Hub buys software licenses, insurance, and accounting services in bulk. Individual Nodes pay enterprise prices instead of retail prices. Fulfilling the `4c` Baseline at retail prices for 50 isolated individuals is astronomically expensive. Fulfilling it for a 50-Node Hub through agricultural direct-contracts, shared co-living compounds, and bulk local energy grids drops the per-capita fiat cost by 40–60%. 
+3. **Shared Administrative Overheads:** An isolated high-income freelancer pays €2,000/year for an accountant, €1,500/year for individual specialized software licenses, and €10,000/year for an office. A 50-Node Hub pays one cooperative accounting firm, negotiates enterprise software licenses, and buys a shared physical compound. You completely eliminate the duplication of friction.
 4. **The Mutual Insurance Loop:** An isolated freelancer who gets sick goes to zero revenue instantly. A Nowland Node who gets sick is sustained by the 4c Baseline and healed by the Re-Pair Protocol. You don't need to hoard massive private fiat savings when the organism catches you.
 
 ---
@@ -105,7 +105,7 @@ When you bill a fiat client, you are pessimistic: you invoice at the safe `2x` m
 
 1. **Max Out Expenses:** The Cooperative first pays for all legitimately shared operational expenses directly from pre-tax Hub revenue and gets Value Added Tax (VAT) back (~20% refund in EU, ~10% in US).
 2. **Acquire Shared Assets:** Surplus is used to buy physical community assets (which don't attract personal income tax) rather than flushing it out as individual taxable income.
-3. **Threshold Contracting/Salaries:** Nodes are paid via B2B contracting or salaries only up to the optimal threshold where social taxes max out and capital gains/dividends become a more viable route.
+3. **The Hub→Pod→Node Cascade:** The Hub does not pay you directly. It flows energy to the Pod (via a B2B liability), which in turn distributes it to your Node entity (via low tax corporate dividends). You only pull a standard progressive salary natively from your Node up to the optimal threshold where social taxes max out, leaving the rest safely as clean corporate wealth.
 4. **Clean Mutual Wealth:** Remaining surplus is held as "cleaned" mutual company money within the Cooperative structure. You withdraw dividends only when absolutely needed in the fiat world.
 
 What the Nowland eliminates is the **involuntary** Hallucination Rate. Inside the Membrane, energy flows at maxed out efficiency. The fiat friction is confined to the Airlock — the exact moment of withdrawal. And by executing this waterfall, the system guarantees that the volume of fiat withdrawals decreases over time as the Hub acquires the physical infrastructure of survival on pre-tax mechanics.

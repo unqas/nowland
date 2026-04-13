@@ -40,24 +40,34 @@
 * [Conclusion](v-seed/26-conclusion.md)
 
 ## Appendix
+
+### Foundation
 * [7 Laws of Social Syntropy](x-appendix/7-laws-of-social-syntropy.md)
-* [Success Principles](x-appendix/success-principles.md)
-* [The Fiat Client](x-appendix/the-fiat-client.md)
 * [Defining Syntropy](x-appendix/defining-syntropy.md)
+
+### Practice
+* [Success Principles](x-appendix/success-principles.md)
+* [The Self-Uplifting Node](x-appendix/self-uplifting-node.md)
+* [The Fiat Client](x-appendix/the-fiat-client.md)
+
+### Mathematics
+* [Deep Dive: The A-B-C Ledger](x-appendix/the-abc-ledger.md)
 * [The Fiat Hallucination Rate](x-appendix/the-hallucination-rate.md)
 * [Mathematics of the Pod](x-appendix/mathematics-of-the-pod.md)
 * [Sharing the Harvest](x-appendix/sharing-the-harvest.md)
 * [LSS Attribution](x-appendix/lss-attribution.md)
-* [The Self-Uplifting Node](x-appendix/self-uplifting-node.md)
 * [How to Scale](x-appendix/how-to-scale.md)
-* [Deep Dive: The A-B-C Ledger](x-appendix/the-abc-ledger.md)
+
+### Proof & Defense
 * [Simulation Results](x-appendix/monte-carlo-simulation.md)
-* [Prior Art & Lineage](x-appendix/prior-art.md)
-* [Known Tensions & Open Problems](x-appendix/known-tensions.md)
 * [Engineering Antifragility](x-appendix/engineering-antifragility.md)
+* [Known Tensions & Open Problems](x-appendix/known-tensions.md)
 * [The Inevitable Total War](x-appendix/the-inevitable-total-war.md)
 * [Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md)
 * [Legal Interpretation Guide](x-appendix/legal-interpretation-guide.md)
+
+### Closing
+* [Prior Art & Lineage](x-appendix/prior-art.md)
 * [Memorable Mentions](x-appendix/memorable-mentions.md)
 * [Glossary](GLOSSARY.md)
 * [License](x-appendix/license-summary.md)
