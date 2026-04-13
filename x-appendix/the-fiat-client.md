@@ -6,7 +6,7 @@
 
 ---
 
-While the principles in this chapter mostly apply to the agency model, they have clear value and can be adapted to other industries as well.
+While the examples in this chapter use the agency model for illustration, the principles apply to any Pod interfacing with the fiat world — from software development to agriculture to consulting.
 
 Everything in this manual describes why the Nowland works for builders. But what about the organism on the other side of the Membrane? Why should they care about your internal structure? The answer is simple: they don't need to. They only care about the results your structure guarantees.
 

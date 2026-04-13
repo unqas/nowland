@@ -6,6 +6,18 @@
 
 ---
 
+In the fiat world, money is elastic. A central bank can print trillions of dollars overnight, inflating the number of units in circulation while the amount of real work stays the same. Your savings lose purchasing power not because you did anything wrong, but because someone in a distant building pulled a lever.
+
+The A-B-C Ledger reverses this entirely. It records what actually happened — the displacement of biological energy between two human beings. When you help someone for 30 minutes, the ledger records 30 minutes of focused human output. Not a market price. Not a negotiated hourly rate. A physical measurement of the life-force you invested. Nobody can inflate it. Nobody can print more of it. The supply of energy in the ledger is always exactly equal to the energy that was actually created.
+
+The ledger's most powerful property is the **zero balance**. When every column sums to zero, you know you are looking at reality — the system is in thermodynamic equilibrium. This is the opposite of the fiat debt clock, which ticks endlessly upward into abstraction. In the A-B-C Ledger, the moment a balance deviates from zero, you know immediately that something real happened — energy moved from one human to another. There is no ambiguity, no inflation, no hidden printing press. Zero is the mirror of truth.
+
+And because the currency measures time and energy — the only resource no one can manufacture, buy back, or counterfeit — a Node's hour of focused work carries the same weight everywhere on Earth. A developer in Lagos and a developer in Berlin spend the same biological life-force per hour. The A-B-C Ledger honors that equality. It makes diverse experiences and diverse markets accessible, but the same fundamental lifestyle available to every Node — because the unit of measurement is universal: energy flowing through spacetime.
+
+If you have already read Chapter 23 (The First Spark), you have seen the notebook in action. What follows is the full architecture behind those three columns — the unit system, the transaction protocol, and the scaling path from a single notebook to a global network.
+
+---
+
 ## 1. The Existential Units
 
 We move the currency from a "measure of debt" to a **"philosophy of existence."** The progression from **Say** to **Be** to **See** isn't just a math scale; it’s the physical lifecycle of any human achievement. You think it (**Say**), you do the work (**Be**), and then you realize the result (**See**).
@@ -88,7 +100,11 @@ When you invoice a fiat client (Gross Fiat), the Hub ingests it.
 
 ---
 
-## 4. The "Dumb Tools" Scaling Table
+## 4. The Tool Hierarchy (Consensus First, Ledger Second)
+
+The A-B-C Ledger is a powerful tool — but it is a *tool*, not the default. The default is **consensus**. Two humans who trust each other do not need a spreadsheet to share a meal. They need a handshake and a memory.
+
+The ledger exists to *help* when memory alone is not enough — when the Pod grows beyond the intimacy of two, when the transactions multiply, when the details become too numerous for any single mind to carry. It scales gracefully through four phases:
 
 | Phase | Community Size | Ledger Tool | Complexity |
 |---|---|---|---|
@@ -96,6 +112,8 @@ When you invoice a fiat client (Gross Fiat), the Hub ingests it.
 | **Pod** | 5–15 Nodes | Shared Spreadsheet | Formulas auto-calculate the 80/20 split. |
 | **Hub** | 15–50 Nodes | Basic Web App | Localized database tracking internal units. |
 | **Grid** | 50+ Nodes | Stigmergic Board | Cryptographic identity, smart contracts, and peer audit. |
+
+The critical principle: **if the electricity is cut off, you must be able to fall back to the reality of nature.** The notebook works without power. The consensus works without paper. Autonomy is baked into the architecture because the most fundamental layer — two humans agreeing to exchange energy — requires nothing but presence and trust. The app is for convenience and scale. The spreadsheet is for tracking. The paper is for memory. The consensus is for truth.
 
 ## 5. Mathematical Benchmarks
 
