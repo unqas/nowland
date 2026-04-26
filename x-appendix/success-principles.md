@@ -40,6 +40,9 @@ The true mark of success is how many people are using your DNA templates, your B
 **8. The true winners are those who find a way to remain in the game.**
 Resilience over brilliance. Consistency over sprints. Sustainable output over burnout heroics. Stay alive long enough to see things becoming a little better than you found them.
 
+**9. Seek Congruence, not perfection.**
+Congruence is the state where your intention, your decision, and your action point in the same direction. It is not about being perfect — it is about being internally consistent. A Congruent Node operating at 60% capacity will outperform an Incongruent Node at 100%, because incongruence generates friction that burns energy as heat — stress, anxiety, self-sabotage. Before you optimize your output, ask: *Am I doing what I decided? Did I decide what I intended?* If any answer is no, you have a friction leak. Fix the alignment before increasing the intensity. *(See Appendix: [The Triple Point](the-triple-point.md) for the diagnostic framework.)*
+
 ---
 
 > ### The Core Principle

@@ -48,6 +48,7 @@
 ### Practice
 * [Success Principles](x-appendix/success-principles.md)
 * [The Self-Uplifting Node](x-appendix/self-uplifting-node.md)
+* [The Triple Point](x-appendix/the-triple-point.md)
 * [The Fiat Client](x-appendix/the-fiat-client.md)
 
 ### Mathematics

@@ -22,7 +22,9 @@ You can wear different masks. You can adopt different looks and appearances. You
 
 The most important act of Syntropy you can ever perform is to **accept** your absolute authenticity. Allow yourself to uplift *yourself* into the kind of being you feel you are. 
 
-The best kind of synergy, and the most fundamentally powerful force in the human experience, is the **Consilience of your thought, your intention, and your actions.** When those three vectors align perfectly, friction drops to zero.
+The best kind of synergy, and the most fundamentally powerful force in the human experience, is the **Consilience of your intentions, your decisions, and your actions.** When your intention is clear, your decision is fast, and your action is intense, your internal friction drops to zero.
+
+*(See Appendix: [The Triple Point](../x-appendix/the-triple-point.md) for the complete self-diagnostic framework.)*
 
 ### The Stagnant Pie vs. The Syntropic Expansion
 

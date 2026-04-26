@@ -37,6 +37,7 @@ Eventually, you will need fiat. Until the Hub acquires enough physical real esta
 You need to pull pure energy out of the internal ledger and convert it back into fiat currency. This is the only moment the tax hallucination becomes real. 
 
 #### The Genesis of the Math (The Guaranteed Take-Home)
+
 To understand the `1c` unit, you must see how it is born. The client knows nothing about our internal ledgers; they just ask for a service. 
 
 1. **The Evaluation:** Your Pod evaluates a project and determines the kinetic energy required is `1c` (€1,000 of pure post-tax utility). 
@@ -45,9 +46,11 @@ To understand the `1c` unit, you must see how it is born. The client knows nothi
 4. **The Utility Loop:** This `0.8c` sits safely inside the Hub. If you trade it with another Pod, or if the Hub buys a laptop for you as a corporate business expense, no fiat leaves the Membrane. **No flush is needed, and no personal tax is triggered.**
 
 #### The Fiat Flush (Commanding the Airlock)
+
 When you cannot use internal trade or corporate expenses — for example, to pay your fiat rent — you must flush. There are two primary legal paths, depending on your corporate cascade:
 
 #### Path A: The Corporate Flush (Parent-Subsidiary Dividend)
+
 If your Hub uses the perfected 4-Tier Corporate Cascade, you avoid B2B invoicing entirely. The Pod distributes your 80% split down to your Node entity as a corporate dividend.
 
 1. **The Withdrawal Request:** You look at the board. You hold `0.8c` and demand exactly €800 of take-home value for your personal, biological bank account.
@@ -57,6 +60,7 @@ If your Hub uses the perfected 4-Tier Corporate Cascade, you avoid B2B invoicing
 5. **The Yield Spread Refund:** The Hub/Pod still holds €858 from the original €2,000 client payment! This excess fiat is **The Yield Spread**. It is securely held in the Pod's pre-tax corporate treasury to buy shared business infrastructure (laptops, servers, travel) using the 100% Expense Shield.
 
 #### Path B: The Social Choice (Patronage Dividends)
+
 If your Hub is a formal Worker Cooperative, utilizing B2B invoices for member labor can be an auditor red flag. Instead, cooperatives use Patronage allocations established in their bylaws.
 
 1. **The Withdrawal Request:** You demand your `0.8c` (€800 utility) out. 

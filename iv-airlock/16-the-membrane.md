@@ -23,6 +23,7 @@ To survive in a toxic environment, biology does not build a solid wall. It build
 A cell membrane allows nutrients (energy) to flow in, while keeping toxins (fiat bureaucracy, corporate taxes, and legal liability) out. In The Nowland, the Hub acts as our Membrane. It is constructed using two impenetrable materials: Cooperative Law and Double-Entry Bookkeeping.
 
 ### 1. Cooperative Law
+
 If you try to run your Pod as a traditional corporation (an LLC, a C-Corp, or a German GmbH), you are immediately pulled into the physics of the Pyramid. The fiat state views a corporation as a capitalist extraction machine. It will hit you with heavy corporate taxes, rigid employment laws, and "contractor misclassification" traps designed to crush freelancers. 
 
 You must wrap the Hub in a legal structure that the fiat state already recognizes as non-extractive. 
@@ -161,6 +162,7 @@ The result: you do not eliminate taxes — you **sequence and structure** them t
 The Membrane does not make taxes disappear. It gives you the legal and mathematical structure to reduce friction to the minimum the law allows — the same optimization that every Fortune 500 company uses, but without the extractive hierarchy. You stay inside the law. You play the game strategically. And every euro you save on friction is a euro that builds your physical floor. (For the full comparative math showing employee vs. freelancer vs. Hub Node take-home, see *[Appendix: The Fiat Hallucination Rate](x-appendix/the-hallucination-rate.md)*.)
 
 ### The Invitation
+
 The Membrane described above is not a turnkey legal structure you can blindly replicate in every jurisdiction. It is a demonstrated pattern — a proof of concept showing that by understanding the rules of the game rather than closing your eyes and moving with the mainstream, you can play the game strategically. By joining forces through cooperative law, you stand stronger, more protected, and more resilient than any isolated freelancer.
 
 Here is the honest truth: **the Nowland OS works even if you pay full tax on every transaction.** The Syntropy Split, the Dignity Peg, the Stigmergic Board, the Helix, the Infinite Deflation — none of these depend on a tax advantage. They depend on the physics of how humans coordinate. The Membrane is a bonus — a way to reduce friction so the organism grows faster. But the organism can grow even in a high-friction environment, simply by being more efficient than the fiat alternative.

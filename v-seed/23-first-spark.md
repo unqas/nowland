@@ -11,6 +11,7 @@ You are going to start exactly where you are, with the resources you have, which
 Here is the exact, step-by-step protocol to bypass the global financial system tomorrow morning.
 
 ### Step 1: The Seed Ledger
+
 Find a physical notebook. This notebook is your first Airlock. It is the sterile environment where fiat does not exist. 
 
 Open to the first page. Draw three columns. 
@@ -22,6 +23,7 @@ At the top of the page, write everyone's starting balance: **0**.
 You have no printed money. You have no debt. You are in a state of thermodynamic equilibrium. 
 
 ### Step 2: Define the Local Peg
+
 Before you can trade, you must anchor your ledger to physical reality. You must define the **2b Dignity Peg** for your specific geographic location. 
 
 Sit down with Node B and answer this question: *What is the exact fiat cost of a highly nourishing, locally sourced, ethical meal in our city today?* Let us assume you decide it is €15. 
@@ -31,6 +33,7 @@ Therefore, `2b = €15` of kinetic energy.
 You do not write the fiat numbers in the ledger. You only write the 'b'. But the physical reality of the peg is now locked in your minds. You know exactly what a single unit of your energy is worth in calories and dignity. 
 
 ### Step 3: Indicate the Vacuum
+
 Identify a real, immediate problem. 
 
 Perhaps Node B is a developer who is exhausted and doesn't have time to cook for the next three days. You are a skilled cook. Node B creates a Vacuum. They post a "Bounty" into the physical space between you: *"I need three days of high-quality meal prep."*
@@ -38,12 +41,14 @@ Perhaps Node B is a developer who is exhausted and doesn't have time to cook for
 You both look at the 2b Peg. You calculate the kinetic energy required to source the ingredients and cook the meals. You agree the physical value of this work is **4b**. 
 
 ### Step 4: Execute the Syntropy
+
 You do the work. 
 You do not talk about doing the work. You do not form a committee to discuss the meals. You go to the kitchen, you cook the food, and you hand the physical reality of the meals to Node B. 
 
 The Consilience is verified. The food exists. The kinetic energy has been transferred. 
 
 ### Step 5: The Spark (Calculating the Math)
+
 Now, you open the notebook and close the circuit. You do not exchange fiat cash. You simply record the physics of what just happened. 
 
 1. **The Vacuum:** Node B consumed 4b of energy. You write `-4b` in Node B's column. 
@@ -63,6 +68,7 @@ The math balances perfectly to zero. You did not print any money. But Node B is 
 You just bypassed the central bank. You bypassed the IRS. You bypassed the corporate exactors. You executed a frictionless, zero-sum trade anchored entirely to human dignity, and you funded your community infrastructure at the exact moment of the transaction. 
 
 ### Step 6: The Gravity of the Loop
+
 Node B is now sitting at `-4b`. 
 
 In the old world, this would be a source of anxiety. In The Nowland, it is simply gravity. Node B now feels the gentle, biological pull to return energy to the system. 

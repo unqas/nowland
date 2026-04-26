@@ -15,6 +15,7 @@ At each stage, you introduce only the tools and consensuses strictly necessary f
 ## The Five Tiers of Expansion
 
 ### Tier 1: The Node (The Source / The Cell)
+
 **Scale:** 1 builder.
 **Legal Structure:** Micro-LLC (e.g., S-Corp, UG, SASU, SLU) or formal sole proprietorship.
 **The Goal:** Establishing your 4c Baseline and detaching from fiat employment.
@@ -23,6 +24,7 @@ At each stage, you introduce only the tools and consensuses strictly necessary f
 *   **The Risk:** Isolation and fragility. If you get sick, your engine stops. Your first priority is to prove you can generate Syntropy, and your second priority is to immediately find your Pod.
 
 ### Tier 2: The Pod (The Circle / The Organ)
+
 **Scale:** 2 to 7 aligned Nodes, capped at 9.
 **Legal Structure:** Joint LLC (or equivalen), structurally equipped with the 16/12/8/4 Equity Share Array and B2B Phantom Share contracts for Apprentices/Juniors.
 **The Goal:** Eliminating the fragility of the isolated freelancer by pooling 10% of generated energy into a shared safety net.
@@ -32,6 +34,7 @@ At each stage, you introduce only the tools and consensuses strictly necessary f
 *   **Legal/Economic Leverage:** The LLC enables tax-exempt status for community expenses like software, business travel costs, and shared tools. By functioning as a Parent-Subsidiary with the Node Micro-LLCs, it distributes post-expense profit natively as highly tax-efficient corporate dividends.
 
 ### Tier 3: The Hub (The Community / The Organism)
+
 **Scale:** 15 to ~150 Nodes (multiple Pods), capped at Dunbar's Number (~150–230). 
 **Legal Structure:** Cooperative (eG, Subchapter T Co-op, SCOP), Social Enterprise, or B2B Holding company.
 **The Goal:** Establishing the legal Membrane (The Trojan Mouse) to safely process B2B fiat invoices, reclaim VAT, and convert fiat surplus into shared physical infrastructure.
@@ -41,6 +44,7 @@ At each stage, you introduce only the tools and consensuses strictly necessary f
 *   **Legal/Economic Leverage:** Cooperative structure enables more robust tax-exemption, investments in local infrastructure, executing large scale "Internal Supermarket" purchases at reduced VAT, dynamically distributing the Hallucination Rate, and securing true enterprise pricing.
 
 ### Tier 4: The Grid (The Commons / The Ecosystem)
+
 **Scale:** A heterogeneous mix of Hubs, independent Pods, and smaller sub-Grids in one geographic region. 
 **Legal Structure:** Nonprofit, Foundation, or Federation of Cooperatives.
 **The Goal:** True biological independence. Controlling raw physical survival: localized agriculture, water generation, renewable energy, and community-owned housing.
@@ -50,6 +54,7 @@ At each stage, you introduce only the tools and consensuses strictly necessary f
 *   **Legal/Economic Leverage:** The strict non-profit nature of the Grid ensures its operations are tax-exempt. It allows the ecosystem to securely accept external or geopolitical funding without friction, and structurally prevents any single Hub from accumulating too much centralized power over the regional commons.
 
 ### Tier 5: The NET (The Network / The Biosphere)
+
 **Scale:** Global — a federation of autonomous Grids. 
 **Legal Structure:** Web of International Nonprofits and Cooperative Structures.
 **The Goal:** A universal phase transition where the legacy fiat system is rendered entirely obsolete.

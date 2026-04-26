@@ -9,6 +9,7 @@ Physics disagrees. You have created nothing. You have simply built a tollbooth o
 To build an economy that cannot collapse, we must stop measuring wealth by the size of the tollbooth and start measuring it by the laws of thermodynamics. In The Nowland, we judge every action, every transaction, and every human endeavor by a single, brutal metric: Are you an agent of Entropy, or an agent of Syntropy?
 
 ### The Law of Decay (Entropy)
+
 The Second Law of Thermodynamics states that within any closed system, everything naturally degrades. Left to themselves, hot coffee goes cold, iron rusts, and complex structures crumble into dust. This natural tendency toward chaos, friction, and heat death is called **Entropy**.
 
 The modern fiat economy is entirely driven by agents of Entropy. 
@@ -20,6 +21,7 @@ Look at the apex predators of the old world: the billionaire class, the monopoli
 These are extractive actions. They burn the kinetic energy of the working class and release it as "heat" (exhaustion, burnout, and inflation). The fiat billionaire is an agent of Entropy. They grow wealthy by accelerating the decay of the system around them. They are the rot inside the wood.
 
 ### The Spark of Order (Syntropy)
+
 But there is a counter-force in the universe. It is the reason the universe is not just a soup of dead atoms. It is the reason stars ignite, forests grow, and human beings build cathedrals. 
 
 This force is **Syntropy** (often called *negentropy* in physics). It is the localized creation of order out of chaos. 
@@ -34,9 +36,10 @@ Syntropy is the act of leaving an environment mathematically and physically bett
 *(See Appendix: [Defining Syntropy](../x-appendix/defining-syntropy.md))*
 
 ### The Culture of the Builder
-In The Nowland, we do not demonize the desire for wealth. We simply redefine how it is attained. 
 
-In the old world, the ultimate cultural "flex" was proving how much Entropy you could cause. Status was defined by how much you could mindlessly consume (yachts, mansions, private jets) and how much you could extract from the labor of others without working yourself. The goal was to become a black hole.
+We do not demonize the desire for wealth. We simply redefine how it is attained. 
+
+Under the old system, the ultimate cultural "flex" was proving how much Entropy you could cause. Status was defined by how much you could mindlessly consume (yachts, mansions, private jets) and how much you could extract from the labor of others without working yourself. The goal was to become a black hole.
 
 In our system, a black hole is viewed as a biological failure. 
 

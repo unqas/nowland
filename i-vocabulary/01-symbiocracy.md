@@ -17,6 +17,7 @@ The Pyramid is not a natural biological structure; it is a monument to extractio
 At the narrow top sits the executive class. They do not generate the kinetic energy; they direct it, and more importantly, they siphon it. 
 
 ### The Thermodynamics of the Pyramid
+
 In physics, the Pyramid is an engine with catastrophic heat loss. 
 
 To move information from the bottom (the reality of the street) to the top (the boardroom), it must pass through layers of middle management. Each layer acts as a friction point, distorting the truth to protect its own existence. By the time the signal reaches the top, the reality is entirely hallucinated.
@@ -38,6 +39,7 @@ Symbiocracy recognizes that the health of the entire organism relies entirely on
 3. **Aligned Survival:** In a Symbiocracy, it is mathematically impossible for the top to thrive while the base starves. Because the infrastructure is funded by the transaction itself, the success of the most elite Architect directly subsidizes the 4c biological peace of the newest Apprentice. 
 
 #### The Phase Shift
+
 The transition from Pyramid to Symbiocracy fundamentally rewrites human motivation. 
 
 In the Pyramid, your goal is to climb over others to escape the grueling labor at the bottom, achieving the "freedom" of extracting from those below you. It pits human against human. 

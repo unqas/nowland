@@ -2,7 +2,7 @@
 
 > **TL;DR:** We redefine passive wealth: instead of hoarding physical assets to extract rent, Elders generate perpetual 3% royalties by open-sourcing highly efficient workflows (DNA) that uplift the entire network.
 
-In the fiat economy, the ultimate financial dream is to become a rent-seeker. 
+The fiat economy's ultimate financial dream is rent-seeking.
 
 The old world teaches you that the highest pinnacle of success is to acquire a finite asset—a piece of real estate, a software patent, or a corporate monopoly—and build a fence around it. Once the fence is built, you sit back and extract a passive yield from the people who actually do the labor. You charge the young a toll just to exist on the earth. This creates a biologically toxic relationship between generations. The old hoard the resources, and the young are born into infinite debt. It is parasitic. It is the ultimate manifestation of Entropy.
 
@@ -11,7 +11,8 @@ In a Symbiocracy, we do not tolerate parasites. But we also recognize that biolo
 We solve this through the third beam of the transaction prism: **The Helix (3%)**. 
 
 ### The New Definition of Passive Wealth
-We completely redefine passive wealth. In The Nowland, you do not generate passive income by hoarding a finite resource and excluding others. You generate it by creating an infinite resource and giving it away. 
+
+We completely redefine passive wealth. You do not generate passive income by hoarding a finite resource and excluding others. You generate it by creating an infinite resource and giving it away. 
 
 You write the DNA. 
 
@@ -19,9 +20,10 @@ Let us say you are an Apex Node—a master architect, a brilliant coder, or a hi
 
 In the fiat world, you would patent this workflow, hire lawyers to protect it, and sue anyone who tried to use it without paying an exorbitant upfront fee. You would lock the DNA behind a wall. 
 
-In The Nowland, you upload that workflow to the Stigmergic Board as a public DNA Template. You release it into the wild. 
+Under the Symbiocracy, you upload that workflow to the Stigmergic Board as a public DNA Template. You release it into the wild. 
 
 ### The Physics of the Helix
+
 A month later, a brand new Pod of young builders claims a bounty to install a solar grid in their local Hub. They don't know how to start. They search the Board, find your DNA Template, and use it to execute the work flawlessly in half the time. 
 
 When their `100b` circuit closes, the smart contract recognizes your cryptographic signature woven into the template. The prism fractures. The young Pod receives their 80% (they executed the physical labor), the Hub and their local Pod treasury get their cuts, and **3% automatically routes back to you.**
@@ -29,6 +31,7 @@ When their `100b` circuit closes, the smart contract recognizes your cryptograph
 You did not tax the young Pod. You did not act as their boss. You did not extract from them. You *armed* them. You gave them the exact genetic code they needed to generate Syntropy, and the system rewarded you for being the origin of that order. 
 
 ### Open-Source with Thermodynamic Justice
+
 This is the ultimate evolution of the open-source movement. 
 
 Historically, open-source developers built the foundations of the entire modern internet, yet they starved while massive tech monopolies stole their code and monetized it. The fiat world punished them for being syntropic. 
@@ -36,9 +39,10 @@ Historically, open-source developers built the foundations of the entire modern 
 The Nowland ledger tracks the provenance of ideas mathematically. Because the DNA is cryptographically bound to the transaction, intellectual property is protected not by lawyers, but by physics. The more your templates, designs, and workflows are copied, forked, and utilized by the network, the wealthier you become. 
 
 ### The Co-Uplifting Engine (Eldership)
+
 This mechanism fundamentally rewrites human behavior. It creates the **Co-Uplifting Engine**.
 
-In the fiat Pyramid, a senior manager hoards their knowledge because they are terrified that a younger, faster employee will replace them. The system incentivizes sabotage. 
+Under the old Pyramid, a senior manager hoards their knowledge because they are terrified that a younger, faster employee will replace them. The system incentivizes sabotage. 
 
 In a Symbiocracy, an Elder is financially incentivized to find the youngest, most inexperienced Nodes and ruthlessly uplift them. When a Node falls into the `-4c` Re-Pair protocol, the Elder who steps in to fix their engine writes new, highly efficient DNA into that Node’s workflow. As that repaired Node goes on to generate massive wealth over the next decade, the Elder receives a permanent 3% royalty on that specific workflow. 
 
@@ -47,6 +51,7 @@ We have aligned the selfish desire for wealth with the biological necessity of c
 You do not achieve status in The Nowland by how many people you exclude from your property. You achieve status by how many people are currently eating, surviving, and thriving because they are running your DNA. That is the definition of a true Elder. You become the roots of the forest, quietly feeding the canopy long after you have stopped reaching for the sun yourself.
 
 ### The Natural Dilution (Why the Helix Cannot Create Aristocracy)
+
 A critic from the old world might ask: if the 3% Helix is perpetual, won't early Architects accumulate infinite passive wealth and become the new rent-seekers?
 
 Look at the biology. DNA does not replicate unchanged forever. It mutates, it evolves, and it is remixed by every generation that touches it.
@@ -56,6 +61,7 @@ When a young Pod uses your solar-grid template, you receive 3% of their circuit.
 The next Pod that uses the improved template triggers a *split Helix*. Your original DNA is now diluted by the contributions of every subsequent Architect who improved it. The 3% is divided among all contributors, weighted by the percentage of the workflow they actually authored. Over time, as the template evolves through dozens of iterations, your share of the Helix compresses to a fraction of a fraction.
 
 #### Multi-Layer DNA (How the 3% Actually Splits)
+
 In practice, most work uses *multiple* DNA Templates simultaneously. A young Pod building a mobile app might use an Architect's front-end framework, another Architect's API template, and a third Architect's deployment workflow. When the `100b` circuit closes, the 3% Helix (`3b`) splits across all upstream DNA, proportioned by the contribution of each template to the final deliverable.
 
 Let us say the Pod's work relied 50% on the front-end framework, 30% on the API template, and 20% on the deployment workflow. The `3b` Helix splits: `1.5b` to the front-end Architect, `0.9b` to the API Architect, and `0.6b` to the deployment Architect. If the front-end framework itself was forked from an even earlier template, the `1.5b` splits again between the original creator and the forking Architect, weighted by the percentage of the code each actually wrote.

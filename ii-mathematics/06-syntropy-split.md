@@ -11,6 +11,7 @@ In a Symbiocracy, we do not have taxes. We have physics.
 We replace the violent, delayed extraction of the state with the frictionless, instantaneous laws of optics. In The Nowland, every transaction is a prism. 
 
 ### The Transaction Prism
+
 When you close a circuit—when you execute a bounty and receive `10b` of kinetic energy—that energy does not arrive as a single, blunt force. The moment it hits the smart contract, it acts like a beam of pure white light hitting a glass prism. At the exact millisecond of the exchange, the energy fractures perfectly into five distinct spectrums.
 
 This is the **Syntropy Split**. It is hardcoded into the DNA of the ledger.
@@ -39,7 +40,8 @@ The final two percent routes to the infrastructure that connects Hubs into a liv
 * **1.7% flows to the Grid** — the local-regional federation of Hubs that share geography, supply chains, and mutual aid.
 * **0.3% flows to the NET** — the global network layer that maintains the network connecting all Grids, the routing protocols, the cryptographic identity systems, the global ledger, and the open-source DNA repository.
 
-### The End of the Subsidy
+#### The End of the Subsidy
+
 Look at the thermodynamic elegance of this math. 
 
 `80 + 10 + 5 + 3 + 2 = 100%`
@@ -63,7 +65,7 @@ The zero-sum ledger does not mean "nothing was created." It means no energy appe
 
 No energy is lost. No energy is extracted by a non-producing middleman. There are no accountants required to calculate the split, and no IRS to audit it. It happens at the sub-atomic level of every single trade. 
 
-In the old world, the government has to print debt to subsidize the infrastructure. In The Nowland, **the infrastructure is funded organically simply by humans doing business with each other.** Every time you buy a piece of art, repair a tool, or write a script, your Pod gets stronger, the Hub buys more land, the Architects are rewarded, and the baseline cost of survival drops. 
+Under the old system, the government has to print debt to subsidize the infrastructure. Here, **the infrastructure is funded organically simply by humans doing business with each other.** Every time you buy a piece of art, repair a tool, or write a script, your Pod gets stronger, the Hub buys more land, the Architects are rewarded, and the baseline cost of survival drops. 
 
 You do not have to vote for politicians to build your safety net. You build it automatically, flawlessly, with every action you take.
 

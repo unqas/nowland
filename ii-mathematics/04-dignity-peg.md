@@ -27,15 +27,17 @@ The fiat economy anchors its global wealth to the exact cost of planetary and bi
 If you want to build an economy that cannot collapse, you must change the anchor. You must peg the currency to the literal, physical energy required to sustain human life.
 
 ### The 2b Ethical Meal
+
 In The Nowland, money is not backed by gold, because gold is just a shiny rock you cannot eat. It is not backed by the "full faith and credit" of a government, because governments print money to fund wars. 
 
 Our A-B-C ledger is backed by human metabolism. 
 
-The foundational unit of our economy is the **2b Dignity Peg** (The 2b Ethical Meal). We calculate the exact physical energy required to grow, harvest, prepare, and serve a fully nourishing, ecologically sustainable meal—ensuring that the farmer, the driver, and the chef all receive their full 80% Syntropy split without a single cent of corporate extraction. 
+The foundational unit of our economy is the **2b Dignity Peg** (The 2b Ethical Meal). We calculate the median physical energy required to grow, harvest, prepare, and serve a fully nourishing, ecologically sustainable meal—ensuring that the farmer, the driver, and the chef all receive their full 80% Syntropy split without a single cent of corporate extraction. 
 
 That specific physical reality—one complete unit of human nourishment without exploitation—equals exactly `2b` on the internal ledger. 
 
 ### Scaling the Biological Mathematics
+
 Once you anchor the ledger to this indisputable biological truth, the rest of the math scales flawlessly to secure the entire human organism. 
 
 * If `2b` is one unit of ethical nourishment, then **28b** is your biological fuel for a week. 
@@ -44,6 +46,7 @@ Once you anchor the ledger to this indisputable biological truth, the rest of th
 The `4c` baseline represents exactly one month of absolute, unshakeable biological peace. It is the mathematical threshold where human anxiety dies and human Syntropy begins.
 
 ### The Trattoria Benchmark
+
 To establish the 2b Dignity Peg in the fiat world, we do not use the cheapest possible meal. We use the highest-quality ethical standard: a full meal at a quality trattoria — fresh, locally sourced ingredients, prepared with craft, served with dignity. We cap this at the highest median price among developed nations, which today is approximately €20.
 
 Therefore: `2b ≈ €20`. `1b ≈ €10`.
@@ -64,6 +67,7 @@ Each Hub calibrates its local `2b` within this corridor based on its quarterly t
 When you withdraw through the Airlock, you withdraw at the tax rate and in the currency of the jurisdiction where the fiat was earned. The internal ledger does not carry fiat. It carries biology. The fiat is just the shadow the biology casts on the old world's wall.
 
 ### The Metric System of Energy
+
 The Nowland ledger operates on a strict, metric scale that maps directly to physical time and biological reality:
 
 * `100a = 1b` — One hundred micro-units (*Says*) equal one core unit (*Be*).
@@ -84,6 +88,7 @@ You are not spending abstract numbers. You are navigating the world by spending 
 *(For the complete deep dive into the existential mathematics of the A-B-C currency, see Appendix: The A-B-C Ledger.)*
 
 ### The Death of the Salary
+
 This biological mathematics completely destroys the concept of the "salary" and the "employee."
 
 A salary is an extractive tool. It is a fiat employer buying your time at a fixed, discounted rate, regardless of how much value you actually generate. It divorces your kinetic energy from your reward. If you figure out how to do your job twice as fast, your fiat boss does not double your salary; they just give you twice as much work.

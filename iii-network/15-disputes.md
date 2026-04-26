@@ -42,6 +42,7 @@ Each auditor renders an independent verdict: **Accepted** or **Rejected**. Major
 The auditors are compensated with a fee drawn directly from the losing party, making the audit itself a lucrative form of Syntropy for high-LSS Nodes. Whoever failed, pays the commission.
 
 #### The Appeal Mechanism
+
 If the losing party strongly believes the initial auditors were wrong or failed to understand the context, they can trigger an **Appeal**. This escalates the dispute to a larger, higher-LSS jury. However, the cost of a failed appeal is exponentially higher. This preserves the presumption of innocence and the fundamental right to defend your physical work, while severely penalizing those who weaponize the appeal process as a delay tactic.
 
 ### The Exile Threshold

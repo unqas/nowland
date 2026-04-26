@@ -1,4 +1,4 @@
-# INTRODUCTION: The Hallucination of Fiat
+# Introduction: The Hallucination of Fiat
 
 > **TL;DR:** The modern fiat economy is an entropy machine designed for extraction; The Nowland is a thermodynamic upgrade — a frictionless phase transition back to biological peace and mutual trust.
 

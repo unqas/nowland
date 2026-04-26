@@ -46,6 +46,7 @@ Even before reaching the formalized scale of a Pod or Hub, you can begin establi
 But what happens when a Node simply stalls? What happens when their kinetic energy drops to zero, they consume their 4c baseline, and their internal ledger starts sinking into the negative week after week? 
 
 ### The Re-Pair Protocol
+
 In the fiat corporate world, if you underperform, HR puts you on a "Performance Improvement Plan" to terrorize you, and then fires you. They sever the limb. 
 
 In a Symbiocracy, severing a Node is a catastrophic failure of the network. If your ledger drops below a predetermined safety threshold (for example, `-4c`), the system does not fire you. The system recognizes that your engine has stalled. It deploys its immune response: **The Re-Pair Protocol**.
@@ -53,6 +54,7 @@ In a Symbiocracy, severing a Node is a catastrophic failure of the network. If y
 You are automatically paired with an Elder — an experienced Node with a massive Lifetime Syntropy Score (Chapter 11) — who has proven their ability to diagnose and repair stalled engines. 
 
 ### The SOS Signal
+
 Alternatively, a Node, Pod, or Hub does not have to wait until they crash into the negative. They can explicitly broadcast an **SOS Signal**. This instantly flags the entity on the Stigmergic Board as needing system support or rescue. It creates a massive, high-gravity Vacuum that other Elders or Hubs can solve to earn reputation and Helix. If a Pod or Hub is fundamentally crushed (e.g., by a natural disaster or systemic failure), the SOS signals their readiness for **Biological Re-allocation** — where their surviving Nodes, along with their pristine Lifetime Syntropy Scores, are absorbed into other Hubs that have the surplus capacity to sustain them.
 
 **The Mechanics of Co-Uplifting:**
