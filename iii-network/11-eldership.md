@@ -2,9 +2,9 @@
 
 > **TL;DR:** An Elder is not defined by age but by their Lifetime Syntropy Score — the immutable record of order they have injected into the network. Mentorship is incentivized through three-tier Helix bonds, and the system guarantees biological dignity for those who can no longer perform kinetic labor.
 
-In the fiat world, "seniority" is a function of time. You are promoted because you stayed in the building long enough. The old monopolize the corner offices while the young generate the actual value. When you are too old to be useful, the system discards you onto a state pension — a bureaucratic apology funded by the debt of the next generation.
+Eldership is not about age. It is about **evidence**.
 
-In a Symbiocracy, Eldership is not about age. It is about **evidence**.
+In the fiat world, "seniority" is a function of time — you are promoted because you stayed in the building long enough. The old monopolize the corner offices while the young generate the actual value. When you are too old to be useful, the system discards you onto a state pension — a bureaucratic apology funded by the debt of the next generation. In a Symbiocracy, this logic is inverted.
 
 ### The Lifetime Syntropy Score
 

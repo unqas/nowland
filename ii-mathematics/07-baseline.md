@@ -32,6 +32,8 @@ You do not have to "earn" your baseline survival, because the Hub recognizes tha
 
 > *Imagine waking up on a Tuesday morning knowing that your rent, food, and safety are mathematically secured — not by a corporation's goodwill, but by the surplus you and your closest friends generated last month. You open your laptop not because you must, but because the Vacuum you spotted yesterday is fascinating. Your body is rested. Your mind is clear. There is no anxiety about bills, no dread of performance reviews, no calendar full of meetings that exist only to justify someone else's job. This is what `4c` feels like. This is the biological floor beneath which no Node in the network falls.*
 
+The 4c Baseline is not charity. It is the platform for your response-ability — your ability to respond to reality with full creative agency instead of operating from a place of fear. A system that weaponizes survival forces its participants to outsource their judgment to whoever controls the paycheck. A system that guarantees survival produces sovereign, clear-headed builders who choose their work because it matters, not because starvation is the alternative.
+
 ### Why It Doesn't Become Toxic Welfare
 
 Critics from the old world hear "UBI" and immediately assume the system will collapse under the weight of freeloaders. They assume human beings are inherently lazy, because in the fiat world, work is a miserable extraction of the soul. 

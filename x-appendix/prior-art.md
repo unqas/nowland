@@ -72,6 +72,16 @@ The Nowland stands on the shoulders of a century of experiments. Every predecess
 
 ---
 
+## Teal Organizations — Frederic Laloux (2014)
+
+**What it proved:** Self-managing organizations without hierarchy are not only viable but empirically outperform traditional structures at every scale that was tested. In *Reinventing Organizations*, Laloux documented real companies — Buurtzorg (healthcare, 15,000 nurses), FAVI (automotive, 500 workers), Morning Star (agriculture, $700M revenue) — operating without managers, job titles, or top-down strategic planning. Decisions were made locally by the people closest to the work. Teams self-organized around purpose rather than command.
+
+**Why it stalled:** Teal remained an organizational philosophy trapped inside the fiat economic layer. It proved that flat, self-managing structures work brilliantly within a legal corporate wrapper — but it never escaped the underlying extractive ledger. The currency, the taxation, the shareholder expectations, and the debt-based growth imperative remained unchanged. Teal organizations still paid employees in fiat salaries, still reported to tax authorities as conventional corporations, and still operated inside the thermodynamics of the Pyramid's financial infrastructure. Furthermore, Teal offered no reproducible protocol for scaling the model beyond individual pioneering companies — each implementation was bespoke, making horizontal adoption across an entire network structurally difficult.
+
+**What The Nowland takes:** The empirical proof that meritocratic self-management scales within real organizations. We solve the economic layer problem by running our own ledger underneath the self-managing structure — the Syntropy Split, the Dignity Peg, and the zero-sum mutual credit engine provide the thermodynamic foundation that Teal organizations never had. And we solve the scaling problem with the open-source DNA Template: every proven workflow is published, forkable, and adoptable by any Pod in the network.
+
+---
+
 ## Bitcoin & Ethereum (2009 – present)
 
 **What it proved:** Decentralized, trustless ledgers are technically feasible. Bitcoin demonstrated that a global network of strangers can maintain a shared, immutable record of transactions without a central authority. Ethereum proved that programmable smart contracts can automate complex financial logic on-chain.

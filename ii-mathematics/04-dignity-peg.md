@@ -1,6 +1,8 @@
 # Part II: The Biological Mathematics
 
-*(The mechanics of the machine. The end of the "salary" and the "employee.")*
+***(The mechanics of the machine. The end of the "salary" and the "employee.")***
+
+*Part I gave you the language. Part II gives you the numbers. By the end of this section, you will know exactly how much of your kinetic energy the current system burns — and what a frictionless alternative looks like mathematically. The hardest part is not the math itself. It is the honesty required to look at your own situation and measure it clearly.*
 
 Before we start building the legal membranes and scaling the social layers, we must establish the physical heart of The Nowland: **the thermodynamic ledger.**
 
@@ -85,7 +87,7 @@ When you look at your personal Energy Bank and see `4c, 20b, 80a`, you instantly
 
 You are not spending abstract numbers. You are navigating the world by spending your **A-B-C's** — your Says, your Bes, and your Sees.
 
-*(For the complete deep dive into the existential mathematics of the A-B-C currency, see Appendix: The A-B-C Ledger.)*
+*(For the complete deep dive into the existential mathematics of the A-B-C currency, see Appendix: [The A-B-C Ledger](x-appendix/the-abc-ledger.md)).*
 
 ### The Death of the Salary
 

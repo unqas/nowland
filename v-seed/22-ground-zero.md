@@ -1,10 +1,10 @@
 # Part V: The Seed Protocol
 
-*(The tactical guide for the reader. What to do the moment you close the book.)*
+***(The tactical guide for the reader. What to do the moment you close the book.)***
+
+*Theory without execution is just another hallucination. You now have every piece of the operating system — the language, the mathematics, the architecture, and the shield. Part V is the ignition key: the step-by-step protocol for Day One.*
 
 You have the vocabulary. You understand the biological mathematics. You see the architecture of the network and the legal membrane required to shield it. 
-
-The theory is complete. But theory without execution is just another hallucination. 
 
 When you close this book, you will look around at your current reality—your fiat bank account, your exhausting job, your isolated apartment—and you will likely feel a crushing sense of paralysis. You will ask yourself: *How is one exhausted human being, with no capital, no political power, and no leverage, supposed to build a new civilization?*
 

@@ -4,9 +4,7 @@
 
 If you build an economic system that works perfectly for healthy, productive adults but fails to secure the survival and education of children, you have not built a civilization. You have built a temporary mercenary camp.
 
-In the fiat world, children are treated as absolute economic liabilities until they reach adulthood, at which point they are thrust into the pyramid with massive debt and expected to figure it out.
-
-In a Symbiocracy, children are the future lifeblood of the network. They are not isolated liabilities of their parents; they belong to the Node, the Pod, and the Hub. Their survival and integration into the Stigmergic Board is mathematically codified into the ecosystem.
+In a Symbiocracy, children are the future lifeblood of the network. They are not isolated liabilities of their parents; they belong to the Node, the Pod, and the Hub. Their survival and integration into the Stigmergic Board is mathematically codified into the ecosystem. The fiat world treats children as absolute economic liabilities until they reach adulthood, at which point they are thrust into the Pyramid with massive debt and expected to figure it out. We do the opposite.
 
 ### The Mathematical Allocation for Youth
 

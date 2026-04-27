@@ -12,6 +12,10 @@ You are standing in front of two doors.
 
 This manual is the blueprint for Door Two. You do not need to burn Door One down. You simply walk through Door Two, build the alternative, and let the old world metabolize itself into irrelevance.
 
+If you follow the protocols in this book, you will learn to measure your work in units of human dignity, not corporate debt. You will understand exactly how much of your energy the current system burns — and how to reduce that friction by half. You will build a safety net that does not depend on a government, a boss, or a bank. And you will do it starting with nothing but a notebook, a trusted partner, and the physics of reality.
+
+But first, you will need to accept a single uncomfortable truth: there are no static experts. There is only kinetic energy and dead energy. The moment you stop building — the moment you decide to sit on your legacy and defend your territory — entropy immediately begins pulling you backward. This book is not a destination you arrive at. It is a phase transition you step into.
+
 ---
 
 You are exhausted because you are running inside an engine that violates the laws of physics.

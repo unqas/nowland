@@ -1,6 +1,8 @@
 # Part I: The Vocabulary of the New World
 
-*(If you want to change reality, you must first change the language.)*
+***(If you want to change reality, you must first change the language.)***
+
+*The three words you are about to learn — Symbiocracy, Syntropy, and Consilience — are not jargon. They are lenses. Once you install them, you will never read the news, evaluate a business, or measure your own output the same way again.*
 
 When you use the vocabulary of the old world—*employee, manager, salary, corporation, boss*—you inadvertently drag the friction of that world into the new one. The old words carry a hidden architecture of subservience and extraction. To build a post-fiat civilization, we must install a new semantic operating system. We begin by dismantling the oldest and most inefficient structure in human history: The Pyramid.
 
@@ -10,7 +12,9 @@ When you use the vocabulary of the old world—*employee, manager, salary, corpo
 
 > **TL;DR:** The traditional corporate structure is a thermodynamic "Pyramid" that burns humongous amounts of energy just maintaining its hierarchy; Symbiocracy replaces this with a biological, horizontal framework where competence and mutual survival replace extractive power.
 
-Look at every major institution in the fiat world—governments, mega-corporations, central banks, and academic hierarchies. They all share the exact same geometric shape: The Pyramid. 
+Look at the body you inhabit. There is no "CEO Cell" in your brain dictating exactly how much oxygen a muscle cell in your leg should receive. The human body, the mycelial network of a forest, and the flocking of birds all operate on a vastly superior architectural model: **Distributed Intelligence**. Nature does not build pyramids. 
+
+And yet, every major institution in the modern world — governments, mega-corporations, central banks, and academic hierarchies — shares the exact same geometric shape: The Pyramid. 
 
 The Pyramid is not a natural biological structure; it is a monument to extraction. At the broad base, you have the millions of workers executing the actual kinetic labor. They write the code, harvest the food, lay the bricks, and care for the sick. They generate 100% of the raw, physical energy. 
 
@@ -26,11 +30,7 @@ Conversely, when the top dictates an action to the bottom, the energy required t
 
 ### The Biological Alternative: Symbiocracy
 
-Nature does not build pyramids. 
-
-If your physical body operated like a corporation, it would die in five minutes. There is no "CEO Cell" in your brain dictating exactly how much oxygen a muscle cell in your leg should receive. The human body, the mycelial network of a forest, and the flocking of birds all operate on a vastly superior architectural model: **Distributed Intelligence**.
-
-In The Nowland, we replace the Pyramid with **Symbiocracy**—the governance of mutual survival. 
+In The Nowland, we replace the Pyramid with **Symbiocracy** — the governance of mutual survival. 
 
 Symbiocracy recognizes that the health of the entire organism relies entirely on the autonomous health of its individual cells. It operates on three absolute rules:
 

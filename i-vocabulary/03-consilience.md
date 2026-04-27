@@ -46,5 +46,7 @@ Furthermore, we recognize that the only true "vote" in the fiat world happens at
 
 Truth is not something you vote on at a ballot box. Truth is something you build, and something you continuously fund with your daily choices.
 
+Once you develop this habit — of measuring by reality rather than by rhetoric — you cannot unsee the gap between what the old world claims to deliver and what it actually does. This clarity is not comfortable. It is the beginning of your response-ability: the refusal to outsource your agency, your consumption, or your perception to a system that profits from your confusion.
+
 > ### The Core Principle
 > **You cannot negotiate with gravity.** If a car engine won't start, you don't form a political party to debate its philosophy; you turn a wrench until it runs. The next time your Pod disagrees on a workflow or a design, stop arguing. Build physical prototypes of both options. Test them against reality. Let the thermodynamic efficiency of the prototype declare the winner, and adopt it immediately—even if it wasn't your idea.

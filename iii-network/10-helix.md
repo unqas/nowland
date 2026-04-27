@@ -2,13 +2,11 @@
 
 > **TL;DR:** We redefine passive wealth: instead of hoarding physical assets to extract rent, Elders generate perpetual 3% royalties by open-sourcing highly efficient workflows (DNA) that uplift the entire network.
 
-The fiat economy's ultimate financial dream is rent-seeking.
+The most powerful form of wealth is giving away what you know.
 
-The old world teaches you that the highest pinnacle of success is to acquire a finite asset—a piece of real estate, a software patent, or a corporate monopoly—and build a fence around it. Once the fence is built, you sit back and extract a passive yield from the people who actually do the labor. You charge the young a toll just to exist on the earth. This creates a biologically toxic relationship between generations. The old hoard the resources, and the young are born into infinite debt. It is parasitic. It is the ultimate manifestation of Entropy.
+In a Symbiocracy, you do not generate passive income by hoarding a finite resource and excluding others. You generate it by creating an infinite resource and sharing it freely. The fiat economy teaches the opposite — that the pinnacle of success is to acquire a scarce asset and build a fence around it, extracting a toll from the people who actually do the labor. This creates a parasitic relationship between generations: the old hoard the resources, and the young are born into debt. 
 
-In a Symbiocracy, we do not tolerate parasites. But we also recognize that biological bodies age, and that a thriving society must have a mechanism to support its Elders when they can no longer execute grueling kinetic labor. 
-
-We solve this through the third beam of the transaction prism: **The Helix (3%)**. 
+But biological bodies age, and a thriving society must support its Elders when they can no longer execute grueling kinetic labor. We solve this through the third beam of the transaction prism: **The Helix (3%)**. 
 
 ### The New Definition of Passive Wealth
 

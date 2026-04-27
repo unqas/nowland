@@ -2,11 +2,9 @@
 
 > **TL;DR:** We eliminate corporate managers entirely by using Stigmergy — a biological mechanism where builders autonomously claim work (Vacuums) from a decentralized board, executing it asynchronously based on their own kinetic capacity.
 
-In the fiat world, a "manager" is a symptom of a broken thermodynamic system. 
+Look at a termite mound or an ant colony. They build towering, architectural marvels complete with ventilation shafts, fungal farms, and nurseries. Is there a CEO ant? Is there a middle-manager termite holding a clipboard, conducting performance reviews, or assigning tasks on a Gantt chart? No.
 
-You only need a boss to monitor, threaten, and coerce human beings if the labor you are asking them to perform is inherently meaningless, extractive, and disconnected from their own survival. The Pyramid requires management because it forces humans to act against their own biological instincts. The manager is the friction introduced to overcome the organism's natural resistance to being exploited. 
-
-If you align the work directly with the survival and prosperity of the builder, the need for a boss completely vanishes. In The Nowland, we replace the corporate manager with a biological mechanism that has built the most complex and resilient structures on Earth: **Stigmergy**.
+A "manager" is only required when you force humans to perform work that is inherently meaningless, extractive, and disconnected from their own survival. The manager is the friction introduced to overcome the organism's natural resistance to being exploited. If you align the work directly with the survival and prosperity of the builder, the need for a boss completely vanishes. We replace the corporate manager with the biological mechanism that has built the most complex and resilient structures on Earth: **Stigmergy**.
 
 ### The Physics of the Ant Hill
 

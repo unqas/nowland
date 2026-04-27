@@ -1,7 +1,6 @@
 # Summary
 
 * [The Nowland: The Physics of Symbiocracy](README.md)
-* [The Pocket Guide](POCKET_GUIDE.md)
 
 ## I. Vocabulary (The Head)
 * [Introduction](i-vocabulary/00-introduction.md)
@@ -41,6 +40,9 @@
 
 ## Appendix
 
+### Pocket Guide
+* [The Pocket Guide](POCKET_GUIDE.md)
+
 ### Foundation
 * [7 Laws of Social Syntropy](x-appendix/7-laws-of-social-syntropy.md)
 * [Defining Syntropy](x-appendix/defining-syntropy.md)
@@ -66,6 +68,7 @@
 * [The Inevitable Total War](x-appendix/the-inevitable-total-war.md)
 * [Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md)
 * [Legal Interpretation Guide](x-appendix/legal-interpretation-guide.md)
+* [Global Cooperative Formation Guide](x-appendix/cooperative-formation-guide.md)
 
 ### Closing
 * [Prior Art & Lineage](x-appendix/prior-art.md)
