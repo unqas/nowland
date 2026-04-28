@@ -87,7 +87,7 @@ When you look at your personal Energy Bank and see `4c, 20b, 80a`, you instantly
 
 You are not spending abstract numbers. You are navigating the world by spending your **A-B-C's** — your Says, your Bes, and your Sees.
 
-*(For the complete deep dive into the existential mathematics of the A-B-C currency, see Appendix: [The A-B-C Ledger](x-appendix/the-abc-ledger.md)).*
+*(For the complete deep dive into the existential mathematics of the A-B-C currency, see Appendix: [The A-B-C Ledger](../x-appendix/the-abc-ledger.md)).*
 
 ### The Death of the Salary
 

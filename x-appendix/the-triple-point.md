@@ -2,11 +2,11 @@
 
 *(or, How to Master The Flow)*
 
-> **TL;DR:** The three states of human agency are Intention (Gas), Decision (Liquid), and Action (Solid). When all three coexist in perfect alignment — the Triple Point — internal friction drops to zero and you enter Flow. When they separate, you stall. Diagnose which phase you're stuck in, apply the right medicine — Clarity for intentions, Velocity for decisions, Intensity for actions — and the energy flows.
+> **TL;DR:** The three states of human agency are Vision (Gas), Decision (Liquid), and Action (Solid). When all three coexist in perfect alignment — the Triple Point — internal friction drops to zero and you enter Flow. When they separate, you stall. Diagnose which phase you're stuck in, apply the right medicine — Clarity for vision, Velocity for decisions, Intensity for actions — and the energy flows.
 
 ---
 
-In Chapter 25, we named the most powerful force in human experience: *the Consilience of your intentions, your decisions, and your actions.* When your intention is clear, your decision is fast, and your action is intense, your internal friction drops to zero.
+In Chapter 25, we named the most powerful force in human experience: *the Consilience of your vision, your decisions, and your actions.* When your vision is clear, your decision is fast, and your action is intense, your internal friction drops to zero.
 
 But what happens when they don't align?
 
@@ -14,11 +14,11 @@ To diagnose the breakdown, we borrow one more pattern from the physics we've bee
 
 ---
 
-## The Three States of Intent
+## The Three States of Agency
 
-**Intention is Gas.** It is expansive, formless, and fills whatever mental container you give it. A vision with no boundaries will drift endlessly — exciting, energizing, but incapable of moving objects. Gas has no grip.
+**Vision is Gas.** It is expansive, formless, and fills whatever mental container you give it. A vision with no boundaries will drift endlessly — exciting, energizing, but incapable of moving objects. Gas has no grip. It explores all possibilities of what *could* be.
 
-**Decision is Liquid.** It has direction and volume. It takes the shape of its container — the constraints of your reality, your resources, your timeline — but it flows around obstacles. A decision channels the raw energy of intention into a current. But if the channel is never built, the liquid evaporates back into gas.
+**Decision is Liquid.** The word *decision* comes from the Latin *decidere* — to cut off. It has direction and volume. It takes the shape of its container — the constraints of your reality, your resources, your timeline — but it flows around obstacles. A decision channels the raw energy of vision into a current. But if the channel is never built, the liquid evaporates back into gas.
 
 **Action is Solid.** It has fixed shape, fixed volume, and it displaces other objects when it arrives. A completed task, a shipped product, a physical meal — these are "solid" artifacts that exist in the world regardless of whether anyone is thinking about them. They are structural. They persist. They are the only state that other people can stand on.
 
@@ -28,11 +28,11 @@ To diagnose the breakdown, we borrow one more pattern from the physics we've bee
 
 In thermodynamics, the **Triple Point** is the exact temperature and pressure at which solid, liquid, and gas coexist simultaneously in perfect equilibrium. It is not a range, not a zone — it is a single coordinate of total convergence.
 
-In the human experience, the Triple Point is the state where your Intention, Decision, and Action become indistinguishable. You are not "trying" to do the work — you *are* the work. The gap between wanting, choosing, and executing collapses to zero. This is what psychology calls *Flow* and what we call **Congruence**.
+In the human experience, the Triple Point is the state where your Vision, Decision, and Action become indistinguishable. You are not "trying" to do the work — you *are* the work. The gap between seeing, choosing, and executing collapses to zero. This is what psychology calls *Flow* and what we call **Congruence**.
 
 Two conditions are required to reach the Triple Point:
 
-- **Pressure (Stakes).** Without stakes, your intentions stay as gas — pleasant daydreams with no urgency to condense. Commit publicly. Set a deadline. Put skin in the game. Pressure forces gas to condense.
+- **Pressure (Stakes).** Without stakes, your vision stays as gas — pleasant daydreams with no urgency to condense. Commit publicly. Set a deadline. Put skin in the game. Pressure forces gas to condense.
 - **Temperature (Intensity).** Without internal energy, your decisions freeze — they remain plans on a shelf, never heated enough to flow into action. Passion, curiosity, inspiration, necessity — these are the heat sources that keep the system fluid.
 
 When both conditions are met, the Triple Point emerges. You intend, choose, and build in a single motion. Others cannot explain why your work "hits different" — but the physics are simple: zero internal friction. Every unit of energy reaches the output.
@@ -45,13 +45,13 @@ Most of the time, you are not at the Triple Point. You are stuck in one phase. T
 
 | State | The Ailment | The Medicine | The Symptom |
 |---|---|---|---|
-| **Intention (Gas)** | Confusion, overwhelm, too many ideas | **Clarity** | You can talk for an hour about what you "want to do" but cannot name the single next step. |
+| **Vision (Gas)** | Confusion, overwhelm, too many ideas | **Clarity** | You can talk for an hour about what you "want to do" but cannot name the single next step. |
 | **Decision (Liquid)** | Hesitation, analysis paralysis, endless planning | **Velocity** | You have a plan, a spreadsheet, a strategy deck — and none of them have produced a single artifact. |
-| **Action (Solid)** | Lethargy, inconsistency, grinding without direction | **Intensity** | You are executing tasks, but they feel hollow — disconnected from any larger intention. |
+| **Action (Solid)** | Lethargy, inconsistency, grinding without direction | **Intensity** | You are executing tasks, but they feel hollow — disconnected from any larger vision. |
 
-A critical note on **Velocity**: this is not recklessness. Velocity is the disciplined reduction of the *lag* between a formed intention and a committed decision. It is the refusal to let a good idea sit in the "planning" phase until it evaporates. The Start → Adopt → Stay loop (Chapter 18) is the operational form of Velocity — you do not brainstorm, you walk outside, find the Vacuum, and claim it. A fast decision, even if slightly off-course, maintains the pressure required for solidification. A perfect decision that arrives six months late is gas.
+A critical note on **Velocity**: this is not recklessness. Velocity is the disciplined reduction of the *lag* between a clear vision and a committed decision. It is the refusal to let a good idea sit in the "planning" phase until it evaporates. The Start → Adopt → Stay loop (Chapter 18) is the operational form of Velocity — you do not brainstorm, you walk outside, find the Vacuum, and claim it. A fast decision, even if slightly off-course, maintains the pressure required for solidification. A perfect decision that arrives six months late is gas.
 
-Before you increase your output, diagnose the phase. If you are overwhelmed, more Intensity will break you — you need Clarity. If you are planning endlessly, more Clarity will not help — you already have enough clarity; you need Velocity. If you are grinding without purpose, more Velocity will only accelerate you in the wrong direction — you need to stop, re-clarify your Intention, and restart the loop.
+Before you increase your output, diagnose the phase. If you are overwhelmed, more Intensity will break you — you need Clarity. If you are planning endlessly, more Clarity will not help — you already have enough clarity; you need Velocity. If you are grinding without purpose, more Velocity will only accelerate you in the wrong direction — you need to stop, re-clarify your Vision, and restart the loop.
 
 ---
 
@@ -63,7 +63,7 @@ In physics, matter can sometimes skip a phase entirely. These transitions produc
 
 **Deposition (Gas → Solid).** In physics, gas condenses directly into a solid — like frost forming on a cold window. In life, this is Vision that crystallizes into sudden Action without the adaptive process of decision-making. The "flash in the pan" — a brilliant idea that manifests as an impulsive move, but the result is brittle because no flexible planning supported it. It shatters on first contact with friction.
 
-**The Critical State.** In a phase diagram, the Critical Point is where the distinction between liquid and gas vanishes entirely — you get a Supercritical Fluid. In the social fabric, this is the state where Intention and Decision become indistinguishable but refuse to Solidify. Everyone is talking, everyone is "deciding," but nothing is built. This is the death of every committee, every bureaucracy, and every "strategic planning session" that produces a forty-page document and zero physical output. Without the anchor of Action, the energy has nowhere to go and eventually dissipates as heat — frustration, burnout, organizational decay.
+**The Critical State.** In a phase diagram, the Critical Point is where the distinction between liquid and gas vanishes entirely — you get a Supercritical Fluid. In the social fabric, this is the state where Vision and Decision become indistinguishable but refuse to Solidify. Everyone is talking, everyone is "deciding," but nothing is built. This is the death of every committee, every bureaucracy, and every "strategic planning session" that produces a forty-page document and zero physical output. Without the anchor of Action, the energy has nowhere to go and eventually dissipates as heat — frustration, burnout, organizational decay.
 
 ---
 
@@ -90,7 +90,7 @@ In the social fabric, this maps directly:
 - A person with no track record (all Gas, no Solid) can announce ideas endlessly, but the social fabric does not amplify them. There is nothing to vibrate. No structure, no resonance.
 - A person who has accumulated structural integrity — skills forged through practice, reputation built through consistent delivery, physical assets created through past action — vibrates with a clean, sustained frequency. When that frequency matches the natural frequency of the social environment (a real Vacuum, a genuine need), **Constructive Interference** occurs. Others begin to vibrate with you. Your signal is amplified without additional effort from you. That is how a movement starts.
 
-The secret is the **cleanliness of the vibration**. If your Intention says one thing, your Decisions say another, and your Actions say a third, you generate **Destructive Interference** — the waves cancel each other out. The social fabric absorbs your energy as noise. But when all three phases are aligned (the Triple Point), your vibration is clean, and the fabric amplifies you.
+The secret is the **cleanliness of the vibration**. If your Vision says one thing, your Decisions say another, and your Actions say a third, you generate **Destructive Interference** — the waves cancel each other out. The social fabric absorbs your energy as noise. But when all three phases are aligned (the Triple Point), your vibration is clean, and the fabric amplifies you.
 
 Congruence is not a moral virtue. It is a **structural advantage**. A Congruent Node operating at 60% energy will outperform an Incongruent Node at 100%, because the incongruent one is cancelling their own signal.
 
@@ -104,7 +104,7 @@ This reveals a useful lens for self-diagnosis:
 
 - **Your structural mass (Solid)** is the present-tense accumulation of past investment — skills practiced, relationships maintained, assets built. The more past cycles you have completed, the more inertia you carry, and the harder you are to displace.
 - **Your kinetic flow (Liquid)** is the active energy of the present moment — the decisions you are making right now, the work you are executing today.
-- **Your expansion field (Gas)** is your future-facing potential — the unrealized ideas, the uncommitted energy, the possibilities that fill whatever container you give them.
+- **Your expansion field (Gas)** is your future-facing vision — the unrealized ideas, the uncommitted energy, the possibilities that fill whatever container you give them.
 
 A healthy system has all three in dynamic equilibrium. If you are all Gas (pure potential, zero structural mass), you have nothing to resonate with — your ideas fill the room but move nothing. If you are all Solid (pure legacy, zero flow), you have inertia but no adaptability — and the world changes around you while you stand still.
 
@@ -120,11 +120,11 @@ When you feel stuck, run this diagnostic:
 
 2. **Have I decided, or am I still "considering"?** If still considering → you are stuck in **Liquid**. Medicine: **Velocity**. Set a deadline. Make the call. A 70% decision executed today beats a 95% decision made next month.
 
-3. **Am I executing, but it feels empty or directionless?** If yes → you are stuck in **Solid without Gas**. Medicine: reconnect to your **Intention**. Why did you start this? If the why has changed, change the what.
+3. **Am I executing, but it feels empty or directionless?** If yes → you are stuck in **Solid without Gas**. Medicine: reconnect to your **Vision**. Why did you start this? If the why has changed, change the what.
 
 4. **Am I clear, decided, and executing — and it feels effortless?** You are at the **Triple Point**. Do not analyze it. Do not try to understand it. Stay in the loop. Start → Adopt → Stay.
 
 ---
 
 > ### The Core Principle
-> **Diagnose the phase, apply the medicine.** Your agency exists in three states: Intention (Gas — expansive but formless), Decision (Liquid — directional but adaptable), and Action (Solid — structural and permanent). When all three align, you hit the Triple Point — zero internal friction, clean vibration, maximum resonance. When they separate, you stall. If you are overwhelmed, you need Clarity, not more effort. If you are planning endlessly, you need Velocity, not more analysis. If you are grinding without purpose, reconnect to your Intention. Resonance requires structure, and structure requires time. Build your Solidity through consistent cycles, keep your vibration clean through Congruence, and the social fabric has no choice but to amplify you.
+> **Diagnose the phase, apply the medicine.** Your agency exists in three states: Vision (Gas — expansive but formless), Decision (Liquid — directional but adaptable), and Action (Solid — structural and permanent). When all three align, you hit the Triple Point — zero internal friction, clean vibration, maximum resonance. When they separate, you stall. If you are overwhelmed, you need Clarity, not more effort. If you are planning endlessly, you need Velocity, not more analysis. If you are grinding without purpose, reconnect to your Vision. Resonance requires structure, and structure requires time. Build your Solidity through consistent cycles, keep your vibration clean through Congruence, and the social fabric has no choice but to amplify you.

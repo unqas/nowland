@@ -26,7 +26,7 @@ The same physics govern your work. The more observant you are — the more deepl
 
 **Start** by researching and understanding where and what the Vacuum truly is. **Adopt** the feedback the environment gives you — adapt your approach, refine your process, iterate toward the intended experience. **Stay** in the loop long enough for the compound interest of your learning to take over. You do not become a master in one pass. You become a master by running more loops than anyone else, each time with sharper eyes.
 
-> In thermodynamics, *latent heat* is the energy absorbed during a phase change — water is boiling, but the thermometer does not move. The energy is being spent changing the *state*, not the *temperature*. In the Nowland, an insight works the same way: it is the invisible burst of understanding that transforms a vague Intention (Gas) into a concrete Decision (Liquid). Nothing changes externally, but the internal state has shifted irreversibly. The next cycle of the loop will be qualitatively different. *(See Appendix: [The Triple Point](the-triple-point.md) for the full phase-transition framework.)*
+> In thermodynamics, *latent heat* is the energy absorbed during a phase change — water is boiling, but the thermometer does not move. The energy is being spent changing the *state*, not the *temperature*. In the Nowland, an insight works the same way: it is the invisible burst of understanding that transforms a vague Vision (Gas) into a concrete Decision (Liquid). Nothing changes externally, but the internal state has shifted irreversibly. The next cycle of the loop will be qualitatively different. *(See Appendix: [The Triple Point](the-triple-point.md) for the full phase-transition framework.)*
 
 ## The Experience-Driven Evaluation Loop
 

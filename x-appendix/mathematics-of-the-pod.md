@@ -151,7 +151,7 @@ Apprentices and new Juniors (L0–L1) do not receive legal equity immediately. U
 
 Within the 1:4 constraint, the precise allocation for each Node within a level is not a flat number. It is weighted by three factors: **LSS (Lifetime Syntropy Score)** — your proven track record of cumulative value creation (seniority by output, not by time); **Throughput** — how much energy has flowed through you in the current Hub/Pod; and **Join Date** — how early you committed to the organism. These three factors are multiplied together to produce a **Redistribution Weight** that determines each Node's precise position within their level's range. 
 
-For the full redistribution mechanics, growth stage triggers, and compensation unlocks, see [Appendix: Sharing the Harvest](x-appendix/sharing-the-harvest.md). For the detailed LSS attribution split (80/20 between Executor and Vacuum-creator), see [Appendix: LSS Attribution](x-appendix/lss-attribution.md).
+For the full redistribution mechanics, growth stage triggers, and compensation unlocks, see [Appendix: Sharing the Harvest](sharing-the-harvest.md). For the detailed LSS attribution split (80/20 between Executor and Vacuum-creator), see [Appendix: LSS Attribution](lss-attribution.md).
 
 ### Expanding the Ceiling (Consensus Tuning)
 
@@ -269,7 +269,7 @@ A Pod does not appear fully formed. It grows through five predictable stages —
 
 The progression is organic. You do not recruit to fill a slot — you grow into it. The Junior of today is the Builder of next year. The Apprentice who learned to code on inherited equipment becomes the Architect who designs the Pod's next DNA Template. The circle completes itself not by hiring, but by nurturing.
 
-For the full growth timeline with detailed stage triggers, typical durations, composition, and compensation unlocks, see [Appendix: How to Scale](x-appendix/how-to-scale.md). For the stage-based redistribution rules, see [Appendix: Sharing the Harvest](x-appendix/sharing-the-harvest.md).
+For the full growth timeline with detailed stage triggers, typical durations, composition, and compensation unlocks, see [Appendix: How to Scale](how-to-scale.md). For the stage-based redistribution rules, see [Appendix: Sharing the Harvest](sharing-the-harvest.md).
 
 ## The Multiple Streams Advantage
 

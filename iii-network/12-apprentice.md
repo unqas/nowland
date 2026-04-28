@@ -16,6 +16,8 @@ Because a parent Node with children requires a higher baseline to sustain their 
 
 **2. The Pod Contribution.** The Pod automatically allocates a structural minimum — typically 10% of the total Pod Treasury — specifically to the "Youth Fund." This covers shared child-rearing emergencies, educational software, community activities, and crisis childcare. Every single Node in the Pod contributes to this fund through their standard 10% split, regardless of whether they personally have children.
 
+**Pod Composition & the Youth Fund:** Because Pods are entirely voluntary, they naturally self-select around biological reality. A Pod of five childless digital nomads has very different needs than a Pod of four parents raising six children. The 10% Pod Treasury allocation is structural — but the *internal allocation* of that treasury is decided by Pod consensus. A parent-heavy Pod may route 80% of its treasury to Youth and Baseline Safety. A childless Pod may allocate that same 80% toward rapid infrastructure acquisition, R&D bounties, or shared equipment. The Hub's overarching `4c` baseline protects every child regardless of Pod composition, but the Pod's internal culture decides how heavy the immediate Youth Fund needs to be. No Node is forced to subsidize a life stage that doesn't match their Pod — because they chose that Pod voluntarily.
+
 This means a parent is not fighting a solitary battle. The community materially supports the generational transition because a thriving, educated child mathematically becomes a high-output Battery for the entire Pod in the future. Every `b` invested in a child today is a `c` earned by the organism tomorrow.
 
 #### The Fractional Baseline Breakdown

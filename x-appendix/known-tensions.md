@@ -109,7 +109,13 @@ Each Hub calibrates its local `2b` within this corridor. The internal ledger is 
 
 The core principle: the ledger does not carry fiat. It carries biology. The fiat is just the shadow the biology casts on the old world's wall.
 
-**The Honest Gap:** The Peg Corridor bounds the problem but does not eliminate it. A high-skill Node in a low-cost region still earns the same internal `b` as a Node in a high-cost region, and their local purchasing power at the Airlock remains different. The corridor prevents extreme arbitrage (no Hub can peg `2b` at €2) but does not fully equalize global fiat purchasing power — because equalizing it would require the Nowland to do what the fiat system itself has failed to do for centuries. The first multi-Hub network will generate the data required to refine the corridor bounds and safety mechanisms.
+**The Honest Gap — and the Hidden Engine:** The Peg Corridor bounds the problem but does not eliminate it. A high-skill Node in a low-cost region still earns the same internal `b` as a Node in a high-cost region, and their local purchasing power at the Airlock remains different. The corridor prevents extreme arbitrage (no Hub can peg `2b` at €2) but does not fully equalize global fiat purchasing power — because equalizing it would require the Nowland to do what the fiat system itself has failed to do for centuries.
+
+However, this divergence is not a bug to be fixed — it is a **massive engine for global wealth capture.** Consider the physics: a Berlin client pays €20,000 for a project. A Node in Bali (where `2b` = €10) claims the Vacuum and executes 100 hours of work, earning `400b`. When the Bali Node flushes to fiat at their local peg, they withdraw €2000 — which fully covers their local biological needs. The remaining fiat surplus stays trapped in the Hub/Grid Osmotic Reserve.
+
+In the legacy fiat system, that surplus would be hoarded by a CEO in Berlin who did no actual work. In the Nowland, it goes back to the node or is used to buy physical infrastructure — servers, co-working spaces, farmland — for the benefit of the entire global network. **This is Syntropic Arbitrage:** the Global South helps the Global North extract fiat wealth from the legacy pyramid, channeling it into shared physical assets that benefit every Node in the organism.
+
+Critically, the fiat that funds the withdrawal comes from the Hub where the fiat was **earned** (Berlin), not the Hub where the Node lives (Bali). The Berlin Hub agreed to post the Vacuum at its local rate — the cross-Hub settlement is a legitimate B2B transaction. The first multi-Hub network will generate the data required to refine the corridor bounds, the cross-Hub settlement mechanics, and the reserve allocation rules.
 
 ---
 

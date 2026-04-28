@@ -66,8 +66,8 @@ The Nowland OS fundamentally replaces the extractive language of the old world w
 
 * **Symbiocracy:** The overarching governance model. The governance of mutual survival. Derived from symbiosis — the biological mechanism by which distinct organisms cooperate for mutual benefit. Symbiocracy replaces the Pyramid (top-down extraction) with the Mycelial Grid (lateral energy flow). There are no bosses, only aligned builders. Status is achieved not by hoarding power, but by increasing your proven ability to generate Syntropy that the entire network naturally routes through your frameworks.
 
-* **Triple Point:** The state of personal Congruence where Intention, Decision, and Action coexist in perfect alignment — like the thermodynamic Triple Point where solid, liquid, and gas exist simultaneously. When you reach this state, internal friction drops to zero and the energy flows. *(See Appendix: The Triple Point.)*
+* **Triple Point:** The state of personal Congruence where Vision, Decision, and Action coexist in perfect alignment — like the thermodynamic Triple Point where solid, liquid, and gas exist simultaneously. When you reach this state, internal friction drops to zero and the energy flows. *(See Appendix: The Triple Point.)*
 
-* **Congruence:** The alignment of what you intend, what you decide, and what you do. The personal equivalent of the Triple Point. A Congruent Node generates clean vibration that the social fabric amplifies; an Incongruent Node generates destructive interference that cancels their own signal.
+* **Congruence:** The alignment of what you envision, what you decide, and what you do. The personal equivalent of the Triple Point. A Congruent Node generates clean vibration that the social fabric amplifies; an Incongruent Node generates destructive interference that cancels their own signal.
 
 * **Latent Heat:** The invisible energy spent on changing an internal state (e.g., from confusion to clarity) without visible external output. The mechanism of an insight. You study a problem with no visible progress, then the understanding arrives instantaneously. The latent heat was accumulating with every cycle of the loop.

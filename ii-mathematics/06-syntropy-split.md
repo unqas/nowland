@@ -91,7 +91,7 @@ The principle is simple: **unclaimed allocations always pool at the current high
 
 This means a two-person notebook ledger and a thousand-Node federated Grid run on the *exact same physics* — just at different stages of activation. You do not need to build the full infrastructure to start using the system. You start with a notebook and let the physics grow the skeleton.
 
-*(See Appendix: [Sharing the Harvest](/x-appendix/sharing-the-harvest.md))*
+*(See Appendix: [Sharing the Harvest](../x-appendix/sharing-the-harvest.md))*
 
 ---
 

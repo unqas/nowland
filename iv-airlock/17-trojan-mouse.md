@@ -83,6 +83,8 @@ This is why the Nowland uses the **pessimistic ×2 markup**. When the Hub invoic
 
 This markup is pessimistic by design. In many jurisdictions the actual friction will be lower than 50% — meaning the surplus flows into the treasuries faster than planned. But by planning for the worst case, you never find yourself short when the tax authority comes. (See *Appendix: The Fiat Hallucination Rate* for the exact math across employee, freelancer, and Hub configurations.)
 
+**You are not overcharging.** When you bill ×2, you are charging the exact same rate a traditional B2B agency would charge. A legacy design agency invoices the client €20,000 for a €10,000 project — the 50% margin pays executive salaries, shareholder dividends, and office rent in an expensive city. The client's budget does not change. The only difference is that instead of a fiat CEO hoarding the margin, your Hub's treasury captures it to buy server racks, co-working leases, and farmland. You are not inflating the price; you are redirecting the extraction.
+
 ### The Friction Handled Locally
 
 The beauty of this mechanic is how cleanly it handles the unpredictability of global tax law. The Hub's internal ledger doesn't care whether you live in Germany (19% VAT, 42% PIT) or Australia (10% GST, 32.5% PIT). It burns `1c`. The local friction is handled locally — by your Node entity, using your jurisdiction's rules. The Hub stays clean. The ledger stays zero-sum. The organism stays healthy.
@@ -139,7 +141,7 @@ The following table maps the 4-Tier corporate translation and approximate fricti
 
 The core principle across all jurisdictions is identical: the Hub ingests fiat, the Syntropy Split is processed internally, and the Node encounters the tax friction at the moment of withdrawal — **minimized through the optimization waterfall, not eliminated entirely.** The friction is different; the physics is the same.
 
-**Every Hub must engage a qualified local accountant and cooperative-law attorney before processing its first fiat transaction.** The Membrane is open-source architecture, not legal advice. Build the local DNA, stress-test it with professionals, and share the proven structure with the network. (For the full defensive accounting playbook, see *[Appendix: Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md)*. For the comparative take-home math, see *[Appendix: The Fiat Hallucination Rate](x-appendix/the-hallucination-rate.md)*.)
+**Every Hub must engage a qualified local accountant and cooperative-law attorney before processing its first fiat transaction.** The Membrane is open-source architecture, not legal advice. Build the local DNA, stress-test it with professionals, and share the proven structure with the network. (For the full defensive accounting playbook, see *[Appendix: Tax, Audits & Legal Vulnerabilities](../x-appendix/tax-legal-vulnerabilities.md)*. For the comparative take-home math, see *[Appendix: The Fiat Hallucination Rate](../x-appendix/the-hallucination-rate.md)*.)
 
 ---
 

@@ -225,7 +225,7 @@ The local implementation varies by jurisdiction:
 
 This does not "just happen." The practical path is for Hubs within a Grid to **converge on the same software operators** and **build shared tooling** — a common fintech stack that generates legally compliant tax documents at every tier of the cascade. This creates deflation: each new Hub that joins the shared platform inherits tested SOPs and compliance templates instead of rebuilding from zero. The goal is a single shared "Accounting Pod" per Grid that oversees the API flow, ensures VAT is matched quarterly, and publishes the proven fintech DNA on the Stigmergic Board so every Hub in the network can adopt it.
 
-For the full legal entity mapping across jurisdictions, see *[Appendix: Legal Interpretation Guide](x-appendix/legal-interpretation-guide.md)*. For detailed per-country cooperative formation steps and fintech implementation, see *[Appendix: Global Cooperative Formation Guide](x-appendix/cooperative-formation-guide.md)*.
+For the full legal entity mapping across jurisdictions, see *[Appendix: Legal Interpretation Guide](../x-appendix/legal-interpretation-guide.md)*. For detailed per-country cooperative formation steps and fintech implementation, see *[Appendix: Global Cooperative Formation Guide](../x-appendix/cooperative-formation-guide.md)*.
 
 ### 2. The Financial Shield (Double-Entry Bookkeeping)
 
@@ -246,6 +246,8 @@ The Hub is **2.5x more efficient** at buying reality than an isolated human. By 
 As the Hub matures, its ultimate thermodynamic endpoint is the total absorption of the cost of living into the cost of operation. The Hub operates as an **Internal Supermarket**, buying food, tools, and software at wholesale prices (reclaiming VAT) and providing them to members. It builds apartments and solar grids using its flat-CIT statutory reserves.
 
 Nodes consume this energy by paying a **"Life Subscription"** (a fair-market monthly utility/rent fee) to the Hub from their minimized fiat salary. The state sees a perfectly legal fair-market exchange, avoiding the Benefit-in-Kind tax trap. However, the capital never leaks out to a commercial landlord or corporate supermarket—the equity stays completely held by the Cooperative. This is the holy grail: a modern, decentralized Company Town entirely owned by the workers themselves.
+
+**The Disappearing Airlock:** The Airlock only needs to exist because we are still bridging the gap between the legacy world and the Nowland. Every time the Hub converts fiat into a shared physical asset — a solar grid, a co-working space, a food supply contract — the Airlock shrinks. When the Hub owns the land and the food supply, a Node doesn't need to flush their `10b` to euros to buy a meal. They transfer `10b` directly to the Hub's farming Pod in exchange for the meal. Fiat becomes irrelevant. The ultimate thermodynamic endpoint is not a more efficient tax structure — it is the total elimination of fiat dependency.
 
 #### The Accounting Mechanics: Minimizing Friction
 
@@ -290,9 +292,9 @@ The result: you do not eliminate taxes — you **sequence and structure** them t
 > [!IMPORTANT]
 > **The Profit Trap:** The 10% Pod Treasury and 5% Hub Treasury must be logged as liabilities earmarked for member benefit — not as retained earnings. If the cooperative retains them as profit, they will be taxed as CIT. Your accountant must structure these as member-benefit reserves or patronage allocations.
 >
-> **The Constructive Receipt Risk:** Some tax authorities argue that if you *can* withdraw on demand, you already owe PIT — even if you haven't withdrawn. Your Hub's bylaws must include a formal withdrawal process with documented conditions, so the tax authority cannot classify your internal balance as "already received." See *[Appendix: Tax, Audits & Legal Vulnerabilities](x-appendix/tax-legal-vulnerabilities.md)* for the full defensive accounting playbook.
+> **The Constructive Receipt Risk:** Some tax authorities argue that if you *can* withdraw on demand, you already owe PIT — even if you haven't withdrawn. Your Hub's bylaws must include a formal withdrawal process with documented conditions, so the tax authority cannot classify your internal balance as "already received." See *[Appendix: Tax, Audits & Legal Vulnerabilities](../x-appendix/tax-legal-vulnerabilities.md)* for the full defensive accounting playbook.
 
-The Membrane does not make taxes disappear. It gives you the legal and mathematical structure to reduce friction to the minimum the law allows — the same optimization that every Fortune 500 company uses, but without the extractive hierarchy. You stay inside the law. You play the game strategically. And every euro you save on friction is a euro that builds your physical floor. (For the full comparative math showing employee vs. freelancer vs. Hub Node take-home, see *[Appendix: The Fiat Hallucination Rate](x-appendix/the-hallucination-rate.md)*.)
+The Membrane does not make taxes disappear. It gives you the legal and mathematical structure to reduce friction to the minimum the law allows — the same optimization that every Fortune 500 company uses, but without the extractive hierarchy. You stay inside the law. You play the game strategically. And every euro you save on friction is a euro that builds your physical floor. (For the full comparative math showing employee vs. freelancer vs. Hub Node take-home, see *[Appendix: The Fiat Hallucination Rate](../x-appendix/the-hallucination-rate.md)*.)
 
 ### The Invitation
 
@@ -300,7 +302,7 @@ The Membrane described above is not a turnkey legal structure you can blindly re
 
 Here is the honest truth: **the Nowland OS works even if you pay full tax on every transaction.** The Syntropy Split, the Dignity Peg, the Stigmergic Board, the Helix, the Infinite Deflation — none of these depend on a tax advantage. They depend on the physics of how humans coordinate. The Membrane is a bonus — a way to reduce friction so the organism grows faster. But the organism can grow even in a high-friction environment, simply by being more efficient than the fiat alternative.
 
-Your specific legal reality — your country, your tax code, your employment classification rules — will demand specific adaptations. **We do not give legal advice. We give you the physics.** We invite you to engage qualified accountants and lawyers, study the rules of your own jurisdiction, build your own Syntropic legal structures, and prove via Consilience that they work. Then publish your findings as DNA on the Stigmergic Board so the next Hub doesn't have to start from zero. (For growth-stage guidance, see *[Appendix: How to Scale](x-appendix/how-to-scale.md)*.)
+Your specific legal reality — your country, your tax code, your employment classification rules — will demand specific adaptations. **We do not give legal advice. We give you the physics.** We invite you to engage qualified accountants and lawyers, study the rules of your own jurisdiction, build your own Syntropic legal structures, and prove via Consilience that they work. Then publish your findings as DNA on the Stigmergic Board so the next Hub doesn't have to start from zero. (For growth-stage guidance, see *[Appendix: How to Scale](../x-appendix/how-to-scale.md)*.)
 
 #### The Dual-Physics Principle
 

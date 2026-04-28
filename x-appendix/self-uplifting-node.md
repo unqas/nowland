@@ -53,7 +53,7 @@ Two forces accelerate your trajectory through the Golden Flow:
 
 **Leverage** is your accumulated "Solid" — the Templates, SOPs, Blueprints, and Tools that generate value while you sleep. Every Helix you publish is leverage. Every reusable system you build converts your kinetic energy (time) into structural mass (assets). Over time, your leverage compounds: new Nodes study your Blueprints, build on your DNA, and your 3% Helix royalty flows without additional effort. The Eldership path is not about working harder — it is about converting your personal Syntropy into structural leverage that amplifies the entire network.
 
-*(See Appendix: [The Triple Point](the-triple-point.md) for the full diagnostic of how Intention, Decision, and Action interact.)*
+*(See Appendix: [The Triple Point](the-triple-point.md) for the full diagnostic of how Vision, Decision, and Action interact.)*
 
 ---
 
