@@ -15,29 +15,30 @@ The "Hub" is not a mystical concept; it is a standard, registered legal entity. 
 **Mapping Table:**
 | Nowland Term | Legal/Accounting Translation |
 |---|---|
-| **The Hub** | A registered B2B Cooperative (Co-op) or Multi-member LLC/Holding. Acts as the commercial Escrow and Processing Agency for B2B contracts. |
+| **The Hub** | A registered B2B **Social/Benefit Cooperative** (Co-op) — a single entity with dual legal status. Acts as the commercial Escrow and Processing Agency for B2B contracts. |
 | **The Pod** | A collectively owned Subsidiary LLC (Joint Venture) owned by Node entities via standard equity rules. |
 | **The Node** | A Micro-Corporate Entity (S-Corp, UG, SASU, Ltd) owned 100% by a human. Acts as a supplier/member to the Pod. |
 | **The Membrane** | The parent-subsidiary corporate veil provided by the Hub-Pod-Node cascade. |
 | **The Stigmergic Board** | An independent, non-profit-owned B2B software marketplace (managed at the NET layer). The primary legal defense against disguised employment. |
-| **The Grid (1.7%)** | A regional Nonprofit or Trust holding shared physical IP. Tax-exempt on reinvested surplus. Receives software royalties deductibly. |
-| **The NET (0.3%)** | A global Nonprofit / Foundation maintaining the Stigmergic Board and routing protocols. |
+| **The Grid (1.7%)** | An **Umbrella Cooperative** (*Dachgenossenschaft* in Germany, SCE in the EU). Retains full B2B trading ability. Alternatives: Federation of Cooperatives, Social Enterprise Holding. |
+| **The NET (0.3%)** | A **Foundation** (*Stiftung* / *Fondazione* / *Fondation*) maintaining the Stigmergic Board and routing protocols. The only layer that should be a Foundation. |
 | **The Helix (3%)** | Classified as Intellectual Property Royalties / B2B service fees. |
 
 #### The Global Trojan Mouse Matrix
 For legal entity incorporation, utilize the following 4-Tier translation matrix mapping Nodes to specific jurisdictions:
 
-| Country | Node Structure (Micro-Entity) | Pod Structure (Holding/LLC) | Hub Structure (Membrane) |
-|---|---|---|---|
-| **United States** | **S-Corp / Single-Member LLC** | Multi-Member LLC | Worker Cooperative (Subchapter T) |
-| **United Kingdom** | **Ltd (Private Limited Company)** | LLP or Ltd | Co-operative Society / CIC |
-| **Germany** | **UG (haftungsbeschränkt) / GmbH** | GmbH & Co. KG | Genossenschaft (eG) |
-| **France** | **SASU (Société par actions simplifiée unipersonnelle)**| SAS / SARL | SCOP (Société Coopérative) |
-| **Italy** | **Srls (Società a responsabilità limitata semplificata)**| Srl | Società Cooperativa |
-| **Spain** | **SLU (Sociedad Limitada Unipersonal)** | SL (Sociedad Limitada) | Sociedad Cooperativa |
-| **Japan** | **GK (Gōdō Kaisha)** | GK | Rōdōsha Kyōdō Kumiai |
-| **Singapore** | **Pte Ltd (Private Limited Company)** | Pte Ltd / LLP | Co-operative Society |
-| **Australia** | **Pty Ltd / Sole Trader (ABN)** | Partnership / Pty Ltd | Co-operative |
+| Country | Node Structure (Micro-Entity) | Pod Structure (Holding/LLC) | Hub Structure (Membrane) | Hub Social Status |
+|---|---|---|---|---|
+| **United States** | **S-Corp / Single-Member LLC** | Multi-Member LLC | Worker Cooperative (Subchapter T) | Public Benefit Corporation (PBC) |
+| **United Kingdom** | **Ltd (Private Limited Company)** | LLP or Ltd | Co-operative Society | Community Interest Company (CIC) |
+| **Germany** | **UG (haftungsbeschränkt) / GmbH** | GmbH & Co. KG | Genossenschaft (eG) | Förderzweck eG (social purpose) |
+| **France** | **SASU (Société par actions simplifiée unipersonnelle)**| SAS / SARL | SCOP / SCIC | SCIC (multi-stakeholder) |
+| **Italy** | **Srls (Società a responsabilità limitata semplificata)**| Srl | Società Cooperativa | Società Benefit |
+| **Spain** | **SLU (Sociedad Limitada Unipersonal)** | SL (Sociedad Limitada) | Sociedad Cooperativa | Cooperativa de Iniciativa Social |
+| **Japan** | **GK (Gōdō Kaisha)** | GK | Rōdōsha Kyōdō Kumiai | (status evolving) |
+| **Singapore** | **Pte Ltd (Private Limited Company)** | Pte Ltd / LLP | Co-operative Society | (varies) |
+| **Australia** | **Pty Ltd / Sole Trader (ABN)** | Partnership / Pty Ltd | Co-operative | (varies) |
+| **Canada** | **Federal/Provincial Corp (CBCA/OBCA)** | Corporation with shareholders' agreement | Worker Co-operative (provincial co-op acts) | Community Contribution Company (C3) in BC |
 
 ---
 
@@ -55,7 +56,7 @@ The Pod receives the 90% from the Hub and retains its 10% Treasury for shared pr
 Legally classified as **Statutory Cooperative Reserves** (Hub 5%) or **Retained Corporate Earnings** (Pod 10%). Rather than attempting to "expense" this to dodge taxation, the organism *proudly pays* CIT on this 15%. This instantly sanitizes the money, yielding clean, non-progressive corporate wealth to be invested in community physical assets.
 
 ### D. The 5% (Grid/NET/Helix) — Deductible Fees
-Classified as **Software Licensing Fees** or **Intellectual Property Royalties**. Because the Grid and NET are nonprofits, these fees act as fully deductible corporate expenses for the Hub, neutralizing the final 5% before profit calculation.
+Classified as **Software Licensing Fees** or **Intellectual Property Royalties**. Because the Grid is an Umbrella Cooperative and the NET is a Foundation — both operating as non-profit-seeking infrastructure entities — these fees act as fully deductible corporate expenses for the Hub, neutralizing the final 5% before profit calculation.
 
 ---
 
@@ -64,6 +65,14 @@ Classified as **Software Licensing Fees** or **Intellectual Property Royalties**
 ### Defeating "Constructive Receipt"
 **The Argument:** Internal `c` units are not "cash equivalent." They represent unsettled B2B commercial obligations.
 **The Proof:** The internal ledger functions as a **Mutual Credit Clearing House**. A Node Micro-LLC does not "receive money" personally when a `c` unit is logged. Commercial B2B revenue is only formally realized or accounted for when a milestone or fiscal cycle closes, dictating a consolidated B2B invoice be triggered between corporate entities.
+
+### The "Airline Miles" Classification (Internal Unit Defense)
+**The Argument:** Internal `c` and `b` units are classified as **conditional claims on future community utility** — legally equivalent to corporate reward points or airline miles, not currency.
+**The Proof:** Members do not receive "money" when they earn internal credits. They receive a conditional right to future service from the cooperative, redeemable only through the Airlock withdrawal process. The taxable event is deferred until the credits are "cashed out" through the formal B2B Flush. The Hub aggregates internal trades into **netted B2B invoices** at each fiscal cycle close, converting peer-to-peer exchange into clean, structured supply-chain logistics. This netting mechanism prevents millions of micro-barter events from each triggering a separate taxable transaction.
+
+### The Liability Ledger Defense (Against Unlicensed Banking)
+**The Argument:** The Hub holds **liabilities**, not deposits. Internal `c` units are restricted claims against the cooperative's liability ledger — not transferable cash equivalents.
+**The Proof:** A bank takes deposits from the public and lends them at interest for profit. A cooperative holds internal liabilities owed to its own member-owners and deploys them for the mutual benefit of the membership. Members are not "customers" — they are voting owners who share entrepreneurial risk. This classification must be verified with a financial regulatory attorney before scaling.
 
 ### Defeating "Disguised Employment" (The Parent-Subsidiary Defense)
 **The Argument:** The Hub operates exclusively via parent-subsidiary and B2B corporate logic, legally nullifying employee classification.

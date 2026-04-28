@@ -32,6 +32,8 @@ You do not have to "earn" your baseline survival, because the Hub recognizes tha
 
 > *Imagine waking up on a Tuesday morning knowing that your rent, food, and safety are mathematically secured — not by a corporation's goodwill, but by the surplus you and your closest friends generated last month. You open your laptop not because you must, but because the Vacuum you spotted yesterday is fascinating. Your body is rested. Your mind is clear. There is no anxiety about bills, no dread of performance reviews, no calendar full of meetings that exist only to justify someone else's job. This is what `4c` feels like. This is the biological floor beneath which no Node in the network falls.*
 
+The 4c Baseline is not charity. It is the platform for your response-ability — your ability to respond to reality with full creative agency instead of operating from a place of fear. A system that weaponizes survival forces its participants to outsource their judgment to whoever controls the paycheck. A system that guarantees survival produces sovereign, clear-headed builders who choose their work because it matters, not because starvation is the alternative.
+
 ### Why It Doesn't Become Toxic Welfare
 
 Critics from the old world hear "UBI" and immediately assume the system will collapse under the weight of freeloaders. They assume human beings are inherently lazy, because in the fiat world, work is a miserable extraction of the soul. 
@@ -46,6 +48,7 @@ Even before reaching the formalized scale of a Pod or Hub, you can begin establi
 But what happens when a Node simply stalls? What happens when their kinetic energy drops to zero, they consume their 4c baseline, and their internal ledger starts sinking into the negative week after week? 
 
 ### The Re-Pair Protocol
+
 In the fiat corporate world, if you underperform, HR puts you on a "Performance Improvement Plan" to terrorize you, and then fires you. They sever the limb. 
 
 In a Symbiocracy, severing a Node is a catastrophic failure of the network. If your ledger drops below a predetermined safety threshold (for example, `-4c`), the system does not fire you. The system recognizes that your engine has stalled. It deploys its immune response: **The Re-Pair Protocol**.
@@ -53,6 +56,7 @@ In a Symbiocracy, severing a Node is a catastrophic failure of the network. If y
 You are automatically paired with an Elder — an experienced Node with a massive Lifetime Syntropy Score (Chapter 11) — who has proven their ability to diagnose and repair stalled engines. 
 
 ### The SOS Signal
+
 Alternatively, a Node, Pod, or Hub does not have to wait until they crash into the negative. They can explicitly broadcast an **SOS Signal**. This instantly flags the entity on the Stigmergic Board as needing system support or rescue. It creates a massive, high-gravity Vacuum that other Elders or Hubs can solve to earn reputation and Helix. If a Pod or Hub is fundamentally crushed (e.g., by a natural disaster or systemic failure), the SOS signals their readiness for **Biological Re-allocation** — where their surviving Nodes, along with their pristine Lifetime Syntropy Scores, are absorbed into other Hubs that have the surplus capacity to sustain them.
 
 **The Mechanics of Co-Uplifting:**

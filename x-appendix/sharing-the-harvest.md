@@ -77,7 +77,6 @@ The Perfect Circle requires time to reach. Many Pods will operate as 3–5 membe
 Why six months? Because six months of reserve means the entire Pod can survive a complete economic winter without generating a single unit of new Syntropy. This is the biological equivalent of a tree storing enough sugar in its roots to survive winter. If your roots are full, your canopy can grow tall.
 
 
-
 ## Weight Factors for Redistribution
 
 Within each level, the precise allocation is not a flat number — it is weighted by three factors:

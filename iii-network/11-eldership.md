@@ -2,9 +2,9 @@
 
 > **TL;DR:** An Elder is not defined by age but by their Lifetime Syntropy Score — the immutable record of order they have injected into the network. Mentorship is incentivized through three-tier Helix bonds, and the system guarantees biological dignity for those who can no longer perform kinetic labor.
 
-In the fiat world, "seniority" is a function of time. You are promoted because you stayed in the building long enough. The old monopolize the corner offices while the young generate the actual value. When you are too old to be useful, the system discards you onto a state pension — a bureaucratic apology funded by the debt of the next generation.
+Eldership is not about age. It is about **evidence**.
 
-In a Symbiocracy, Eldership is not about age. It is about **evidence**.
+In the fiat world, "seniority" is a function of time — you are promoted because you stayed in the building long enough. The old monopolize the corner offices while the young generate the actual value. When you are too old to be useful, the system discards you onto a state pension — a bureaucratic apology funded by the debt of the next generation. In a Symbiocracy, this logic is inverted.
 
 ### The Lifetime Syntropy Score
 
@@ -136,13 +136,13 @@ The Voluntary Mentorship Bond transforms knowledge transfer from an altruistic s
 
 ### The Three Faces of Eldership
 
-In the fiat world, "support roles" — medicine, education, mental health — are either underfunded public services or overpriced private luxuries. The Nowland treats them as what they biologically are: **the immune system, the nervous system, and the circulatory system of the organism.**
+The old world treats "support roles" — medicine, education, mental health — as either underfunded public services or overpriced private luxuries. The Nowland treats them as what they biologically are: **the immune system, the nervous system, and the circulatory system of the organism.**
 
 **The Medical Elder.** A Node with deep experience in health, nutrition, or physical therapy does not need to operate a fiat clinic. They publish DNA Templates for wellness protocols, nutrition planning, and injury recovery. They offer Re-Pair interventions for Nodes whose stalls are caused by physical burnout, chronic pain, or poor lifestyle patterns — the root causes that the fiat workplace calls "underperformance" and the Symbiocracy calls "a broken engine that needs repair, not replacement." Every successful intervention generates a Mentorship Bond. Every published wellness template earns standard Helix.
 
-**The Educational Elder.** A Node who has mastered a complex domain — software architecture, regenerative farming, financial engineering — becomes a natural teacher. In the fiat world, expertise is hoarded behind paywalls, university credentials, and corporate NDAs. In the Nowland, the Expert Elder who shares their knowledge most aggressively earns most aggressively. Every Voluntary Mentorship Bond is a teaching contract. Every DNA Template is a published textbook. The incentive to educate is not altruism — it is thermodynamics.
+**The Educational Elder.** A Node who has mastered a complex domain — software architecture, regenerative farming, financial engineering — becomes a natural teacher. Under the Pyramid, expertise is hoarded behind paywalls, university credentials, and corporate NDAs. Here, the Expert Elder who shares their knowledge most aggressively earns most aggressively. Every Voluntary Mentorship Bond is a teaching contract. Every DNA Template is a published textbook. The incentive to educate is not altruism — it is thermodynamics.
 
-**The Mental Health Elder.** Perhaps the most critical role in the network. A Node who understands trauma, emotional regulation, and interpersonal dynamics can intervene when a stall is not about skills or tools, but about the person behind them. The fiat world treats mental health as a luxury or a stigma. The Nowland treats it as engineering — because an anxious, unprocessed human cannot generate Syntropy any more than a broken engine can generate motion. The Mental Health Elder earns Mentorship Bonds the same way the Medical or Educational Elder does. The system does not distinguish between types of repair. All repair is Syntropy.
+**The Mental Health Elder.** Perhaps the most critical role in the network. A Node who understands trauma, emotional regulation, and interpersonal dynamics can intervene when a stall is not about skills or tools, but about the person behind them. The old economy treats mental health as a luxury or a stigma. A Symbiocracy treats it as engineering — because an anxious, unprocessed human cannot generate Syntropy any more than a broken engine can generate motion. The Mental Health Elder earns Mentorship Bonds the same way the Medical or Educational Elder does. The system does not distinguish between types of repair. All repair is Syntropy.
 
 ---
 
@@ -164,7 +164,7 @@ The critical insight: **both the youngest and the oldest Nodes are covered by th
 
 ### The Responsibility Gradient
 
-In the fiat world, responsibility is imposed from above and resented from below. A manager assigns responsibility to an employee who didn't ask for it, creating anxiety without autonomy. When things go wrong, responsibility becomes blame.
+Under the Pyramid, responsibility is imposed from above and resented from below. A manager assigns responsibility to an employee who didn't ask for it, creating anxiety without autonomy. When things go wrong, responsibility becomes blame.
 
 In a Symbiocracy, responsibility is the most valuable thing you can accumulate — because it is the direct path to Eldership.
 

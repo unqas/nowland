@@ -1,4 +1,4 @@
-# INTRODUCTION: The Hallucination of Fiat
+# Introduction: The Hallucination of Fiat
 
 > **TL;DR:** The modern fiat economy is an entropy machine designed for extraction; The Nowland is a thermodynamic upgrade — a frictionless phase transition back to biological peace and mutual trust.
 
@@ -11,6 +11,10 @@ You are standing in front of two doors.
 **Door Two** leads to a system you have never been shown — not because it is new, but because it is dangerous to the architects of Door One. Behind it is an economy anchored to the physical reality of human biology, where your labor is pegged to the exact cost of nourishing your body, where every transaction automatically funds your survival, and where the entire system is designed to make your life *less expensive* with every passing year.
 
 This manual is the blueprint for Door Two. You do not need to burn Door One down. You simply walk through Door Two, build the alternative, and let the old world metabolize itself into irrelevance.
+
+If you follow the protocols in this book, you will learn to measure your work in units of human dignity, not corporate debt. You will understand exactly how much of your energy the current system burns — and how to reduce that friction by half. You will build a safety net that does not depend on a government, a boss, or a bank. And you will do it starting with nothing but a notebook, a trusted partner, and the physics of reality.
+
+But first, you will need to accept a single uncomfortable truth: there are no static experts. There is only kinetic energy and dead energy. The moment you stop building — the moment you decide to sit on your legacy and defend your territory — entropy immediately begins pulling you backward. This book is not a destination you arrive at. It is a phase transition you step into.
 
 ---
 

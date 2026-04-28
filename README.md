@@ -126,4 +126,8 @@ The transition requires infrastructure. The author of the Nowland and the team b
 If reading this book generated Syntropy for you, at this early stage you can support our work and fund its Helix at **[nowland.unqa.net](https://nowland.unqa.net)**.
 
 ---
+
+For a quick reference to all core concepts, terminology, and mathematics, see the **[Pocket Guide](POCKET_GUIDE.md)** at the end of this book.
+
+---
 *Initiated by Shukhrat at UNQA (Genesis Hub).*

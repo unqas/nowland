@@ -2,6 +2,8 @@
 
 *(How humans organize when geography is dead.)*
 
+You now have the vocabulary and the mathematics. You know what Syntropy means, how the ledger works, and why the Dignity Peg anchors everything to biology. The next question is structural: how do real humans organize to make this work? Part III answers with the same principle nature uses — cells form organs, organs form organisms, organisms form ecosystems. Before you build the structure, remember: the structure serves you, not the other way around. If you cannot diagnose your own internal state clearly, no architecture will save you.
+
 The Pyramid relied on physical geography to maintain control. The factory floor and the corporate office were designed as physical panopticons where management could observe, measure, and extract the kinetic energy of the workers. 
 
 When the internet killed geography, the old world panicked. They tried to digitize the panopticon, forcing workers into endless video calls and tracking their keystrokes. But you cannot enforce a physical Pyramid in a digital ether. 
@@ -18,7 +20,7 @@ When a worker first wakes up to the hallucination of the fiat economy, their fir
 
 This is a deadly thermodynamic trap. 
 
-In cellular biology, a single, isolated cell in a harsh environment is incredibly fragile. The fiat freelancer is a lone cell. While they no longer have a boss, they absorb 100% of the friction of the old world. They must handle their own marketing, legal compliance, accounting, and taxation, all while executing the actual work. When they get sick, their income drops to zero. They have not found freedom; they have simply become a one-person Pyramid, burning half their kinetic energy on administrative entropy. 
+In cellular biology, a single, isolated cell in a harsh environment is incredibly fragile. The fiat freelancer is a lone cell. While they no longer have a boss, they absorb 100% of the friction of the old world. They must handle their own marketing, legal compliance, accounting, and taxation, all while executing the actual work. When they get sick, their income drops to zero. They have not found freedom; they have simply become a one-person Pyramid, burning half their kinetic energy on administrative entropy. If you are currently in this position, you already know this feeling. The Pod is the first fix.
 
 In The Nowland, we do not operate as isolated freelancers. We organize into an indestructible, five-tiered atomic structure that mirrors the exact same hierarchy found in every living organism on Earth: the Cell, the Organ, the Organism, the Ecosystem, and the Biosphere.
 
@@ -31,6 +33,8 @@ You are a sovereign biological entity. You are not an employee, and you do not b
 As a Node, your only responsibility is to find Vacuums on the Stigmergic Board, execute the work, and manage your internal ledger. You do not worry about corporate taxes or fiat legalities, because you do not face the outside world alone. You dock into a Pod.
 
 ### 2. The Pod (The Circle / The Organ / The Team)
+
+*The trigger: when getting sick means your income drops to zero.*
 
 A Node on its own is fragile. A Pod is lethal. 
 
@@ -56,13 +60,17 @@ To maintain the population and ensure generational continuity, this atomic unit 
 
 A Node can participate in up to three Pods simultaneously. This allows a builder to diversify their energy across multiple domains — one Pod for software, another for music production, a third for agricultural coordination — without fragmenting their identity. Your cryptographic identity and Lifetime Syntropy Score travel with you across all Pods.
 
+When a Pod outgrows 9 Nodes, it does not bloat — it **fissions** into two autonomous Pods, just as a biological cell divides when it grows too large for efficient nutrient transport. When 3 or more Pods consistently share work and clients, the physics demand a Hub to handle the legal Membrane. This is not a management decision; it is a thermodynamic trigger.
+
 ### 3. The Hub (The Organization / The Community / The Organism)
+
+*The trigger: when fiat contracts exceed what a single Pod can legally manage.*
 
 While the Pod is highly efficient at generating Syntropy, it cannot legally process fiat money without triggering the exact same tax and compliance traps as the isolated freelancer. 
 
 The Pod needs a shield. That shield is The Hub. 
 
-The Hub is the macro-structure. Legally, it is a registered Cooperative (like the German *eG*) or a Holding structure. Multiple Pods operate inside a single Hub, typically housing between **15 and 150 Nodes** — capped at Dunbar's Number (~150–230), the biological limit of stable human relationships. When a Hub approaches this ceiling, it should naturally fission into two autonomous Hubs connected via the Grid, just as a biological cell divides when it grows too large for efficient nutrient transport.
+The Hub is the macro-structure. Legally, it is a registered **Social/Benefit Cooperative** (like the German *Förderzweck eG*, the Italian *Società Cooperativa + Società Benefit*, or the UK *CIC*) — a single entity with dual legal status that organizes worker-owners while being legally mandated to create a public benefit. Multiple Pods operate inside a single Hub, optimally housing **~150 Nodes** — capped at Dunbar's Number (~230), the biological limit of stable human relationships. When a Hub approaches this ceiling, it should naturally fission into two autonomous Hubs connected via the Grid, just as a biological cell divides when it grows too large for efficient nutrient transport.
 
 * **The Airlock:** The Hub is the only entity that touches the old fiat world. It signs the B2B contracts with fiat clients. It holds the central bank account. It absorbs the complex legal liability and tax accounting, acting as a sterile membrane that protects the internal Nodes from the friction of the state. 
 * **The 5% Infrastructure:** The Hub collects the 5% Syntropy Split from every transaction. It uses this macro-treasury to buy the heavy physical assets that no single Pod could afford: data centers, agricultural land, legal retainers, and physical co-working Freespaces. 
@@ -72,9 +80,11 @@ The Hub is where individual survival transforms into collective resilience. A Po
 
 ### 4. The Grid (The Commons / The Ecosystem / The Autonomy)
 
+*The trigger: when the Hub's 5% treasury can fund physical real estate.*
+
 A single Hub can sustain a community of builders. But a community of builders is not yet a civilization. 
 
-The Grid is what happens when multiple Hubs in the same geographic region begin to share physical infrastructure. A Macro Grid can be formed from a **heterogeneous mix of Grids, Hubs, and independent Pods** — it is an ecosystem, not a uniform layer. A Grid can contain smaller sub-Grids, standalone Hubs, and even independent Pods that haven't yet formed a Hub. It is an autonomous community — a town, a village, or an autonomous part of a city — where the participants have collectively acquired the actual means of survival: agricultural land, housing, energy production, water systems, and local manufacturing.
+The Grid is what happens when multiple Hubs in the same geographic region begin to share physical infrastructure. A Macro Grid can be formed from a **heterogeneous mix of Grids, Hubs, and independent Pods** — it is an ecosystem, not a uniform layer. A Grid can contain smaller sub-Grids, standalone Hubs, and even independent Pods that haven't yet formed a Hub. Legally, the Grid operates as an **Umbrella Cooperative** (*Dachgenossenschaft* in Germany, *Société Coopérative Européenne* [SCE] in the EU). The Grid is NOT a nonprofit — it must retain the ability to trade B2B, buy land, sell surplus infrastructure capacity, and distribute patronage dividends back to its member Hubs. In jurisdictions without umbrella cooperative structures, a Federation of Cooperatives or Social Enterprise Holding can serve as the legal wrapper. It is an autonomous community — a town, a village, or an autonomous part of a city — where the participants have collectively acquired the actual means of survival: agricultural land, housing, energy production, water systems, and local manufacturing.
 
 * **Shared Supply Chains:** Hubs within a Grid negotiate joint procurement contracts. A farming Hub grows the food. A tech Hub builds the tools. A construction Hub maintains the Freespaces. Each Hub retains its internal autonomy, but the Grid coordinates the flow of physical resources between them. 
 * **Cross-Hub Mutual Aid:** When a Hub within the Grid faces a localized crisis — a fire, a flood, a regulatory attack — the neighboring Hubs deploy the Macro Re-Pair Bond. The Grid is the first line of community defense. 
@@ -84,6 +94,8 @@ The Grid is what happens when multiple Hubs in the same geographic region begin 
 The Grid is the level where the Infinite Deflation becomes physically visible. You can see the farmland. You can walk through the Freespace. You can taste the difference between the food grown by the community and the plastic-wrapped "products" sold at the fiat supermarket. 
 
 ### 5. The NET (The Network / The Biosphere / The Connection)
+
+*The trigger: when Grids in different regions need to route work and resources to each other.*
 
 The NET is the community nervous system — the global federation of Grids. 
 
@@ -101,8 +113,8 @@ Look at how beautifully this scales.
 | Tier | Biological Analog | Scale | Core Function |
 |---|---|---|---|
 | **Node** | Cell | 1 person | Generate Syntropy (The Source) |
-| **Pod** | Organ | 2–7 people | Execute and secure (The Circle) |
-| **Hub** | Organism | 15–~150 people (Dunbar's cap) | Organize and protect (The Community) |
+| **Pod** | Organ | 2–7 people (optimal 5–7, max 9) | Execute and secure (The Circle) |
+| **Hub** | Organism | ~150 people optimal (Dunbar's cap ~230) | Organize and protect (The Community) |
 | **Grid** | Ecosystem | Mix of Hubs, Pods, sub-Grids in one region | Physical autonomy (The Commons) |
 | **NET** | Biosphere | Global federation of Grids | Universal connection (The Network) |
 
@@ -111,6 +123,19 @@ You (The Node) are free to execute your specific mastery. Your localized surviva
 There is no CEO. There are no middle managers. There is only the fluid, frictionless flow of kinetic energy from the Cell to the Biosphere. We have replaced the brittle, top-down control of the Pyramid with the indestructible, decentralized resilience of the Mycelial Network.
 
 And because each Hub is a fully independent legal entity, each Grid is a fully autonomous community, and each Node retains unconditional Fork rights, the network scales as a federation — not a corporation. Twenty independent 50-Node Hubs will always be more resilient than one monolithic 1,000-Node institution. If one Hub faces regulatory pressure, the rest continue operating untouched, absorbing the lessons and hardening their own Membranes. The whole grows stronger when a part is tested.
+
+#### The Dunbar Fractal: Why Every Assembly is Human-Scale
+
+The network scales infinitely, but governance never does. At every tier, the governance assembly is capped at human-scale — a room of people who can look each other in the eye:
+
+| Tier | Optimal Size | Maximum Size | Governance Assembly |
+|---|---|---|---|
+| **Pod** | 5–7 Nodes | 9 Nodes | Direct trust (all members in the room) |
+| **Hub** | ~150 Nodes | ~230 Nodes (Dunbar's cap) | Hub Assembly: all Pod delegates (~20–30 humans) |
+| **Grid** | ~150 Hubs | Variable | Grid Assembly: 1 delegate per Hub (~150 humans) |
+| **NET** | All Grids | Infinite | NET Assembly: 1 delegate per Grid |
+
+At no point does an idea have to scream over the noise of 5 million people. Each tier sends one delegate to the next. The governance at every level is a room of ≤150–230 people making decisions face-to-face or via real-time video. This is why the organism scales without bureaucracy: the biological limits of human trust are respected at every layer, and the communication overhead never exceeds what a single room of aligned humans can handle.
 
 *(See Appendix: [How to Scale](../x-appendix/how-to-scale.md))*
 

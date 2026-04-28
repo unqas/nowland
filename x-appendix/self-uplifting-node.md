@@ -45,6 +45,16 @@ The ultimate trajectory from Seed to Apprentice to Elder is simple:
 
 By teaching what you just learned, you cement the knowledge and accelerate someone else’s journey while securing your Helix. This is how you transition into a Leader or Elder—a top architect, engineer, and mentor within the network.
 
+## Velocity and Leverage
+
+Two forces accelerate your trajectory through the Golden Flow:
+
+**Velocity** is the reduction of the lag between discovering your Syntropic Core and executing work in it. Do not spend months planning the perfect career pivot. Start → Adopt → Stay. Claim a Vacuum in your Core today, even if the first version is ugly. A 70% execution this week generates more latent heat than a 95% plan delivered next quarter.
+
+**Leverage** is your accumulated "Solid" — the Templates, SOPs, Blueprints, and Tools that generate value while you sleep. Every Helix you publish is leverage. Every reusable system you build converts your kinetic energy (time) into structural mass (assets). Over time, your leverage compounds: new Nodes study your Blueprints, build on your DNA, and your 3% Helix royalty flows without additional effort. The Eldership path is not about working harder — it is about converting your personal Syntropy into structural leverage that amplifies the entire network.
+
+*(See Appendix: [The Triple Point](the-triple-point.md) for the full diagnostic of how Vision, Decision, and Action interact.)*
+
 ---
 
 ## The Perfect Flow of Work Delegation

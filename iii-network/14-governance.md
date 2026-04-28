@@ -2,11 +2,9 @@
 
 > **TL;DR:** We replace political consensus with "Weighted Consent," where decisions are made by those who generate Syntropy, and irreconcilable disputes are resolved not by force, but by biological mitosis (Forking).
 
-In the fiat world, "decentralization" is the dream of the naive, and "flat hierarchy" is a fairy tale that collapses the moment a real decision must be made. Critics of Symbiocracy will seize on this immediately: *"If there is no CEO, who decides what land the Hub buys? Who resolves a deadlock between two Pods? Who sets the strategic direction?"*
-
-These are valid questions. And they deserve a thermodynamic answer.
-
 "No CEO" does not mean "no decisions." It means decisions are made by the people who generate the Syntropy — weighted by their proven track record, not by inherited position, political charisma, or the size of their fiat bank account.
+
+Critics of Symbiocracy will seize on this immediately: *"If there is no CEO, who decides what land the Hub buys? Who resolves a deadlock between two Pods? Who sets the strategic direction?"* These are valid questions. And they deserve a thermodynamic answer.
 
 ### The Weighted Consent Model
 

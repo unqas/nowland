@@ -2,9 +2,9 @@
 
 > **TL;DR:** The fiat economy is loud because it is dying; the Phase Transition is quiet because it is built on the irreversible thermodynamics of trust, open-source mutual credit, and biological Consilience.
 
-The fiat economy is a mess. It screams through the news cycle, the stock tickers, and the endless notifications on your phone, demanding your attention and your kinetic energy. It desperately wants you to believe that its Pyramids are permanent, that its debt is real, and that there is no alternative to the grind of extraction. 
+Do not let the noise intimidate you.
 
-Do not let the noise intimidate you. The noise is just the sound of a thermodynamic engine tearing itself apart. 
+The fiat economy screams through the news cycle, the stock tickers, and the endless notifications on your phone, demanding your attention and your kinetic energy. It desperately wants you to believe that its Pyramids are permanent, that its debt is real, and that there is no alternative to the grind of extraction. But the noise is just the sound of a thermodynamic engine tearing itself apart. 
 
 You have reached the end of this manual, which means you can no longer unsee the hallucination. You now possess the vocabulary of Symbiocracy. You understand the biological mathematics of the 2b Dignity Peg and the 4c Baseline. You see how the transaction prism seamlessly funds the Commons, and you know how to build the legal Membrane to protect your Pod. 
 

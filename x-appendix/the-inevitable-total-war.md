@@ -82,7 +82,7 @@ A fiat military runs on fear, artificial scarcity, and the hallucination of patr
 
 ### 3. The Defender (The Global Pulse)
 
-The defender must realize their culture is not bound to the dirt, but to the indestructible DNA they have uploaded to the global organism. When your thought, your intention, and your physical actions perfectly align, your internal friction drops to zero. A Node operating at zero internal friction fighting for their Pod's survival possesses asymmetrical leverage over a soldier fighting for a fiat paycheck.
+The defender must realize their culture is not bound to the dirt, but to the indestructible DNA they have uploaded to the global organism. When your vision is clear, your decision is fast, and your action is intense, your internal friction drops to zero. A Node operating at zero internal friction fighting for their Pod's survival possesses asymmetrical leverage over a soldier fighting for a fiat paycheck.
 
 *   **Frictionless Support:** Internally, education, medical aid, and resource routing must be seamless. The Grid's facilitation of shared energy must be absolute, ensuring that no defender ever experiences localized scarcity.
 *   **The Engine of Truth:** You must become the global producer of absolute truth. Use decentralized architecture to out-propaganda the attacker entirely. Broadcast undeniable Consilience—raw telemetry, unbreakable logic, and the physical reality of the conflict.
